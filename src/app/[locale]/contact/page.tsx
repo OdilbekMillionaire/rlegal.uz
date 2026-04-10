@@ -44,11 +44,22 @@ export default function ContactPage() {
   } = useForm<FormData>({ resolver: zodResolver(schema) });
 
   const onSubmit = async (data: FormData) => {
-    await new Promise((r) => setTimeout(r, 1500));
-    console.log("Form submission:", data);
-    setSuccess(true);
-    reset();
-    toast.success(t("form.success"));
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data),
+      });
+      if (!res.ok) {
+        const err = await res.json().catch(() => ({}));
+        throw new Error(err.error || "Submission failed");
+      }
+      setSuccess(true);
+      reset();
+      toast.success(t("form.success"));
+    } catch (err) {
+      toast.error(err instanceof Error ? err.message : "Something went wrong. Please email us directly.");
+    }
   };
 
   const INFO_ITEMS = [
