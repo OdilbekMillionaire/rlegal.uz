@@ -1,0 +1,1090 @@
+{
+  "nav": {
+    "services": "Xizmatlar",
+    "caseStudies": "Ishlar",
+    "team": "Jamoamiz",
+    "insights": "Tahlil",
+    "news": "Huquqiy yangiliklar",
+    "faq": "Ko'p so'raladigan savollar",
+    "resources": "Resurslar",
+    "aiAdvisor": "AI Huquqiy Maslahatchi",
+    "caseLaw": "Sud Amaliyoti",
+    "tools": "Huquqiy Vositalar",
+    "settings": "Sozlamalar",
+    "contact": "Aloqa",
+    "consultation": "Konsultatsiya olish",
+    "menu": "Menyu",
+    "close": "Yopish"
+  },
+  "hero": {
+    "badge": "O'zbekistonda ishonchli huquqiy hamkor",
+    "headline1": "Global maqsadlar uchun",
+    "headline2": "Aniq Huquq",
+    "subheadline": "R-Legal Practice xalqaro investorlar, transmilliy korporatsiyalar va o'zbek korxonalariga murakkab chegara oshdi bitimlar, tartibga solish va tijorat nizolarida maslahat beradi.",
+    "cta1": "Konsultatsiya olish",
+    "cta2": "Ishlarimizni ko'rish",
+    "stat1Value": "200+",
+    "stat1Label": "Xalqaro mijozlar",
+    "stat2Value": "$2 mlrd+",
+    "stat2Label": "Maslahatlashilgan bitimlar",
+    "stat3Value": "15+",
+    "stat3Label": "Yillik tajriba",
+    "stat4Value": "5",
+    "stat4Label": "Ish tillari"
+  },
+  "trust": {
+    "title": "Yetakchi tashkilotlar ishonchi",
+    "items": [
+      "Legal 500 tan olingan",
+      "IBA a'zosi",
+      "O'zbekiston Advokatlar Palatasi",
+      "UNCITRAL Arbitraj",
+      "JST doirasida maslahat",
+      "Xorijiy investorlar kengashi"
+    ]
+  },
+  "services": {
+    "title": "Amaliyot sohalari",
+    "subtitle": "O'zbekiston huquqiy muhitining har bir jihatida ixtisoslashtirilgan ekspertiza",
+    "corporate": {
+      "title": "Korporativ huquq va M&A",
+      "description": "Kompaniyalarni ro'yxatdan o'tkazish, aksiyadorlik shartnomalar, qo'shilish va sotib olish, due diligence va korporativ qayta tuzish.",
+      "tags": [
+        "Qo'shma korxonalar",
+        "Due Diligence",
+        "Aksiyadorlik shartnomalari",
+        "Qayta tuzish"
+      ]
+    },
+    "international": {
+      "title": "Xalqaro savdo va investitsiyalar",
+      "description": "To'g'ridan-to'g'ri xorijiy investitsiyalarni tuzish, SEZ bo'yicha navigatsiya, ikki tomonlama investitsiya shartnomalari va chegaralararo bitimlar.",
+      "tags": [
+        "TTI bo'yicha maslahat",
+        "BIT himoyasi",
+        "Erkin iqtisodiy zonalar",
+        "Bozorga kirish"
+      ]
+    },
+    "contract": {
+      "title": "Shartnoma huquqi",
+      "description": "O'zbek huquqi, xalqaro standartlar va gibrid tizimlar bo'yicha murakkab tijorat shartnomalarini ishlab chiqish, ko'rib chiqish va muzokaralar.",
+      "tags": [
+        "Tijorat shartnomalari",
+        "Ta'minot shartnomalari",
+        "Distribyutsiya shartnomalari",
+        "SLA"
+      ]
+    },
+    "labor": {
+      "title": "Mehnat huquqi",
+      "description": "Mehnat shartnomalari, xodimlarni qayta tuzish, HR muvofiqlik, xorijliklar uchun ish ruxsatnomalar va mehnat nizolarini hal qilish.",
+      "tags": [
+        "Ish ruxsatnomalari",
+        "HR muvofiqlik",
+        "Mehnat nizolari",
+        "Ekspat maslahat"
+      ]
+    },
+    "litigation": {
+      "title": "Sud ishlari va arbitraj",
+      "description": "O'zbek sudlarida, xalqaro arbitrajda (ICC, LCIA, UNCITRAL) tijorat nizolarida vakil bo'lish va xorijiy qarorlarni ijro etish.",
+      "tags": [
+        "Tijorat sudlari",
+        "ICC arbitraj",
+        "LCIA",
+        "Ijro etish"
+      ]
+    },
+    "learnMore": "Batafsil",
+    "viewAll": "Barcha xizmatlar"
+  },
+  "achievements": {
+    "title": "So'nggi yutuqlar",
+    "subtitle": "Muhim natijalarga erishish",
+    "viewCase": "Ishni ko'rish"
+  },
+  "caseStudies": {
+    "title": "Ish namunalari",
+    "subtitle": "Haqiqiy muammolar. Strategik yechimlar. O'lchanadigan natijalar.",
+    "challenge": "Muammo",
+    "solution": "Yechim",
+    "result": "Natija",
+    "viewAll": "Barcha ishlar",
+    "filterAll": "Hammasi",
+    "filterCorporate": "Korporativ",
+    "filterFDI": "TTI",
+    "filterLabor": "Mehnat",
+    "filterLitigation": "Nizolar"
+  },
+  "calculator": {
+    "title": "Huquqiy murakkablik kalkulyatori",
+    "subtitle": "Huquqiy masalangiz uchun darhol murakkablik bahosini oling",
+    "step1": "Investitsiya turi",
+    "step2": "Soha",
+    "step3": "Kelib chiqish mamlakati",
+    "step4": "Muddat",
+    "investmentType": {
+      "fdi": "To'g'ridan-to'g'ri xorijiy investitsiya",
+      "jv": "Qo'shma korxona",
+      "ma": "M&A / Sotib olish",
+      "contract": "Tijorat shartnomasi",
+      "dispute": "Nizo / Sud jarayoni"
+    },
+    "sector": {
+      "tech": "Texnologiya",
+      "energy": "Energetika va resurslar",
+      "real-estate": "Ko'chmas mulk",
+      "finance": "Moliyaviy xizmatlar",
+      "manufacturing": "Ishlab chiqarish",
+      "retail": "Chakana savdo"
+    },
+    "timeline": {
+      "urgent": "Shoshilinch (< 1 oy)",
+      "standard": "Standart (1–3 oy)",
+      "planned": "Rejalashtirilgan (3–6 oy)",
+      "strategic": "Strategik (6+ oy)"
+    },
+    "calculate": "Murakkablikni hisoblash",
+    "result": {
+      "low": "Past murakkablik",
+      "medium": "O'rtacha murakkablik",
+      "high": "Yuqori murakkablik",
+      "critical": "Kritik murakkablik"
+    },
+    "cta": "Konsultatsiya olish",
+    "disclaimer": "Bu baho faqat yo'naltiruvchi xususiyatga ega. Aniq huquqiy tahlil uchun biz bilan bog'laning.",
+    "features": {
+      "instant": "3 qadamda murakkablik bahosi",
+      "personalised": "Shaxsiy xizmat tavsiyalari",
+      "timeline": "Huquqiy masalangiz bo'yicha taxminiy muddatlar",
+      "privacy": "Shaxsiy ma'lumotlar to'planmaydi"
+    }
+  },
+  "pulse": {
+    "title": "Tartibga solish monitoringi",
+    "subtitle": "Huquqiy o'zgarishlar biznesga ta'siri nuqtai nazaridan",
+    "readMore": "To'liq tahlil",
+    "impact": "Biznesga ta'siri",
+    "action": "Tavsiya etilgan harakat",
+    "viewAll": "Barcha yangilanishlar",
+    "backToInsights": "Tahlillarga qaytish",
+    "ctaTitle": "Bu mavzu bo'yicha huquqiy maslahat kerakmi?",
+    "ctaSubtitle": "Advokatlarimiz sizning holatinggiz uchun majburiy huquqiy xulosa taqdim etadi.",
+    "ctaBtn": "Konsultatsiyaga yozilish"
+  },
+  "team": {
+    "title": "Jamoamiz",
+    "subtitle": "Xalqaro ta'lim va chuqur mahalliy tajribani birlashtirgan yuqori malakali yuristlar",
+    "yearsExp": "Yillik tajriba",
+    "admittedIn": "Ruxsat berilgan",
+    "languages": "Tillar",
+    "viewProfile": "Profilni ko'rish",
+    "viewAll": "To'liq jamoani ko'rish"
+  },
+  "aiAdvisor": {
+    "title": "AI Huquqiy Maslahatchi",
+    "subtitle": "O'zbekiston qonunchiligiga o'rgatilgan AI bilan darhol huquqiy ma'lumotlar",
+    "badge": "Beta — Professional huquqiy maslahat o'rnini bosa olmaydi",
+    "placeholder": "O'zbek korporativ huquqi, TTI qoidalari, mehnat kodeksi haqida so'rang...",
+    "send": "Yuborish",
+    "newChat": "Yangi suhbat",
+    "recent": "So'nggi suhbatlar",
+    "legalTemplates": "Huquqiy shablonlar",
+    "documentDrafts": "Hujjat tuzish",
+    "legalAdvisor": "Huquqiy maslahatchi",
+    "bookConsultation": "Konsultatsiya olish",
+    "modelSelector": "AI modelini tanlash",
+    "thinking": "O'zbek qonunchiligi tahlil qilinmoqda...",
+    "disclaimer": "Javoblar faqat ma'lumot maqsadida bo'lib, huquqiy maslahat hisoblanmaydi. Rasmiy xulosalar uchun yuristlarimizga murojaat qiling.",
+    "suggestedFollowups": "Qo'shimcha savollar:",
+    "copy": "Nusxa olish",
+    "copied": "Nusxalandi",
+    "retry": "Qayta urinish",
+    "tryAgain": "Yana urinish",
+    "listening": "Tinglayapman… gapiring",
+    "stopListening": "To'xtatish",
+    "dropFile": "Faylni bu yerga tashlang",
+    "dropFileHint": "TXT, PDF, DOCX qo'llab-quvvatlanadi",
+    "inputHint": "Enter — yuborish · Shift+Enter — yangi qator · Fayllarni sudrab tashlash",
+    "clearChat": "Suhbatni tozalash",
+    "exportChat": "Suhbatni yuklab olish",
+    "downloadTxt": ".txt yuklash",
+    "savedMessages": "Saqlangan javoblar",
+    "noSaved": "Hali saqlangan javoblar yo'q",
+    "saveMsg": "Saqlash",
+    "unsaveMsg": "O'chirish",
+    "addContext": "Biznes kontekstini qo'shish",
+    "contextPlaceholder": "Mas.: Biz O'zbekiston EIZ zonalariga kirishni o'rganayotgan nemis ishlab chiqarish kompaniyasimiz...",
+    "contextHint": "Kontekst AIga sizning vaziyatingizga mosroq javoblar berish imkonini beradi",
+    "wordCount": "so'z",
+    "searchChats": "Suhbatlarni qidirish...",
+    "jumpToBottom": "Oxiriga o'tish",
+    "contextActive": "Kontekst faol",
+    "tokenEstimate": "Kontekst",
+    "tone": {
+      "label": "Javob uslubi",
+      "formal": "Rasmiy",
+      "concise": "Qisqa",
+      "detailed": "Batafsil"
+    },
+    "toneHint": {
+      "formal": "Professional huquqiy yozuv uslubi",
+      "concise": "Qisqa va aniq javoblar",
+      "detailed": "Chuqur tahlil"
+    },
+    "quickPrompts": {
+      "fdi": "O'zbekistonga xorijiy to'g'ridan-to'g'ri investitsiya qilish uchun qanday talablar bor?",
+      "company": "Xorijlik sifatida O'zbekistonda kompaniya qanday ro'yxatdan o'tkaziladi?",
+      "labor": "O'zbekiston Mehnat kodeksining asosiy qoidalari nimalardan iborat?",
+      "dispute": "O'zbekistonda tijorat arbitraji qanday ishlaydi?",
+      "tax": "O'zbekiston erkin zonalardagi investorlar uchun qanday soliq imtiyozlari mavjud?"
+    },
+    "modes": {
+      "fast": {
+        "label": "Tez",
+        "desc": "Tezkor javoblar"
+      },
+      "balanced": {
+        "label": "Muvozanat",
+        "desc": "Ko'p hollarda"
+      },
+      "deep": {
+        "label": "Chuqur tahlil",
+        "desc": "Murakkab masalalar"
+      }
+    },
+    "thinkingMessages": [
+      "O'zbekiston qonunchiligi tahlil qilinmoqda...",
+      "Tegishli huquqiy maqolalar ko'rib chiqilmoqda...",
+      "2026 yil o'zgartirishlari tekshirilmoqda...",
+      "Xalqaro standartlar bilan taqqoslanmoqda...",
+      "Fuqarolik va Soliq kodeksi normalari o'rganilmoqda...",
+      "Huquqiy tahlil tayyorlanmoqda..."
+    ],
+    "followUpBank": [
+      "Qoidabuzarlik uchun qanday jarimalar mavjud?",
+      "Qanday hujjatlar talab etiladi?",
+      "Bu jarayon odatda qancha vaqt oladi?",
+      "2026 yil o'zgartirishlarida nima yangilandi?",
+      "Amaliy bosqichma-bosqich qo'llanma bera olasizmi?",
+      "Qanday xatarlardan xabardor bo'lishim kerak?",
+      "Bu xalqaro amaliyot bilan qanday farqlanadi?",
+      "Birinchi qadamim qanday bo'lishi kerak?",
+      "Istisnolar yoki maxsus holatlar bormi?",
+      "Oddiy tilda tushuntira olasizmi?"
+    ],
+    "templates": [
+      {
+        "icon": "🔍",
+        "label": "NDA tahlili",
+        "prompt": "O'zbekiston qonunchiligiga ko'ra maxfiylik shartnomasi (NDA) asosiy bandlarini tahlil qiling. Xorijiy kompaniya nimaga e'tibor berishi kerak, qaysi bandlar ijro etilishi mumkin va nima muzokaraga kiritilishi kerak?"
+      },
+      {
+        "icon": "🏢",
+        "label": "Kompaniyani ro'yxatdan o'tkazish",
+        "prompt": "2025 yilda xorijiy investor sifatida O'zbekistonda MChJ ro'yxatdan o'tkazishning to'liq bosqichma-bosqich jarayonini tushunting. Talab qilinadigan hujjatlar, yig'imlar, muddatlar va keng tarqalgan xatolarni kiriting."
+      },
+      {
+        "icon": "🌍",
+        "label": "TTI strukturasi",
+        "prompt": "Xorijiy investor O'zbekistonga investitsiyasini qanday tuzilmalash kerak — huquqiy himoya va soliq samaradorligini maksimal darajada ta'minlash uchun? MChJ, qo'shma korxona, filial va vakilxona variantlarini taqqoslang."
+      },
+      {
+        "icon": "👷",
+        "label": "Mehnat ruxsatnomasi",
+        "prompt": "O'zbekistonda xorijiy xodimlar uchun mehnat ruxsatnomasi va yashash ruхsati olishning to'liq jarayonini tushunting. Hujjatlar talablari, kvotalar, muddatlar va ish beruvchi majburiyatlarini kiriting."
+      },
+      {
+        "icon": "⚖️",
+        "label": "Nizolarni hal etish",
+        "prompt": "O'zbekistonni o'z ichiga olgan xalqaro tijorat nizolarini hal etishning eng yaxshi usullari qanday? Mahkamalar, MKAS, ICC, LCIA va UNCITRAL ni ijro etilishi va narxi nuqtai nazaridan taqqoslang."
+      },
+      {
+        "icon": "💰",
+        "label": "Soliq optimizatsiyasi",
+        "prompt": "O'zbekistonda xorijiy kompaniyalar uchun soliq tizimini tushunting: korporativ daromad solig'i, QQS, dividendlarga chegirma solig'i, IT park va EIZ imtiyozlari, ikki soliqdan ozod qilish shartnomalari."
+      },
+      {
+        "icon": "🤝",
+        "label": "QoSh himoyasi",
+        "prompt": "O'zbekistondagi investitsiyamni qaysi Ikki tomonlama investitsiya shartnomalari himoya qiladi? Ular qanday ISDS huquqlarini beradi? O'zbekiston imzolagan eng qulay shartnomalar ro'yxati."
+      },
+      {
+        "icon": "📊",
+        "label": "Due Diligence tekshiruvi",
+        "prompt": "Xorijiy investor O'zbekistonda kompaniya sotib olishdan oldin qanday huquqiy tekshiruv o'tkazishi kerak? Korporativ, soliq, tartibga solish va mehnat xatarlarini qamrab olgan to'liq chek-list."
+      },
+      {
+        "icon": "🏗️",
+        "label": "Ko'chmas mulk va yer",
+        "prompt": "Xorijiylar O'zbekistonda ko'chmas mulk yoki yer foydalanish huquqini olishdagi huquqiy cheklovlar va tartiblar qanday? Ijara vs egalik huquqi, investitsion mulk qoidalari va asosiy xatarlar."
+      },
+      {
+        "icon": "🔒",
+        "label": "Muvofiqlik va tartibga solish",
+        "prompt": "O'zbekistonda xorijiy kompaniyalar uchun muvofiqlik talablari qanday? Korrupsiyaga qarshi qonunlar, valyuta nazorati, ma'lumotlarni himoya qilish, bojxona qoidalari va majburiy hisobot talablarini qamrab oling."
+      }
+    ],
+    "drafts": [
+      {
+        "icon": "📄",
+        "label": "Mehnat shartnomasi",
+        "prompt": "O'zbekistonning Mehnat kodeksiga to'liq mos holda xorijiy MChJdagi yuqori darajali menejer uchun keng qamrovli mehnat shartnomasi tuzing. Kiriting: sinov muddati, ish haqi (so'm va USD da), ish vaqti, yillik ta'til (21 kun), shartnomani bekor qilish asoslari (MK 100-modda), maxfiylik va raqobat taqiqi. Imzoga tayyor professional format."
+      },
+      {
+        "icon": "🤝",
+        "label": "NDA shartnomasi",
+        "prompt": "O'zbekistonda oldindan investitsion tekshiruv o'tkazayotgan ikki kompaniya o'rtasida ikki tomonlama Maxfiylik Shartnomasi (NDA) tuzing. Kiriting: maxfiy ma'lumot ta'riflari, ochiqlashtirish majburiyatlari, ruxsat etilgan foydalanish, istisnolar, 3 yillik muddat, tugagandan so'ng ma'lumotni qaytarish/yo'q qilish, qo'llaniladigan huquq (O'zR), arbitraj (Toshkent Iqtisodiy Sudi), imzo bloklari. Professional format."
+      },
+      {
+        "icon": "🏢",
+        "label": "MChJ Nizomi (Ustav)",
+        "prompt": "Bitta xorijiy asoschili O'zbekiston MChJ ning to'liq Nizomini tuzing. Kiriting: to'liq nomi (o'zbekcha/ruscha), yuridik manzil, faoliyat turlari (IFUT kodlari), ustav kapitali, asoschi huquq va majburiyatlari, Umumiy yig'ilish tartibi, Direktor vakolatlari, foyda taqsimlash, tugatish. O'zR MChJ to'g'risidagi Qonun № 562-II ga muvofiqligi."
+      },
+      {
+        "icon": "📋",
+        "label": "Xizmat ko'rsatish shartnomasi",
+        "prompt": "Xorijiy kompaniya (Buyurtmachi) va o'zbek konsalting firmasi (Xizmat ko'rsatuvchi) o'rtasida professional xizmatlar shartnomasi tuzing. Kiriting: xizmat predmeti, natijalar va qabul qilish tartibi, to'lov (USD, 10 kun ichida bank o'tkazmasi), IP egaligi, javobgarlik chegarasi, maxfiylik, bekor qilish (30 kun ogohlantrish), force majeure, qo'llaniladigan huquq (O'zR, ICC arbitraji). Imzoga tayyor format."
+      },
+      {
+        "icon": "🌍",
+        "label": "Qo'shma korxona shartnomasi",
+        "prompt": "Xorijiy investor (50%) va o'zbek kompaniya (50%) o'rtasida O'zbekistonda yangi MChJ tashkil etish uchun Qo'shma Korxona Shartnomasini tuzing. Kiriting: maqsad va predmet, kapitalga hissalar, Kuzatuv Kengashi (2+2 + mustaqil rais), yagona ovoz talab qiladigan masalalar, foyda taqsimlash, raqobat taqiqi, put/call mexanizmi, tag-along/drag-along, tiqilib qolish holatlari, qo'llaniladigan huquq (O'zR, UNCITRAL arbitraji). Professional format."
+      },
+      {
+        "icon": "🏗️",
+        "label": "Ijara shartnomasi",
+        "prompt": "Mahalliy mulk egasi (Ijaraga beruvchi) va xorijiy kompaniya (Ijarachi) o'rtasida O'zbekistonda tijorat ko'chmas mulkiga ijara shartnomasini tuzing. Kiriting: ob'ekt tavsifi, ijara muddati (5 yil, yangilash opsiyasi bilan), oylik ijara haqi USD da (yillik 5% indeksatsiya), kafolat depoziti (3 oy), ruxsat etilgan foydalanish, yaxshilash huquqlari, texnik xizmat, sug'urta, muddatidan oldin bekor qilish, qo'llaniladigan huquq. Professional format."
+      }
+    ],
+    "models": {
+      "claude-sonnet-4-6": "Nozik huquqiy mulohaza va ajoyib manba aniqligiga ega",
+      "gpt-4o": "Ko'p tilli kuchli imkoniyatlar bilan keng huquqiy tahlil",
+      "gpt-4o-mini": "Tezkor huquqiy so'rovlar va hujjat xulosalari uchun",
+      "gemini-2_5-pro": "Google'ning eng kuchli modeli — butun hujjatlar ustida chuqur huquqiy tahlil",
+      "gemini-2_0-flash": "Real vaqtli huquqiy so'rovlar uchun ultra tez multimodal javoblar",
+      "mistral-large": "Rus va O'zbek tillarini a'lo darajada qo'llab-quvvatlash bilan yuqori darajali huquqiy tahlil",
+      "llama-3_3-70b": "Open-source model — Groq orqali eng tez xulosalar"
+    },
+    "uploadDoc": "Hujjat yuklash",
+    "copyResponse": "Nusxa olish",
+    "regenerate": "Qayta yaratish",
+    "features": {
+      "multilingual": "EN, RU, UZ tillarida javob beradi",
+      "legislation": "O'zbekiston huquq bazasi",
+      "models": "5 AI modeli",
+      "streaming": "Real vaqtli uzatish"
+    },
+    "format": {
+      "label": "Format",
+      "auto": "Standart",
+      "opinion": "Huquqiy xulosa",
+      "summary": "Qisqacha",
+      "assessment": "Xavf baholash",
+      "opinionDesc": "Faktlar → Qonun → Tahlil → Xulosa",
+      "summaryDesc": "Huquqchi bo'lmaganlar uchun 3–5 band",
+      "assessmentDesc": "Xavf darajasi + tavsiyalar"
+    }
+  },
+  "entityComparison": {
+    "badge": "Taqqoslash vositasi",
+    "title": "Qaysi biznes tuzilmasi siz uchun to'g'ri?",
+    "subtitle": "O'zbekistondagi xorijiy investorlar uchun mavjud har bir yuridik shaxs turidagi asosiy parametrlarni solishtiring",
+    "feature": "Parametr",
+    "ctaText": "Qaysi tuzilma investitsiyangiz uchun mos ekanligini bilmayapsizmi? Korporativ advokatlarimiz maslahat beradi.",
+    "ctaButton": "Shaxsiy maslahat olish",
+    "rowLabels": {
+      "minCapital": {
+        "label": "Minimal kapital",
+        "info": "Kompaniya tashkil etishdagi ustav kapitali"
+      },
+      "foreignOwnership": {
+        "label": "100% xorijiy mulk"
+      },
+      "legalPersonality": {
+        "label": "Alohida yuridik shaxs"
+      },
+      "liability": {
+        "label": "Cheklangan javobgarlik",
+        "info": "Asoschillar / aksiyadorlar kompaniya qarzlaridan himoyalangan"
+      },
+      "canTrade": {
+        "label": "Daromad olishi mumkin"
+      },
+      "formationTime": {
+        "label": "Ro'yxatdan o'tish muddati"
+      },
+      "taxRate": {
+        "label": "Korporativ daromad solig'i"
+      },
+      "canHireForeign": {
+        "label": "Xorijiy xodimlar yollash"
+      },
+      "bankAccount": {
+        "label": "UZS bank hisobi"
+      },
+      "fezEligible": {
+        "label": "EIZ / IT Park huquqi"
+      },
+      "registrationBody": {
+        "label": "Ro'yxatdan o'tish organi"
+      },
+      "complexity": {
+        "label": "Tashkil etish murakkabligi"
+      }
+    },
+    "entities": {
+      "llc": {
+        "name": "MChJ (Mas'uliyati Cheklangan Jamiyat)",
+        "local": "МЧЖ",
+        "short": "MChJ"
+      },
+      "jsc": {
+        "name": "AJ (Aksiyadorlik Jamiyati)",
+        "local": "АЖ",
+        "short": "AJ"
+      },
+      "branch": {
+        "name": "Filial",
+        "local": "Филиал",
+        "short": "Filial"
+      },
+      "rep": {
+        "name": "Vakilxona",
+        "local": "Представительство",
+        "short": "Vakil."
+      }
+    },
+    "partialLabel": "Qisman",
+    "cellStrings": {
+      "minCapital": {
+        "llc": "Yo'q (2019-yil islohoti)",
+        "jsc": "400× BHM (~$8K)",
+        "branch": "Yo'q",
+        "rep": "Yo'q"
+      },
+      "formationTime": {
+        "llc": "3–7 kun",
+        "jsc": "2–4 hafta",
+        "branch": "4–8 hafta",
+        "rep": "4–8 hafta"
+      },
+      "taxRate": {
+        "llc": "15% (standart)",
+        "jsc": "15% (standart)",
+        "branch": "15%",
+        "rep": "Soliq solinmaydi"
+      },
+      "registrationBody": {
+        "llc": "Adliya vazirligi",
+        "jsc": "Adliya vazirligi",
+        "branch": "Adliya + Tashqi ishlar vazirligi",
+        "rep": "Adliya + Tashqi ishlar vazirligi"
+      },
+      "complexity": {
+        "llc": "Past",
+        "jsc": "O'rtacha",
+        "branch": "O'rta-yuqori",
+        "rep": "O'rta-yuqori"
+      }
+    }
+  },
+  "news": {
+    "title": "Huquqiy yangiliklar",
+    "subtitle": "O'zbekistonning rivojlanayotgan huquqiy va biznes muhitidan xabardor bo'ling",
+    "search": "Yangiliklarni qidirish...",
+    "filterAll": "Barcha mavzular",
+    "filterBusiness": "Biznes",
+    "filterLegal": "Huquqiy yangilanishlar",
+    "filterEconomy": "Iqtisodiyot",
+    "filterPolitics": "Siyosat va tartibga solish",
+    "filterTechnology": "Texnologiya",
+    "filterInvestment": "Investitsiyalar",
+    "noResults": "Yangiliklar topilmadi. Boshqa qidiruv yoki filtrni sinab ko'ring.",
+    "readFull": "To'liq o'qish",
+    "source": "Manba",
+    "publishedAt": "Chop etilgan",
+    "loading": "So'nggi yangiliklar yuklanmoqda...",
+    "errorLoad": "Yangiliklarni yuklashda xato. Qayta urinib ko'ring.",
+    "langFilter": "Til",
+    "langAll": "Barcha tillar",
+    "langEn": "Inglizcha",
+    "langRu": "Ruscha",
+    "sortBy": "Saralash",
+    "sortNewest": "Avval yangilari",
+    "sortRelevant": "Eng dolzarblari"
+  },
+  "faq": {
+    "title": "Ko'p so'raladigan savollar",
+    "subtitle": "O'zbekistonda biznes yuritish bo'yicha eng ko'p beriladigan huquqiy savollarga aniq va vakolatli javoblar",
+    "searchPlaceholder": "Savollarni qidirish...",
+    "noResults": "So'rovingizga mos savollar topilmadi. Boshqa kalit so'z bilan qidiring yoki kategoriyani tanlang.",
+    "cta": "Savollaringiz qoldimi?",
+    "ctaSubtitle": "Advokatlarimiz aniq huquqiy maslahat berishga tayyor.",
+    "bookConsultation": "Konsultatsiyaga yozilish",
+    "categories": {
+      "all": "Barcha savollar",
+      "corporate": "Korporativ huquq",
+      "investment": "Investitsiyalar",
+      "labor": "Mehnat huquqi",
+      "taxation": "Soliqlar",
+      "arbitration": "Arbitraj",
+      "contract": "Shartnoma huquqi",
+      "compliance": "Komplaens",
+      "realestate": "Ko'chmas mulk"
+    },
+    "items": [
+      {
+        "category": "corporate",
+        "question": "Xorijiy yuridik shaxs sifatida O'zbekistonda kompaniya qanday ro'yxatdan o'tkaziladi?",
+        "answer": "Xorijiy shaxslar O'zbekistonda bir nechta huquqiy shaklda ro'yxatdan o'tishi mumkin: MChJ (Mas'uliyati Cheklangan Jamiyat), AJ (Aksiyadorlik Jamiyati) yoki filial/vakolatxona. Jarayon: ustav, xorijiy yuridik shaxs tasdiqlovchi hujjatlar, bank ko'chirmalari topshirish va Yagona davlat reestri orqali davlat bojlarini to'lash. Ro'yxatdan o'tish odatda 3–7 ish kunini oladi. Filial va vakolatxona tashkil etish MID yoki Adliya vazirligida qo'shimcha akkreditatsiya talab qiladi. To'liq muvofiqlikni ta'minlash uchun huquqiy yordam olishni qat'iy tavsiya etamiz."
+      },
+      {
+        "category": "corporate",
+        "question": "O'zbekistonda MChJ uchun minimal ustav kapital miqdori qancha?",
+        "answer": "2019 yilgi islohotlardan beri O'zbekistonda MChJ uchun minimal ustav kapital talabi bekor qilingan. Biroq ustav kapital ro'yxatdan o'tgan kundan boshlab bir yil ichida to'liq kiritilishi shart. Ochiq aksiyadorlik jamiyatlari (AJ) uchun minimal miqdor 400 ta bazaviy hisob-kitob miqdorini (BHM) tashkil etadi. Ustav kapital korporativ boshqaruvning asosiy parametri bo'lib, ishtirokchilar o'rtasida ovoz berish huquqlari va foyda taqsimotini belgilaydi."
+      },
+      {
+        "category": "corporate",
+        "question": "O'zbekistonda M&A bitumlari uchun qanday talablar mavjud?",
+        "answer": "O'zbekistondagi birlashish va qo'shib olish bitismlari bir nechta tartibga soluvchi bosqichlarni talab qiladi: (1) qonuniy chegaradan oshsa, Monopoliyaga qarshi qo'mitadan ruxsat olish; (2) tartibga solinadigan tarmoqlar — bank, sug'urta, telekommunikatsiya uchun tarmoq ruxsatnomalari; (3) xususiylashtirish bilan bog'liq bitumlarda Davlat aktivlarini boshqarish agentligini (DABA) xabardor qilish; (4) strategik tarmoqlardagi bitumlarda xorijiy investitsiyalarni ko'rib chiqish. Majburiy hujjatlarni imzolashdan oldin huquqiy, moliyaviy va soliq jihatdan keng qamrovli tekshiruv o'tkazish tavsiya etiladi."
+      },
+      {
+        "category": "corporate",
+        "question": "Vakolatxonani to'liq MChJga qanday aylantirish mumkin?",
+        "answer": "Vakolatxonani operatsion MChJga aylantirish ko'p bosqichli jarayon: (1) Adliya vazirligiga hujjat topshirish va soliq hisobidan o'chirish orqali vakolatxonani rasman tugatish; (2) MChJ to'g'risidagi Qonun (№ 562-II) asosida yangi MChJ ro'yxatdan o'tkazish; (3) vakolatxonadan MChJga aktivlar va shartnomalarni o'tkazish; (4) barcha litsenziyalar, ruxsatlar va tartibga soluvchi tasdiqlashlarni MChJ nomiga qayta rasmiylashtirish; (5) korporativ bank hisoblarini ochish va soliq organida qayta ro'yxatdan o'tish. Butun jarayon 4–8 haftani oladi. Uzluksiz faoliyatni ta'minlash uchun huquqiy yordam zarur."
+      },
+      {
+        "category": "investment",
+        "question": "O'zbekistondagi xorijiy investorlar uchun asosiy talablar qanday?",
+        "answer": "Xorijiy investorlar Xorijiy investitsiyalar to'g'risidagi Qonunga (1998, 2019 va keyingi farmonlar bilan o'zgartirilgan) rioya qilishlari shart. Asosiy talablar: investitsiya vositasini Adliya vazirligida ro'yxatdan o'tkazish; tartibga solinadigan faoliyat turlari uchun tarmoq litsenziyalari olish (bank, sug'urta, farmatsevtika, telekommunikatsiya); Markaziy bank tomonidan boshqariladigan valyuta qonunchiligiga rioya qilish; qazib oluvchi va infratuzilma tarmoqlarida mahalliy komponent talablarini bajarish. Ikki tomonlama investitsiya shartnomasi (BIT) tuzilgan mamlakatlardan kelgan investorlar qo'shimcha kafolatlarga ega: adolatli va teng muomala, eng qulay davlat maqomi, kompensatsiyasiz musodara qilishdan himoya va xalqaro arbitrajga kirish imkoniyati."
+      },
+      {
+        "category": "investment",
+        "question": "O'zbekistonning Erkin iqtisodiy zonalarida qanday investitsiya imtiyozlari mavjud?",
+        "answer": "O'zbekistonning Erkin iqtisodiy zonalari (EIZ) muhim imtiyozlar paketini taklif etadi: 3–10 yil davomida 0% korporativ daromad solig'i (investitsiya hajmiga qarab), 0% mulk solig'i, 0% yer solig'i, 0% suv iste'mol solig'i, uskunalar va xom ashyo importiga imtiyozli bojxona tariflari, soddalashtirilgan ma'muriy tartiblar. Asosiy EIZlar: Navoiy (logistika va ishlab chiqarish), Angren (engil sanoat), Jizzax (avtomobilsozlik va elektronika), O'rg'ut (to'qimachilik va agro-qayta ishlash), Nukus (Qoraqalpog'iston sanoat klasteri). Imtiyozlarning muddati va doirasi EIZ, investitsiya hajmi va maqsadli tarmoqqa qarab farq qiladi."
+      },
+      {
+        "category": "investment",
+        "question": "O'zbekistonda ikki tomonlama investitsiya shartnomalar (BIT) bormi?",
+        "answer": "Ha. O'zbekiston 50 dan ortiq mamlakatlar bilan, jumladan Germaniya, Fransiya, Buyuk Britaniya, Janubiy Koreya, Xitoy, Yaponiya, BAA, Turkiya va ko'pchilik MDH a'zolari bilan BIT imzolagan va ratifikatsiya qilgan. Shartnomalar investorlarga quyidagi kafolatlarni beradi: milliy rejim, eng qulay davlat maqomi, noqonuniy musodara qilishdan himoya, daromad va kapitalning erkin o'tkazilishi hamda xalqaro arbitrajda investor-davlat nizolarini hal etish imkoniyati. Kafolatlar doirasi shartnomaga qarab farq qiladi — investitsiyani tuzishdan oldin tegishli BITni huquqiy ko'rib chiqish tavsiya etiladi."
+      },
+      {
+        "category": "investment",
+        "question": "O'zbekistonda xorijiy investitsiya uchun eng yaxshi tarmoqlar qaysilar?",
+        "answer": "O'zbekiston hukumati maksimal investor qo'llab-quvvatlashini ta'minlaydigan bir qator ustuvor tarmoqlarni belgilagan: energetika va qayta tiklanadigan elektr energiyasi (QQP modellari asosida quyosh, shamol, gidroelektrostantsiyalar); axborot texnologiyalari va raqamli xizmatlar (IT-park rezidenti imtiyozlari); ishlab chiqarish va lokalizatsiya dasturlari; agro-oziq-ovqat qayta ishlash va eksportga yo'naltirilgan qishloq xo'jaligi; turizm infratuzilmasi; farmatsevtika va tibbiy qurilmalar. Bu tarmoqlarda davlat hamkorlik dasturlari, yer uchastkalarini ustuvor ajratish, litsenziyalashni tezlashtirish va ko'pincha rasmiy zonalar tashqarisida EIZ rejimiga teng soliq imtiyozlari mavjud."
+      },
+      {
+        "category": "labor",
+        "question": "Mehnat kodeksining mehnat shartnomalari bo'yicha asosiy qoidalari qanday?",
+        "answer": "O'zbekiston Mehnat kodeksiga ko'ra (2022–2024 yil tahrirlari), barcha mehnat shartnomalar yozma shaklda tuzilishi va quyidagilarni o'z ichiga olishi shart: tomonlarning to'liq ma'lumotlari, lavozim nomi, ish joyi, ish haqi shartlari, ish tartibi, ijtimoiy kafolatlar va shartnoma muddati. Muddatli mehnat shartnomalari (5 yilgacha) hujjatli asoslashni talab qiladi; aks holda shartnoma muddatsiz hisoblanadi. Sinov muddati 3 oydan (ishchilar uchun 1 oydan) oshmasligi kerak. Xodimlarga kamida 24 ish kunlik yillik to'liq haq to'lanadigan ta'til kafolatlanadi. Masofaviy ish 2023 yil o'zgartirish va qo'shimchalarida maxsus qoidalar bilan tartibga solingan."
+      },
+      {
+        "category": "labor",
+        "question": "Xorijiy fuqarolar O'zbekistonda ish ruxsatnomasini qanday oladi?",
+        "answer": "Xorijiy fuqarolar Mehnat vazirligidagi Tashqi mehnat migratsiyasi agentligi tomonidan beriladigan ish ruxsatnomasiga (tasdiqlangan taklif) muhtoj. Ariza xodim nomidan ish beruvchi tomonidan topshiriladi. Talab qilinadigan hujjatlar: imzolangan mehnat shartnomasi yoki loyiha taklifi, ish beruvchining davlat ro'yxatidan o'tganlik guvohnomasi, xodimning pasporti (notarial tasdiqlangan tarjimasi bilan), diplomlar yoki professional malakalar (aposti qilingan), tibbiy ma'lumotnoma. Standart ko'rib chiqish muddati 10–15 ish kuni. Ayrim millat va kasblar uchun yillik milliy kvotalar mavjud. IT-park va EIZ rezidentlari soddalashtirilgan va tezlashtirilgan tartibdan foydalanadi."
+      },
+      {
+        "category": "labor",
+        "question": "O'zbekistonda xodimlarni ishdan bo'shatish qoidalari qanday?",
+        "answer": "Xodimlarni ishdan bo'shatish O'zbekistonda Mehnat kodeksining 100-moddasi bilan qat'iy tartibga solinadi. Qonuniy asoslar quyidagilarni o'z ichiga oladi: shtat qisqartirish (o'rin tugatilishi), xodimning vazifalarini tizimli ravishda bajarmasligi, yagona qo'pol huquqbuzarlik, korxonani tugatish, muddatli shartnomaning tugashi. Shtat qisqartirishi sababli ishdan bo'shatilganda ish beruvchi kamida 2 oy oldin yozma ogohlantirish berishi shart. Nafaqa puli majburiy bo'lib, o'rtacha oylik ish haqi va xizmat stajiga asosida hisoblanadi. Ayrim toifadagi xodimlar — homilador ayollar, ta'tildagi xodimlar, kasaba uyushma vakillari — kuchaytirilgan ishdan bo'shatishdan himoyaga ega. Tartib-qoidalarga rioya qilmaslik hatto qonuniy asos bo'lsa ham ishdan bo'shatishni noqonuniy deb topishi mumkin."
+      },
+      {
+        "category": "labor",
+        "question": "O'zbekistonda ish beruvchining ijtimoiy to'lovlar bo'yicha majburiyatlari qanday?",
+        "answer": "O'zbekistondagi ish beruvchilar xodimning yalpi ish haqidan yagona ijtimoiy soliq 25% (ish beruvchilarning aksariyati uchun) to'lashi shart. Bundan tashqari, majburiy pensiya to'lovlari (ish beruvchi va xodim tomonidan) va 2021 yildan kuchga kirgan majburiy tibbiy sug'urta to'lovlari qo'llaniladi. IT-park rezident kompaniyalari uchun kamaytirilgan stavkalar qo'llaniladi — xodimlarning shaxsiy daromad solig'i standart 12% o'rniga 1% ni tashkil etadi. Ish haqi majburiyatlari har oy bajariladi; kechiktirilgan to'lovlar sezilarli ma'muriy sanktsiyalarga sabab bo'ladi."
+      },
+      {
+        "category": "taxation",
+        "question": "O'zbekistonda biznes uchun asosiy soliq stavkalari qanday?",
+        "answer": "2024–2025 yillar holatiga ko'ra O'zbekistondagi asosiy soliq stavkalari: Korporativ daromad solig'i (KDS) — 15% (standart stavka); QQS — 12%; Ijtimoiy soliq (ish beruvchi ulushi) — yalpi ish haqi fondidan 25%; Jismoniy shaxslar daromad solig'i (JSHDS) — 12% (tekis stavka); Mulk solig'i — kadastr qiymatining 2%; Yer solig'i — mintaqa, yer turi va maqsadiga qarab farq qiladi; Dividendlarga ushlab qolish solig'i — 5% (DTT bo'yicha kamaytirilgan stavkalar mavjud). Kichik korxonalar va mikrokorporatsiyalar soddalashtirilgan soliq rejimini tanlashi mumkin. EIZ rezidentlari, IT-park kompaniyalari va ustuvor tarmoqlardagi korxonalar to'liq yoki qisman soliqdan ozod etiladi."
+      },
+      {
+        "category": "taxation",
+        "question": "O'zbekistonning ikki tomonlama soliq shartnomalari qanday?",
+        "answer": "O'zbekiston 60 dan ortiq davlatlar, jumladan Rossiya, Germaniya, Xitoy, Buyuk Britaniya, Janubiy Koreya, BAA, Fransiya, Yaponiya, Hindiston va barcha MDH a'zo davlatlari bilan Ikki tomonlama soliqdan qochish to'g'risidagi shartnomalar (DTT) tuzgan. Bu shartnomalar odatda dividendlar (ko'pincha 5–10% gacha), foizlar (ko'pincha 5–10% gacha) va royaltilarga (ko'pincha 5–10% gacha) ushlab qolish soliqlarini kamaytiradi yoki bekor qiladi hamda ikki tomonlama soliq yukini ozodlik yoki hisobga olish usuli orqali bartaraf etadi. Stavkalar va qoidalar shartnomaga qarab farq qiladi. Shartnoma imtiyozlaridan foydalanish uchun real mavjudlik (substance) talablariga rioya qilish zarur."
+      },
+      {
+        "category": "taxation",
+        "question": "O'zbekistondagi IT-park soliq imtiyozlari qanday?",
+        "answer": "O'zbekiston texnologiya parki (IT-park) rezidentlari o'ta jozibali soliq paketidan foydalanadi: IT-faoliyatdan 0% korporativ daromad solig'i, dasturiy ta'minot ishlab chiqish va IT-xizmatlardan 0% QQS (eksport va ichki bozorga), akkreditatsiyalangan IT-xodimlari uchun 1% kamaytirilgan shaxsiy daromad solig'i (standart 12% o'rniga), import qilingan IT-uskunalariga 0% bojxona bojlari, 0% ijtimoiy soliq. IT-park rezidenti maqomini olish uchun akkreditatsiya, malakali IT-mutaxassislarning minimal soni va sifatli IT-daromad olish talab etiladi. Imtiyozlar 2028 yilgacha uzaytirilgan."
+      },
+      {
+        "category": "taxation",
+        "question": "O'zbekistonda transfer narxlash qanday ishlaydi?",
+        "answer": "Rasmiy transfer narxlash qoidalari O'zbekistonda 2022 yilda joriy etilgan. O'zaro bog'liq shaxslar o'rtasidagi bitimlar (to'g'ridan-to'g'ri yoki bilvosita 25% yoki undan ko'p ulush, yoki haqiqiy nazorat mezonlari bilan aniqlanadi) 'uzatilgan qo'l' tamoyiliga bo'ysunadi. Soliq kodeksi 20% og'ish qoidasini belgilaydi: nazorat qilinuvchi bitim narxi bozor narxidan 20% dan ko'proq farq qilsa, soliq organi soliq bazasini tuzatishga haqli. Katta hajmdagi o'zaro bog'liq tomon bitumlari bo'yicha soliq to'lovchilar bir vaqtning o'zida transfer narxlash hujjatlarini yuritishi shart. Qoidalar OECD ko'rsatmalariga asoslangan, ammo huquqni qo'llash amaliyoti hali shakllanmoqda."
+      },
+      {
+        "category": "arbitration",
+        "question": "O'zbekistonda tijorat arbitraji qanday ishlaydi?",
+        "answer": "O'zbekiston xalqaro tijorat arbitraji bo'yicha UNCITRAL Namunaviy Qonuniga asoslangan zamonaviy arbitraj tizimiga ega. Asosiy arbitraj institutlari: O'zbekiston savdo-sanoat palatasi huzuridagi Xalqaro tijorat arbitraj sudi (XTAS) va Toshkent xalqaro arbitraj markazi (TXAM). O'zbekiston 1996 yildan beri xorijiy arbitraj qarorlarini tan olish va ijro etish to'g'risidagi Nyu-York konventsiyasiga a'zo bo'lib, xorijiy qarorlar O'zbekiston sudlarida ijro etiladi. Tomonlar ICC, LCIA, SIAC yoki VIAC arbitraj institutlarini belgilashi yoki UNCITRAL Reglamenti bo'yicha ad hoc arbitrajni tanlashi ham mumkin."
+      },
+      {
+        "category": "arbitration",
+        "question": "O'zbekistonda xorijiy sud qarorini ijro ettirish mumkinmi?",
+        "answer": "Xorijiy sud qarorlarini (arbitraj qarorlaridan farqli ravishda) O'zbekistonda ijro ettirish O'zbekiston bilan qaror chiqargan davlat o'rtasida huquqiy yordam to'g'risida ikki tomonlama shartnomaning mavjudligini talab qiladi. Bunday shartnomalar Rossiya, Xitoy va bir qator MDH davlatlari bilan tuzilgan, ammo ko'pchilik G'arb davlatlari bilan mavjud emas. Shartnoma bo'lmasa, xorijiy sud qarorlari odatda to'g'ridan-to'g'ri ijro etilmaydi va da'vogar O'zbekiston sudlarida ishni yana ko'rib chiqishga murojaat qilishi kerak. Aksincha, xorijiy arbitraj qarorlari ikki tomonlama shartnomasiz ham Nyu-York konventsiyasi asosida ijro etiladi — shuning uchun shart-nombilarda xalqaro arbitraj bandini kiritish qat'iy tavsiya etiladi."
+      },
+      {
+        "category": "arbitration",
+        "question": "O'zbekistonda tijorat da'volari bo'yicha da'vo muddati qancha?",
+        "answer": "O'zbekiston Fuqarolik kodeksiga ko'ra fuqarolik va tijorat da'volari bo'yicha umumiy da'vo muddati 3 yilni tashkil etadi. Muddat da'vogar o'z huquqining buzilganini va tegishli javobgarni bilgan yoki bilishi kerak bo'lgan kundan boshlab kechadi. Ayrim maxsus da'volar boshqa muddatlarga ega: transport zararlariga oid da'volar (1 yil), sug'urta shartnomalaridan kelib chiqqan da'volar (2 yil), o'z qoidalari bilan CISG yoki boshqa xalqaro aktlar qo'llaniluvchi eksport shartnomalari bo'yicha nizolar. Tomonlar qonunda belgilangan da'vo muddatini shartnoma asosida qisqartira olmaydi, ammo uzaytirishi mumkin."
+      },
+      {
+        "category": "contract",
+        "question": "O'zbekiston qonunchiligida shartnomani haqiqiy qiladigan narsa nima?",
+        "answer": "O'zbekiston Fuqarolik kodeksiga ko'ra shartnoma quyidagilar mavjud bo'lganda haqiqiy hisoblanadi: oferta (muhim shartlar bilan aniq taklif), aksept (so'zsiz rozilik) va qonuniy majburiyat asosi. Tomonlar muomala layoqatiga ega bo'lishi shart. Ayrim shartnoma toifalari uchun qo'shimcha rasmiy talablar qo'llaniladi: 100 ta BHMdan oshiq miqdordagi shartnomalar yozma shaklda tuzilishi; ko'chmas mulk bilan bog'liq bitimlar, ipoteka shartnomalar va nikoh shartnomalar notarial tasdiqdan o'tishi, ko'chmas mulk holida esa davlat ro'yxatidan o'tishi kerak. Elektron (raqamli) shartnomalar O'zbekistonning Elektron tijorat to'g'risidagi qonuni asosida tan olinadi, shart tomonlar elektron shaklga rozi bo'lsa."
+      },
+      {
+        "category": "contract",
+        "question": "O'zbekiston shartnoma huquqi va CISG/UNIDROIT Tamoyillari o'rtasidagi asosiy farqlar nimada?",
+        "answer": "O'zbekistonning shartnoma huquqi Fuqarolik kodeksining 26–28-boblarida kodifikatsiya qilingan va sovet huquqiy an'anasi hamda kontinental Evropa fuqarolik huquqi ta'sirida shakllangan. BMT tovarlarni xalqaro oldi-sotdi shartnomalar to'g'risidagi Konventsiyasi (CISG) O'zbekiston va boshqa CISG a'zo davlatlar o'rtasidagi xalqaro tovar oldi-sotdisi shartnomalarga avtomatik ravishda qo'llaniladi, agar u aniq istisno qilinmagan bo'lsa. UNIDROIT xalqaro tijorat shartnomalari tamoyillari tomonlar kelishuvi bilan yumshoq huquq asosida qo'shilishi mumkin. Asosiy amaliy farqlar: O'zbek FK da force majeure ta'rifi keng va CISG 79-moddasiga qaraganda kam bashorat qilinadi; O'zbek huquqi yuqori qiymatli shartnomalar uchun yozma shaklni talab qilsa, CISG bunday talab qo'ymaydi; FK sharoitlar o'zgarishi (rebus sic stantibus) holatida sud tomonidan narxni qayta ko'rib chiqilishiga imkon beradi, ammo buning CISGdagi to'g'ridan-to'g'ri analogi yo'q."
+      },
+      {
+        "category": "contract",
+        "question": "O'zbekistonda adolatsiz shartnoma shartlari qanday tartibga solinadi?",
+        "answer": "O'zbekiston huquqi iste'molchi va tijorat (B2B) shartnomalarni farqlaydi. Iste'molchi shartnomalarida iste'molchiga zarar yetkazuvchi, tomonlarning huquq va majburiyatlarida sezilarli nomuvofiqlik yaratuvchi shartlar iste'molchilarni himoya qilish qonunchiligiga zid sifatida haqiqiy emas deb tan olinadi. Tadbirkorlar o'rtasidagi tijorat shartnomalarda umumiy tamoyil caveat emptor bo'lib — professionallar shartnomalarini mustaqil muzokarali qiladi va sudlar tijorat shartlarini qayta ko'rib chiqishdan tiyiladi. Biroq FK tomonlarga yaxshi niyat majburiyatini yuklaydi (8-modda), imperative qoidalarga, jamoat tartibiga yoki axloqqa zid shartlar esa tomonlar roziligi bo'lishidan qat'i nazar haqiqiy emas. Jarima shartlari agar oqibatlarga yaqqol nomutanosib bo'lsa sud tomonidan kamaytirilishi mumkin."
+      },
+      {
+        "category": "compliance",
+        "question": "O'zbekistonda xorijiy biznesga qanday korrupsiyaga qarshi qonunlar qo'llaniladi?",
+        "answer": "O'zbekistonda faoliyat yurituvchi xorijiy biznes Korrupsiyaga qarshi kurash to'g'risidagi Qonun (2017) doirasiga kiradi, u davlat amaldorlariga pora taklif qilish, berish yoki olishni taqiqlaydi va kompaniyalarni ichki korrupsiyaga qarshi nazorat tizimini joriy etishga majbur qiladi. Davlat xizmatchilari bilan muloqotda sovg'a qiymati qat'iy cheklangan. Bundan tashqari, Jinoiy yo'l bilan olingan daromadlarni legalizatsiya qilishga qarshi kurash to'g'risidagi 560-Qonun bilan tartibga solinadigan O'zbekistonning AML/FT tizimi KYC tartib-qoidalari va shubhali operatsiyalar haqida xabar berish majburiyatlarini belgilaydi. AQShga aloqasi bo'lgan xorijiy kompaniyalar FCPA; Buyuk Britaniyaga aloqasi bo'lganlar esa Buyuk Britaniya korrupsiyaga qarshi qonuni (UK Bribery Act) ta'sirida qoladi."
+      },
+      {
+        "category": "compliance",
+        "question": "O'zbekistonda xorijiy biznes uchun valyuta nazorati talablari qanday?",
+        "answer": "Markaziy bank tomonidan Valyutani tartibga solish to'g'risidagi Qonun asosida amalga oshiriladigan O'zbekiston valyuta nazorati rejimi xorijiy valyutadagi barcha operatsiyalarning vakolatli banklar orqali o'tkazilishini talab qiladi. Xorijiy investorlar tegishli soliqlarni to'lagandan so'ng foyda, dividendlar va tugatishdan tushgan mablag'larni erkin konvertatsiya qilinadigan valyutada repatriatsiya qilishi mumkin. Xorijiy yuridik shaxslar O'zbek so'mi va AQSh dollari/evrodagi hisoblarni yuritishi mumkin. Ayrim operatsiyalar — ayniqsa katta kapital operatsiyalari — oldindan ruxsat yoki xabardor qilishni talab qiladi. Eksport daromadlarini qaytarish majburiy konvertatsiya talablariga bo'ysunadi. 2017 yilgi liberalizatsiya islohotlaridan so'ng O'zbekiston valyuta rejimini sezilarli darajada soddalashtirdi, ammo sheteldagi to'lovlar uchun majburiy hujjatlashtirish saqlanib qolmoqda."
+      },
+      {
+        "category": "realestate",
+        "question": "Xorijiylar O'zbekistonda ko'chmas mulk egalik qilishi mumkinmi?",
+        "answer": "Xorijiy jismoniy shaxslar va xorijiy yuridik shaxslar O'zbekistonda yer egaligi huquqiga ega emas — yer davlat mulki bo'lib, faqat foydalanish huquqi asosida beriladi. Biroq xorijiylar binolar, inshootlar va boshqa ko'char bo'lmagan mulkka (yerdan tashqari) qonuniy ravishda egalik qilishi mumkin. Uzoq muddatli yer foydalanish huquqlari (ijara) 49 yilgacha bo'lgan muddatga beriladi va Davlat kadastriga ro'yxatdan o'tkaziladi. Erkin iqtisodiy zonalarda EIZ rezidentlari uchun yer ajratishning maxsus shartlari amal qiladi. O'zbek MChJi orqali faoliyat yurituvchi xorijiy kompaniyalar yer foydalanish huquqlarini shu mahalliy yuridik shaxs nomida yuritishi mumkin. Xorijiy tomonlar ishtirokidagi ko'chmas mulk bitumlari qonuniy kuchga kirishi uchun notarial tasdiq va davlat ro'yxatidan o'tishni talab qiladi."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Mijozlarimiz fikri",
+    "subtitle": "Markaziy Osiyodagi xalqaro investorlar va yetakchi korxonalar ishonchi",
+    "items": [
+      {
+        "name": "Klaus Bauer",
+        "role": "Bosh direktor, Bauer Industrietechnik GmbH",
+        "country": "Germaniya",
+        "text": "R-Legal bizni O'zbekistonda qo'shma korxona ro'yxatdan o'tkazishda ajoyib professionallik bilan yo'lladi."
+      },
+      {
+        "name": "Yoon Ji-young",
+        "role": "Huquqiy bo'lim boshlig'i, KoreaTech Investments",
+        "country": "Janubiy Koreya",
+        "text": "AI vositalari va ko'p tilli jamoasi TTI tuzilishini muammosiz va tejamkor qildi."
+      },
+      {
+        "name": "Ahmed Al-Rashid",
+        "role": "Boshqaruvchi direktor, Gulf Capital Partners",
+        "country": "BAA",
+        "text": "Shartnoma nizosi yirik loyihani xavf ostiga qo'yganida, R-Legal arbitraj jamoasi uni rekord vaqtda hal etdi."
+      },
+      {
+        "name": "Maria Sokolova",
+        "role": "Moliya direktori, RosExport Trading",
+        "country": "Rossiya",
+        "text": "Ularning mehnat huquqi amaliyoti bizga 2024 yildagi Mehnat kodeksi o'zgarishlariga osongina moslashishga yordam berdi."
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Huquqiy aqlni pochta qutingizga",
+    "subtitle": "O'zbekistondagi huquqiy o'zgarishlar va investitsiya imkoniyatlari bo'yicha oylik yangilanishlar oling.",
+    "placeholder": "Email manzilingiz",
+    "button": "Obuna bo'lish",
+    "success": "Obuna bo'ldingiz! Birinchi xabar tez orada yuboriladi.",
+    "disclaimer": "Spam yo'q. Istalgan vaqt obunani bekor qilish mumkin."
+  },
+  "resources": {
+    "title": "Huquqiy resurslar",
+    "subtitle": "O'zbekistonda faoliyat yurituvchi investorlar va biznes uchun rasmiy qonunchilik, vakolatli qo'llanmalar va tahliliy vositalar",
+    "filterAll": "Barcha resurslar",
+    "filterGuides": "Qo'llanmalar",
+    "filterTemplates": "Shablonlar",
+    "filterLegislation": "Qonunchilik",
+    "filterReports": "Hisobotlar",
+    "filterTools": "Vositalar",
+    "download": "Manbani ko'rish",
+    "downloadFree": "Bepul kirish",
+    "readOnline": "Online o'qish",
+    "pages": "bet",
+    "updated": "Yangilangan",
+    "visitSource": "Rasmiy manbaga o'tish",
+    "cta": "Individual huquqiy qo'llanma kerakmi?",
+    "ctaSubtitle": "Advokatlarimiz sizning aniq vaziyatingiz uchun maxsus huquqiy memorandumlar tayyorlaydi.",
+    "requestResearch": "Maxsus tadqiqot so'rash",
+    "items": [
+      {
+        "category": "legislation",
+        "title": "O'zbekiston Fuqarolik kodeksi",
+        "description": "O'zbekiston Fuqarolik kodeksining rasmiy to'liq matni (o'zbekcha/ruscha/inglizcha). Shartnomalar, mulk, majburiyatlar va korporativ tashkilotlarni tartibga soladi.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/111181"
+      },
+      {
+        "category": "legislation",
+        "title": "O'zbekiston Soliq kodeksi 2024",
+        "description": "Soliq kodeksining rasmiy matni (2019-yildan, 2025-2026-yillardagi o'zgartirishlar bilan) — KDS, QQS, ijtimoiy soliq, aksizlar, EIZ qoidalari va imtiyozlar.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/4674902"
+      },
+      {
+        "category": "legislation",
+        "title": "O'zbekiston Mehnat kodeksi",
+        "description": "2025-2026-yillardagi o'zgartirishlar bilan to'liq Mehnat kodeksi — mehnat shartnomalar, ishdan bo'shatish asoslari, ta'til huquqlari va ish ruxsatnomalari.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/3271086"
+      },
+      {
+        "category": "legislation",
+        "title": "Xorijiy investitsiyalar to'g'risidagi Qonun",
+        "description": "O'zbekistonda xorijiy investor huquqlari, kafolatlari va cheklovlarini tartibga soluvchi asosiy TTI qonunchiligi (1998-yil, 2019-2024-yillardagi tahrirlari bilan).",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/144688"
+      },
+      {
+        "category": "legislation",
+        "title": "MChJ to'g'risidagi Qonun (Mas'uliyati Cheklangan Jamiyat)",
+        "description": "MChJlarni tartibga soluvchi qonunchilik (2022-yil yangi tahriri) — tashkil etish, ustav, boshqaruv va tugatish tartiblari.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/163015"
+      },
+      {
+        "category": "guides",
+        "title": "TTI ro'yxatdan o'tish qo'llanmasi — invest.gov.uz",
+        "description": "Milliy investitsiya portalidan O'zbekistonda to'g'ridan-to'g'ri xorijiy investitsiyalarni ro'yxatdan o'tkazish bo'yicha rasmiy bosqichma-bosqich qo'llanma.",
+        "pages": 0,
+        "free": true,
+        "url": "https://invest.gov.uz/en/investing-in-uzbekistan/business-registration/"
+      },
+      {
+        "category": "guides",
+        "title": "Erkin iqtisodiy zonalar investor qo'llanmasi",
+        "description": "Soliq imtiyozlari, zona joylashuvi, ariza topshirish tartiblari va tarmoqqa xos imkoniyatlar bilan EIZ rasmiy portali.",
+        "pages": 0,
+        "free": true,
+        "url": "https://fez.uz"
+      },
+      {
+        "category": "guides",
+        "title": "Biznesni ro'yxatdan o'tkazish portali (myjuridical.uz)",
+        "description": "O'zbekistonda kompaniyani elektron ro'yxatdan o'tkazish, hujjat topshirish va litsenziya arizalari uchun davlat portali.",
+        "pages": 0,
+        "free": true,
+        "url": "https://myjuridical.uz"
+      },
+      {
+        "category": "guides",
+        "title": "Ish ruxsatnomalari va viza qo'llanmasi (mehnat.uz)",
+        "description": "Tashqi mehnat migratsiyasi agentligining rasmiy portali — ish ruxsatnomasi arizalari, kvotalar va ish beruvchilar uchun tartiblar.",
+        "pages": 0,
+        "free": true,
+        "url": "https://mehnat.uz"
+      },
+      {
+        "category": "guides",
+        "title": "Bojxona tartiblari qo'llanmasi",
+        "description": "O'zbekiston Davlat bojxona qo'mitasi — import/eksport tartiblari, tarif jadvallari va bojxona qiymati qoidalari.",
+        "pages": 0,
+        "free": true,
+        "url": "https://customs.uz/en"
+      },
+      {
+        "category": "reports",
+        "title": "O'zbekistonda biznes yuritish — Jahon banki profili",
+        "description": "Jahon bankining O'zbekiston tartibga soluvchi muhit ma'lumotlari — biznes boshlash, mulkni ro'yxatdan o'tkazish, shartnomalarni ijro ettirish.",
+        "pages": 0,
+        "free": true,
+        "url": "https://data.worldbank.org/country/uzbekistan"
+      },
+      {
+        "category": "reports",
+        "title": "OECD O'zbekiston iqtisodiy sharhi",
+        "description": "OECDning O'zbekiston iqtisodiy va tartibga soluvchi muhitini baholashi — investitsiya iqlimi, boshqaruv va islohotlar.",
+        "pages": 0,
+        "free": true,
+        "url": "https://www.oecd.org/countries/uzbekistan/"
+      },
+      {
+        "category": "reports",
+        "title": "EBRD O'zbekiston davlat profili",
+        "description": "Yevropa tiklanish va rivojlanish bankining O'zbekiston huquqiy va biznes muhitini baholashi.",
+        "pages": 0,
+        "free": true,
+        "url": "https://www.ebrd.com/uzbekistan.html"
+      },
+      {
+        "category": "tools",
+        "title": "Soliq kalkulyatori — soliq.uz",
+        "description": "Soliq majburiyati kalkulyatorlari, elektron hisobot, soliq stavkalari va hisobot muddatlari bilan rasmiy Soliq qo'mitasi portali.",
+        "pages": 0,
+        "free": true,
+        "url": "https://soliq.uz"
+      },
+      {
+        "category": "tools",
+        "title": "O'zbekiston huquqiy ma'lumotlar bazasi (lex.uz)",
+        "description": "O'zbekiston qonunchiligining to'liq rasmiy ma'lumotlar bazasi — qonunlar, farmonlar va normativ hujjatlar UZ/RU/EN tillarida qidiriladigan.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz"
+      },
+      {
+        "category": "tools",
+        "title": "Investitsiya portali — invest.gov.uz",
+        "description": "Milliy investitsiyalarni jalb qilish agentligi portali — tarmoq ma'lumotlari, imtiyoz xaritalari va investorlarni qo'llab-quvvatlash xizmatlari.",
+        "pages": 0,
+        "free": true,
+        "url": "https://invest.gov.uz"
+      },
+      {
+        "category": "legislation",
+        "title": "UNCITRAL Arbitraj Reglamenti",
+        "description": "Xalqaro tijorat arbitrajida qo'llaniladigan UNCITRAL Namunaviy Qonun va Arbitraj Reglamenti — O'zbekistonda ham qo'llaniladi.",
+        "pages": 0,
+        "free": true,
+        "url": "https://uncitral.un.org/en/texts/arbitration/modellaw/commercial_arbitration"
+      },
+      {
+        "category": "reports",
+        "title": "Ikki tomonlama investitsiya shartnomalar — UNCTAD ma'lumotlar bazasi",
+        "description": "UNCTADning barcha O'zbekiston BITlari bo'yicha keng qamrovli ma'lumotlar bazasi — to'liq shartnoma matnlari va investitsiya nizolari tarixi.",
+        "pages": 0,
+        "free": true,
+        "url": "https://investmentpolicy.unctad.org/international-investment-agreements/countries/222/uzbekistan"
+      }
+    ]
+  },
+  "settings": {
+    "title": "Sozlamalar",
+    "subtitle": "R-Legal Practice platformasida tajribangizni sozlang",
+    "language": "Interfeys tili",
+    "languageDesc": "Platformaning afzal tilini tanlang",
+    "theme": "Ko'rinish mavzusi",
+    "themeLight": "Yorug'",
+    "themeDark": "Qorang'i",
+    "themeSystem": "Tizim standarti",
+    "notifications": "Email bildirisnomalar",
+    "notificationsDesc": "Yangi huquqiy o'zgarishlar haqida xabarlar oling",
+    "newsletter": "Yangiliklar xabarnomasi",
+    "newsletterDesc": "Oylik huquqiy aql dayjesti",
+    "save": "Saqlash",
+    "saved": "Sozlamalar muvaffaqiyatli saqlandi",
+    "privacy": "Maxfiylik",
+    "privacyDesc": "Ma'lumotlar va cookie parametrlarini boshqarish",
+    "manageCookies": "Cookie boshqarish"
+  },
+  "cookie": {
+    "message": "Tajribangizni yaxshilash uchun cookie fayllardan foydalanamiz.",
+    "accept": "Hammasini qabul qilish",
+    "decline": "Rad etish",
+    "learnMore": "Maxfiylik siyosati",
+    "customize": "Sozlash"
+  },
+  "breadcrumb": {
+    "home": "Bosh sahifa"
+  },
+  "contact": {
+    "title": "Muloqotni boshlang",
+    "subtitle": "Huquqiy masalangizni aytib bering. Jamoamiz 24 soat ichida javob beradi.",
+    "form": {
+      "name": "To'liq ism",
+      "namePlaceholder": "To'liq ismingiz",
+      "company": "Kompaniya / Tashkilot",
+      "companyPlaceholder": "Kompaniya nomingiz",
+      "email": "Email manzil",
+      "emailPlaceholder": "your@company.com",
+      "phone": "Telefon raqam",
+      "phonePlaceholder": "+998 XX XXX XX XX",
+      "service": "Xizmat yo'nalishi",
+      "servicePlaceholder": "Amaliyot sohasini tanlang",
+      "message": "Masalangizni tavsiflang",
+      "messagePlaceholder": "Huquqiy ehtiyojlaringizni, muddatlar va tegishli kontekstni tasvirlab bering...",
+      "submit": "Yuborish",
+      "submitting": "Yuborilmoqda...",
+      "success": "Xabar yuborildi. 24 soat ichida siz bilan bog'lanamiz.",
+      "error": "Xato yuz berdi. Qayta urinib ko'ring yoki bizga to'g'ridan-to'g'ri yozing."
+    },
+    "info": {
+      "phone": "+998 90 825 08 78",
+      "email": "rlegalpractice@gmail.com",
+      "address": "Toshkent, O'zbekiston Respublikasi",
+      "hours": "Du–Ju: 9:00–18:00 (UTC+5)",
+      "emergency": "Shoshilinch masalalar uchun to'g'ridan-to'g'ri qo'ng'iroq qiling"
+    }
+  },
+  "footer": {
+    "tagline": "Global maqsadlar uchun aniq huquq. 2010 yildan beri O'zbekiston va xalqaro mijozlarga xizmat qilamiz.",
+    "services": "Xizmatlar",
+    "company": "Kompaniya",
+    "legal": "Huquqiy",
+    "privacy": "Maxfiylik siyosati",
+    "terms": "Foydalanish shartlari",
+    "disclaimer": "Huquqiy izoh",
+    "rights": "Barcha huquqlar himoyalangan.",
+    "builtBy": "Oxforder LLC tomonidan ishlab chiqilgan"
+  },
+  "meta": {
+    "homeTitle": "R-Legal Practice | O'zbekistondagi yetakchi huquq firmasi",
+    "homeDesc": "O'zbekistondagi xalqaro investorlar, korporatsiyalar va tadbirkorlar uchun yuqori darajali huquqiy maslahat.",
+    "servicesTitle": "Huquqiy xizmatlar | R-Legal Practice",
+    "aiAdvisorTitle": "AI Maslahatchi | R-Legal Practice",
+    "contactTitle": "Aloqa | R-Legal Practice",
+    "newsTitle": "Huquqiy yangiliklar | R-Legal Practice",
+    "faqTitle": "Ko'p so'raladigan savollar | R-Legal Practice",
+    "resourcesTitle": "Huquqiy resurslar | R-Legal Practice",
+    "settingsTitle": "Sozlamalar | R-Legal Practice",
+    "caseLawTitle": "Sud Amaliyoti | R-Legal Practice"
+  },
+  "caseLaw": {
+    "label": "Tadqiqot vositasi",
+    "title": "AQSh Sud Amaliyotini Qidirish",
+    "subtitle": "Xalqaro arbitraj, investitsiya shartnomasi nizolari, xorijiy qarorlarni ijro etish va chegaralararo tijorat da'valariga oid AQSh federal va shtat sud qarorlarini qidiring.",
+    "disclaimer": "Bu vosita CourtListener (Free Law Project) orqali AQSh sud qarorlarini qidiradi. Natijalar faqat tadqiqot maqsadida bo'lib, huquqiy maslahat hisoblanmaydi.",
+    "searchPlaceholder": "Ishlarni qidirish (masalan, \"O'zbekiston BIT arbitraj\", \"FCPA\", \"xorijiy qaror\")...",
+    "filters": "Filtrlar",
+    "courtFilter": "Sud",
+    "sortBy": "Saralash",
+    "search": "Qidirish",
+    "suggestedSearches": "Tavsiya etilgan qidiruvlar",
+    "resultsCount": "\"{query}\" bo'yicha {count} natija",
+    "noResults": "Ishlar topilmadi. Boshqa so'rov bilan urinib ko'ring.",
+    "page": "Sahifa",
+    "poweredBy": "Tomonidan qo'llab-quvvatlanadi",
+    "info1Title": "Xalqaro Arbitraj Pretsedentlari",
+    "info1Desc": "Investitsiya shartnomasi arbitraji, ICC/LCIA/UNCITRAL qarorlarini ijro etish va suveren immunitet bo'yicha AQSh sud qarorlari.",
+    "info2Title": "Chegaralararo Ijro Etish",
+    "info2Desc": "Xorijiy sud qarorlarini tan olish, Nyu-York konventsiyasi va Markaziy Osiyo bilan bog'liq tijorat nizolari bo'yicha ishlar.",
+    "info3Title": "FCPA va Sanktsiyalar",
+    "info3Desc": "FCPA ijrosi, OFAC sanktsiyalarga rioya qilish va MDH mintaqasidagi korrupsiyaga qarshi ishlar bo'yicha pretsedentlar."
+  },
+  "privacyPage": {
+    "lastUpdated": "Oxirgi yangilanish: 2026 yil aprel",
+    "sections": [
+      {
+        "title": "1. To'planadigan ma'lumotlar",
+        "body": "Sayt formlari orqali murojaat qilganingizda siz taqdim etgan ma'lumotlarni to'playmiz: ism, elektron pochta, telefon, kompaniya nomi va huquqiy muammoning tavsifi. Bundan tashqari, IP-manzil va brauzer turi kabi texnik ma'lumotlar ham to'planadi."
+      },
+      {
+        "title": "2. Ma'lumotlardan foydalanish",
+        "body": "Shaxsiy ma'lumotlaringizdan quyidagi maqsadlarda foydalanamiz: huquqiy so'rovlar va konsultatsiya arizalariga javob berish; huquqiy yangiliklar yuborish; sayt va xizmatlarni yaxshilash; qonuniy majburiyatlarni bajarish."
+      },
+      {
+        "title": "3. Qayta ishlashning huquqiy asoslari (GDPR)",
+        "body": "EEA foydalanuvchilari uchun ma'lumotlar shartnomani bajarish, qonuniy manfaatlar, roziliq va huquqiy majburiyatlar asosida qayta ishlanadi."
+      },
+      {
+        "title": "4. Cookie-fayllar",
+        "body": "Saytimiz tajribani yaxshilash va trafikni tahlil qilish uchun cookie-fayllardan foydalanadi. Siz cookie sozlamalarini brauzer orqali boshqarishingiz mumkin."
+      },
+      {
+        "title": "5. Ma'lumotlarni ulashish",
+        "body": "Shaxsiy ma'lumotlaringizni uchinchi shaxslarga sotmaymiz. Ma'lumotlar qonun talabi yoki sizning roziligingiz bilan berilishi mumkin."
+      },
+      {
+        "title": "6. Ma'lumotlarni saqlash",
+        "body": "So'rov ma'lumotlari — 5 yil, analitik ma'lumotlar — 24 oy saqlanadi. Istalgan vaqtda o'chirishni so'rashingiz mumkin."
+      },
+      {
+        "title": "7. Sizning huquqlaringiz",
+        "body": "Ma'lumotlarga kirish, tuzatish, o'chirish, ko'chirish va qayta ishlashga e'tiroz bildirish huquqiga egasiz. Murojaat: rlegalpractice@gmail.com."
+      },
+      {
+        "title": "8. Xavfsizlik",
+        "body": "Shaxsiy ma'lumotlaringizni himoya qilish uchun shifrlash, kirish nazorati va muntazam xavfsizlik tekshiruvlari kabi zamonaviy choralarni qo'llaymiz."
+      },
+      {
+        "title": "9. Xalqaro uzatishlar",
+        "body": "Ma'lumotlaringiz boshqa mamlakatlarda qayta ishlanishi mumkin. Standart shartnoma bandlari orqali tegishli himoyani ta'minlaymiz."
+      },
+      {
+        "title": "10. Bog'lanish",
+        "body": "R-Legal Practice, Toshkent, O'zbekiston Respublikasi. Email: rlegalpractice@gmail.com. Tel.: +998 90 825 08 78."
+      }
+    ]
+  },
+  "servicesPage": {
+    "whatWeCover": "Biz qamrab oladigan sohalar",
+    "keyAreas": "Asosiy yo'nalishlar",
+    "whyRlegal": "Nima uchun R-Legal",
+    "getExpertAdvice": "Ekspert maslahati oling",
+    "scheduleConsult": "Mutaxassislarimiz bilan maxfiy konsultatsiya belgilang.",
+    "otherPracticeAreas": "Boshqa yo'nalishlar",
+    "whyPoints": [
+      "O'zbekiston qonunchilik bazasi va mahalliy amaliyotni chuqur bilish",
+      "EN, RU, UZ va Qoraqalpoq tillarida erkin so'zlashuvchi ko'p tilli jamoa",
+      "50+ yurisdiksiyadagi xalqaro investorlarga maslahat berish tajribasi",
+      "Davlat organlari bilan to'g'ridan-to'g'ri aloqalar",
+      "Tezroq ishlash uchun AI-quvvatli tadqiqot va hujjatlarni ko'rib chiqish"
+    ]
+  },
+  "tools": {
+    "badge": "Huquqiy Vositalar",
+    "title": "Huquqiy Muddatlar Kalkulyatori",
+    "subtitle": "O'zbekiston qonunchiligi bo'yicha asosiy huquqiy muddatlarni hisoblang. Voqea sanasini kiriting va turini tanlang — tegishli muddatlarni huquqiy havolalar bilan ko'rsatamiz.",
+    "eventType": "Voqea turi",
+    "eventDate": "Voqea sanasi",
+    "selectPlaceholder": "Voqea turini tanlang...",
+    "calculate": "Muddatlarni hisoblash",
+    "disclaimer": "Kalkulyator faqat ma'lumot maqsadida taxminiy muddatlarni taqdim etadi. Huquqiy muddatlar shartnoma shartlari va qonunga qarab farq qiladi. Qaror qilishdan oldin advokat bilan maslahatlashing.",
+    "quickRef": "Qisqa ma'lumotnoma",
+    "copyAll": "Barchasini nusxalash",
+    "copied": "Nusxalandi!",
+    "pastLabel": "O'tgan",
+    "todayLabel": "Bugun!",
+    "ctaTitle": "Muddatlar bo'yicha huquqiy maslahat kerakmi?",
+    "ctaSubtitle": "Bular taxminiy sanalar. Advokatlarimiz aniq muddatlar va huquqiy strategiya bo'yicha maslahat beradi.",
+    "ctaBtn": "Konsultatsiyaga yozilish",
+    "eventTypes": {
+      "contractSigned": "Shartnoma imzolandi",
+      "disputeArose": "Tijorat nizosi yuzaga keldi",
+      "employeeTerminated": "Xodim ishdan bo'shatildi",
+      "companyRegistered": "Kompaniya ro'yxatdan o'tdi",
+      "propertyTransaction": "Ko'chmas mulk bitimi kelishildi",
+      "taxPeriodEnd": "Soliq davri tugadi (chorak)",
+      "arbitrationAward": "Arbitraj qarori chiqarildi"
+    },
+    "quickRefItems": [
+      {
+        "period": "3 yil",
+        "label": "Umumiy fuqarolik/tijorat da'vo muddati",
+        "citation": "FK 150-modda"
+      },
+      {
+        "period": "1 yil",
+        "label": "Transport zarariga da'volar",
+        "citation": "FK 735-modda"
+      },
+      {
+        "period": "2 yil",
+        "label": "Sug'urta shartnomasi nizolari",
+        "citation": "FK 930-modda"
+      },
+      {
+        "period": "30 kun",
+        "label": "Noqonuniy ishdan bo'shatish da'vosi",
+        "citation": "MK 264-modda"
+      },
+      {
+        "period": "3 kun",
+        "label": "Ishdan bo'shatilgandan so'ng yakuniy to'lov",
+        "citation": "MK 163-modda"
+      },
+      {
+        "period": "20 kun",
+        "label": "Chorak oxiridan so'ng QQS deklaratsiyasi",
+        "citation": "SK 273-modda"
+      }
+    ]
+  }
+}

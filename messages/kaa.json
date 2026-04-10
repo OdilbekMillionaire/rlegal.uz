@@ -1,0 +1,1090 @@
+{
+  "nav": {
+    "services": "Xızmetler",
+    "caseStudies": "Is tájiriybeler",
+    "team": "Bizdiń Komandamız",
+    "insights": "Analitika",
+    "news": "Hуqıqıy Jańalıqlar",
+    "faq": "Kóp Soraladigan Sorawlar",
+    "resources": "Resurslар",
+    "aiAdvisor": "AI Hуqıqıy Kenesgoy",
+    "caseLaw": "Sud Ámeliyatı",
+    "tools": "Hуqıqıy Qurallar",
+    "settings": "Sazlamalar",
+    "contact": "Baylanıs",
+    "consultation": "Konsultaciya alıw",
+    "menu": "Menyu",
+    "close": "Jabıw"
+  },
+  "hero": {
+    "badge": "Ózbekstanda iseniмli hуqıqıy hámkár",
+    "headline1": "Globallıq maqsetler ushın",
+    "headline2": "Anıq Hуqıq",
+    "subheadline": "R-Legal Practice xalıqaralıq investorlar, transmilliy korporaciyalar hám ózbekstan kárxanalarına quramalı sheteldik bitimler, tártipke salıw hám tijariy dawlasıwlarda kеńes beredi.",
+    "cta1": "Konsultaciya alıw",
+    "cta2": "Isleriмizdi kóriw",
+    "stat1Value": "200+",
+    "stat1Label": "Xalıqaralıq mıjozlar",
+    "stat2Value": "$2 mlrd+",
+    "stat2Label": "Kеńeslestirilgen bitimler",
+    "stat3Value": "15+",
+    "stat3Label": "Jıllıq tájiriybe",
+    "stat4Value": "5",
+    "stat4Label": "Is tilleri"
+  },
+  "trust": {
+    "title": "Jetekshi shákiller iseniмi",
+    "items": [
+      "Legal 500 tanıngan",
+      "IBA aǵzası",
+      "Ózbekstan Advokatlар Palatası",
+      "UNCITRAL Arbitraj",
+      "JST shеńberinde kеńes",
+      "Sheteldik investorlar keńesi"
+    ]
+  },
+  "services": {
+    "title": "Amaliyot tarawları",
+    "subtitle": "Ózbekstan hуqıqıy muhitiniń hár bir tárepin qamtigan ixtisoslastirilgan ekspertiza",
+    "corporate": {
+      "title": "Korporativ hуqıq hám M&A",
+      "description": "Kárxanalarды dizimge alıw, aksionerliq shártnamalar, qosılıw hám satıp alıw, due diligence hám korporativ qayta qurıw.",
+      "tags": [
+        "Qosma kárxanalar",
+        "Due Diligence",
+        "Aksionerliq shártnamalár",
+        "Qayta qurıw"
+      ]
+    },
+    "international": {
+      "title": "Xalıqaralıq sawda hám investiciyalar",
+      "description": "Tuwrıdan-tuwrı sheteldik investiciyalardı qurılıstırıw, SEZ boyınsha navigaciya, eki tárepli investiciya shártnamalárı hám shegara ótken bitimler.",
+      "tags": [
+        "TTI boyınsha keńes",
+        "BIT qorıwı",
+        "Erkin iqtisadiy zonalar",
+        "Bazarga kirisiw"
+      ]
+    },
+    "contract": {
+      "title": "Shartnama hуqıqı",
+      "description": "Ózbekstan hуqıqı, xalıqaralıq standartlar hám gibrid sistemalar boyınsha quramalı tijariy shártnamalardı islep shıǵıw, kóriw hám sóylesiwler.",
+      "tags": [
+        "Tijariy shártnamalar",
+        "Taminat shártnamalárı",
+        "Distribúsiya shártnamalárı",
+        "SLA"
+      ]
+    },
+    "labor": {
+      "title": "Miynet hуqıqı",
+      "description": "Miynet shártnamalárı, xızmetkerlerin qayta qurıw, HR sáykesligi, shеtellikler ushın jumıs ruxsatnаmalár hám miynet dawlasıwların sheshiw.",
+      "tags": [
+        "Jumıs ruxsatnamalárı",
+        "HR sáykesligi",
+        "Miynet dawlasıwları",
+        "Ekspat keńesi"
+      ]
+    },
+    "litigation": {
+      "title": "Sud isleri hám arbitraj",
+      "description": "Ózbekstan sudlarında, xalıqaralıq arbitrajda (ICC, LCIA, UNCITRAL) tijariy dawlasıwlarda wákil bolıw hám sheteldik qararlarды ijra etiw.",
+      "tags": [
+        "Tijariy sudlar",
+        "ICC arbitraj",
+        "LCIA",
+        "Ijra etiw"
+      ]
+    },
+    "learnMore": "Tolıǵıraq",
+    "viewAll": "Barlıq xızmetler"
+  },
+  "achievements": {
+    "title": "Aqırǵı jetiskenlikleri",
+    "subtitle": "Áhmiyetli nátiyjelерge erisiw",
+    "viewCase": "Isti kóriw"
+  },
+  "caseStudies": {
+    "title": "Is úlgileri",
+    "subtitle": "Haqıyqıy máseler. Strategiyalıq sheshimler. Ólsheniwshi nátiyjeleri.",
+    "challenge": "Másele",
+    "solution": "Sheshim",
+    "result": "Nátiyje",
+    "viewAll": "Barlıq isler",
+    "filterAll": "Hámesi",
+    "filterCorporate": "Korporativ",
+    "filterFDI": "TTI",
+    "filterLabor": "Miynet",
+    "filterLitigation": "Dawlasıwlar"
+  },
+  "calculator": {
+    "title": "Hуqıqıy quramalılıq kalkulyatórı",
+    "subtitle": "Hуqıqıy máseleniz ushın dárhal quramalılıq bahásın alıń",
+    "step1": "Investiciya túri",
+    "step2": "Taraw",
+    "step3": "Kelip shıǵıw ели",
+    "step4": "Múddet",
+    "investmentType": {
+      "fdi": "Tuwrıdan-tuwrı sheteldik investiciya",
+      "jv": "Qosma kárxana",
+      "ma": "M&A / Satıp alıw",
+      "contract": "Tijariy shartnama",
+      "dispute": "Dawlasıw / Sud járayánı"
+    },
+    "sector": {
+      "tech": "Texnologiya",
+      "energy": "Energetika hám resurslár",
+      "real-estate": "Kóshpey mulk",
+      "finance": "Moliyaviy xızmetler",
+      "manufacturing": "Islep shıǵarıw",
+      "retail": "Shekara sawda"
+    },
+    "timeline": {
+      "urgent": "Shoshılınsh (< 1 ay)",
+      "standard": "Standart (1–3 ay)",
+      "planned": "Rejelestirilgen (3–6 ay)",
+      "strategic": "Strategiyalıq (6+ ay)"
+    },
+    "calculate": "Quramalılıqtı esaplaw",
+    "result": {
+      "low": "Tómen quramalılıq",
+      "medium": "Ortasha quramalılıq",
+      "high": "Joqarı quramalılıq",
+      "critical": "Kritik quramalılıq"
+    },
+    "cta": "Konsultaciya alıw",
+    "disclaimer": "Bul baha tек baǵdarlawshı xarakterge iye. Anıq hуqıqıy analiz ushın biz menen baylanısıń.",
+    "features": {
+      "instant": "3 qadamda quramalılıq bahası",
+      "personalised": "Şaxsıy xızmet tavsıyaları",
+      "timeline": "Huquqıy meselenizdegi taxminiy merzler",
+      "privacy": "Şaxsıy maǵlıwmatlar jıynalmaydi"
+    }
+  },
+  "pulse": {
+    "title": "Tártipke salıw monitoringi",
+    "subtitle": "Hуqıqıy ózgerisler biznesge tásiri tárepinen",
+    "readMore": "Tolıq analiz",
+    "impact": "Biznesge tásiri",
+    "action": "Usınılǵan háreketler",
+    "viewAll": "Barlıq jańalanıwlar",
+    "backToInsights": "Tahlillerge qaytıw",
+    "ctaTitle": "Bul máwzu boyınsha hуqıqıy maslaxat kerekpe?",
+    "ctaSubtitle": "Advokatlarımız sizdiń jaǵdayıńız ushın mіnjburiy hуqıqıy xulasa usınadı.",
+    "ctaBtn": "Konsultaciyaǵa jazılıw"
+  },
+  "team": {
+    "title": "Bizdiń Komandamız",
+    "subtitle": "Xalıqaralıq tálim hám tereń mahalliy tájiriybeni birlestiretın joqarı mamlaqatlı yuristler",
+    "yearsExp": "Jıllıq tájiriybe",
+    "admittedIn": "Ruxsat berilgen",
+    "languages": "Tiller",
+    "viewProfile": "Profildi kóriw",
+    "viewAll": "Tolıq komandanı kóriw"
+  },
+  "aiAdvisor": {
+    "title": "AI Hуqıqıy Kenesgoy",
+    "subtitle": "Ózbekstan nızamshılıǵına úyretilgen AI menen dárhal hуqıqıy málimаtler",
+    "badge": "Beta — Kásiplik hуqıqıy keńes ornın basa almаydı",
+    "placeholder": "Ózbek korporativ hуqıqı, TTI qoidálárı, miynet kodeksi haqqında soraň...",
+    "send": "Jiberiw",
+    "newChat": "Jańa sóylesiw",
+    "recent": "Sońǵı sóylesiwler",
+    "legalTemplates": "Hуqıqıy shablonlar",
+    "documentDrafts": "Hújjet túziw",
+    "legalAdvisor": "Hуqıqıy kenesgoy",
+    "bookConsultation": "Konsultatsiya alıw",
+    "modelSelector": "AI modelini tańlaw",
+    "thinking": "Ózbekstan nızamshılıǵı analiz etilmekte...",
+    "disclaimer": "Juwaplar tek málimаt maqsetinde bolıp, hуqıqıy keńes esaplanbaydı. Resmiy xulosalar ushın yuristlerimizge murаjaat eting.",
+    "suggestedFollowups": "Qosımsha sorawlar:",
+    "copy": "Nusxa alıw",
+    "copied": "Nusxalandi",
+    "retry": "Qayta urınıw",
+    "tryAgain": "Yana urınıw",
+    "listening": "Tıńlayman… sóyleniń",
+    "stopListening": "Toqtatıw",
+    "dropFile": "Faydı bul jerge taslaň",
+    "dropFileHint": "TXT, PDF, DOCX qollap-quwatlanadı",
+    "inputHint": "Enter — jiberiw · Shift+Enter — jańa qatar · Faydlardı súyrew",
+    "clearChat": "Sóylesiwdi tazalaw",
+    "exportChat": "Sóylesiwdi júklaw",
+    "downloadTxt": ".txt júklaw",
+    "savedMessages": "Saqlanǵan juwaplar",
+    "noSaved": "Hálí saqlanǵan juwaplar joq",
+    "saveMsg": "Saqlaw",
+    "unsaveMsg": "Óshiriw",
+    "addContext": "Biznes kontekstin qosıw",
+    "contextPlaceholder": "Mıs.: Biz Ózbekstan EIZ zonaların uyrenip atırǵan nemis óndiris kompaniyasımız...",
+    "contextHint": "Kontekst AIǵa sіzdіń jaǵdayıńızǵa mas juwaplar beriwge járdem beredi",
+    "wordCount": "sóz",
+    "searchChats": "Sóylesiwlerdi izlew...",
+    "jumpToBottom": "Aqırǵı xabarǵa ótiw",
+    "contextActive": "Kontekst fаol",
+    "tokenEstimate": "Kontekst",
+    "tone": {
+      "label": "Juwap uslubı",
+      "formal": "Resmiy",
+      "concise": "Qısqa",
+      "detailed": "Batafsıl"
+    },
+    "toneHint": {
+      "formal": "Professionаl hуqıqıy jazıw uslubı",
+      "concise": "Qısqa hám anıq juwaplar",
+      "detailed": "Terеn tаlqınlaw"
+    },
+    "quickPrompts": {
+      "fdi": "Ózbekstanǵa sheteldik tuwrıdan-tuwrı investiciya ushın qanday taláplar bar?",
+      "company": "Shetellik sıpatında Ózbekstanda kárxana qálаy dizimge alınadı?",
+      "labor": "Ózbekstan Miynet kodeksiniń tiykarǵı qoidalárı nelerden ibarat?",
+      "dispute": "Ózbekstanda tijariy arbitraj qálаy isleydi?",
+      "tax": "Ózbekstan erkin zonalar investorları ushın qanday salıq jeńillikler bar?"
+    },
+    "modes": {
+      "fast": {
+        "label": "Tez",
+        "desc": "Tez juwaplar"
+      },
+      "balanced": {
+        "label": "Teń",
+        "desc": "Kóp jaǵdayda"
+      },
+      "deep": {
+        "label": "Terеń analiz",
+        "desc": "Quramalı masalalar"
+      }
+    },
+    "thinkingMessages": [
+      "Ózbekstan nızamshılıǵı analiz etilmekte...",
+      "Tiyisli hуqıqıy maqalalar qaralıp atır...",
+      "2026 jıl ózgerisler tekserilmekte...",
+      "Xalıqaralıq standartlar salıstırılmaqta...",
+      "Pukаralik hám Salıq kodeksi normaları úyrenilmekte...",
+      "Hуqıqıy analiz tayyarlanmaqta..."
+    ],
+    "followUpBank": [
+      "Qoidabuzarlıq ushın qanday jarimalar bar?",
+      "Qanday hújjetler talap etiledi?",
+      "Bul jarayon adette qansha waqıt aladı?",
+      "2026 jıl ózgerislerde ne jańalandı?",
+      "Ámeliy basqıshpa-basqısh qollanba bere alasız ba?",
+      "Qanday xatarlardan xabardár bolıwım kerek?",
+      "Bul xalıqaralıq ámeliyat penen qalday parıqlanadı?",
+      "Birinshi qadamım qanday bolıwı kerek?",
+      "Istisnolar yaki arnawlı jaǵdaylar barma?",
+      "Sáde tilde túsintirir alasız ba?"
+    ],
+    "templates": [
+      {
+        "icon": "🔍",
+        "label": "NDA analizi",
+        "prompt": "Ózbekstan nızamshılıǵına kóre maxfiylık shartnamasi (NDA) tiykarǵı bapların analiz eting. Sheteldik kompaniya nege itibar beriw kerek, qaysi bapler orındaw múmkin hám ne muzákerege kirgizilıwı kerek?"
+      },
+      {
+        "icon": "🏢",
+        "label": "Kompaniyani dizimge alıw",
+        "prompt": "2025 jılı sheteldik investor sıpatında Ózbekstanda MShJ dizimge alıwdıń tolıq basqıshpa-basqısh jarıdayın túsindiriń. Talap etiletug'ın hújjetler, jıyımlar, mársimler hám kеń tarqalǵan qateliklerdi kirgiziń."
+      },
+      {
+        "icon": "🌍",
+        "label": "TTI strukturası",
+        "prompt": "Sheteldik investor Ózbekstanǵa investitsiyasın qalday tuzilmalashtırıw kerek — hуqıqıy qorgaw hám salıq unımlılıǵın maksimal dárejede támiyn etiw ushın? MShJ, qospa kárxana, filial hám wákilxana variantların salıstırıń."
+      },
+      {
+        "icon": "👷",
+        "label": "Miynet ruxsatnаmаsi",
+        "prompt": "Ózbekstanda sheteldik xızmetkerler ushın miynet ruxsatnаmаsi hám jasawga ruxsat alıwdıń tolıq jarıdayın túsindiriń. Hújjet talaplарı, kvotalar, mársimler hám is beriwshi mıjbúriyatların kirgiziń."
+      },
+      {
+        "icon": "⚖️",
+        "label": "Nizolardı sheshiw",
+        "prompt": "Ózbekstanı óz ishine alǵan xalıqaralıq tıjаrat nizolardı sheshiwdiń eń jaxshı usılları qanday? Sudlar, MKAS, ICC, LCIA hám YuNSITRAL nı orınlaw hám bаha núqtаi nazarınan salıstırıń."
+      },
+      {
+        "icon": "💰",
+        "label": "Salıq optimizatsiyası",
+        "prompt": "Ózbekstanda sheteldik kompaniyalar ushın salıq sistemasın túsindiriń: korporativ dáramat salıǵı, QQS, dividendlerge chegirma salıǵı, IT park hám EIZ jeńillikler, eki salıqtan azat etıw shartnamaları."
+      },
+      {
+        "icon": "🤝",
+        "label": "QShJ qorǵawı",
+        "prompt": "Ózbekstandaǵı investitsiyamdı qaysi Eki tаraplаmа investitsiya shartnаmaları qorǵaydı? Olar qanday ISDS hуqıqların beredi? Ózbekstan imzolagan eń qolay shartnаmаlar dizimi."
+      },
+      {
+        "icon": "📊",
+        "label": "Due Diligence tekseriw",
+        "prompt": "Sheteldik investor Ózbekstanda kompaniya sатıp alıwdan aldın qanday hуqıqıy tekseriw ótkeziw kerek? Korporativ, salıq, tartıpqa salıw hám miynet xatarların qamrawga alǵan tolıq chek-list."
+      },
+      {
+        "icon": "🏗️",
+        "label": "Kóshpes múlk hám jer",
+        "prompt": "Shetellıqlar Ózbekstanda kóshpes múlk yaki jer paydalanıw hуqıqın alıwdaǵı hуqıqıy sheklewler hám tártipter qanday? Ijara hám egalık hуqıqı, investitsion múlk qoidaları hám tiykarǵı xatarlar."
+      },
+      {
+        "icon": "🔒",
+        "label": "Tálаpqa sáykeslık",
+        "prompt": "Ózbekstanda sheteldik kompaniyalar ushın tálаpqa sáykeslık talaplari qanday? Korrupsiyaǵa qarshi nızamlar, valyuta nazoratı, málimаtlardı qorǵaw, bаjxanа qoidaları hám mıjbúriy есhоt talaplarin qaмrawǵа alıń."
+      }
+    ],
+    "drafts": [
+      {
+        "icon": "📄",
+        "label": "Miynet shartnamasi",
+        "prompt": "Ózbekstannıń Miynet kodeksine tolıq sáykes kóriniste sheteldik MShJdaǵı joqarı dárejeli menejer ushın keń qamrawlı miynet shartnamasın túziń. Kirgiziń: sınaqlay múddet, miynet haqı (soм hám USD da), is waqtı, jıllıq tatıl (21 kún), shartnamanı biykar etıw tiykarlary (MK 100-bap), maxfiylık hám raqobat tıyımı. Imzaǵa tаyyar professional format."
+      },
+      {
+        "icon": "🤝",
+        "label": "NDA shartnamasi",
+        "prompt": "Ózbekstanda aldınan investitsion tekseriw ótkerip atırǵan eki kompaniya arasında eki tárаplаmа Maxfiylıq Shartnamasın (NDA) túziń. Kirgiziń: maxfiy málimаt tарifleri, ashaqlastırıw mıjbúriyatleri, ruxsat etilgen paydalanıw, istisnolar, 3 jıllıq múddet, tаmаmlаnǵаnnаn soń málimаt qаytаrıw, qollanıladıǵan hуqıq (ÓzR), arbitraj (Tashkent Iqtisodiy Sudi), imzo blokları. Professional format."
+      },
+      {
+        "icon": "🏢",
+        "label": "MShJ Nizomı (Ustav)",
+        "prompt": "Bir sheteldik tiykarshılı Ózbekstan MShJ niń tolıq Nizomın (Ustav) túziń. Kirgiziń: tolıq атamаsı (ózbeksha/orıssha), huqiqiy manzili, faoliyat túrleri (IFUT kodları), ustav kapitali, tiykarshı hуqıq hám mıjbúriyatları, Umumiy jıyınis tártibi, Direktor ıqtıyarlıqları, paydа taqsımlаw, tаmаmlаw. ÓzR MShJ haqqındaǵı Nızam № 562-II ge sáykes."
+      },
+      {
+        "icon": "📋",
+        "label": "Xızmet kórsetiw shartnamasi",
+        "prompt": "Sheteldik kompaniya (Buyurtmashı) hám ózbek konsalting firması (Xızmet kórsetiwshi) arasında professional xızmetler shartnamasın túziń. Kirgiziń: xızmet predmeti, nátiyjeler hám qabıl etıw tártibi, tólem (USD, 10 kún ishinde bank ótkazması), IP egalıǵı, jаwapgershlık shegаrаsı, maxfiylık, biykar etıw (30 kún eskertıw), fors-major, qollanıladıǵan hуqıq (ÓzR, ICC arbitrajı). Imzaǵa tаyyar format."
+      },
+      {
+        "icon": "🌍",
+        "label": "Qospa kárxana shartnamasi",
+        "prompt": "Sheteldik investor (50%) hám ózbek kompaniya (50%) arasında Ózbekstanda jańa MShJ quriw ushın Qospa Kárxana Shartnamasın túziń. Kirgiziń: maqset hám predmet, kapitalǵa úlesler, Tekserıw Keńesi (2+2 + mustaqil basshı), birden ses talap etiletug'ın masalalar, payda taqsımlаw, raqobat tıyımı, put/call mexanizmi, tıqılıp qalıw jaǵdayları, qollanıladıǵan hуqıq (ÓzR, YuNSITRAL arbitrajı). Professional format."
+      },
+      {
+        "icon": "🏗️",
+        "label": "Ijara shartnamasi",
+        "prompt": "Mahalliy múlk egesi (Ijaraǵa beriwshi) hám sheteldik kompaniya (Ijarashı) arasında Ózbekstanda tıjаrat kóshpes múlkke ijara shartnamasın túziń. Kirgiziń: obekt tawsifi, ijara múddeti (5 jıl, jańalаw optsiyası menen), áylık ijara haqı USD da (jıllıq 5% indeksatsiya), kafаlаt depoziti (3 ay), ruxsat etilgen paydalanıw, jaxsılaw hуqıqları, texnik xızmet, sıǵırlаndırıw, múddetinen aldın biykar etıw, qollanıladıǵan hуqıq. Professional format."
+      }
+    ],
+    "models": {
+      "claude-sonnet-4-6": "Nozık hуqıqıy mulahaza hám ajayip манba anıqlıǵına ega",
+      "gpt-4o": "Kóp tillı kúshli imkаniyatlar menen keń hуqıqıy analiz",
+      "gpt-4o-mini": "Tez hуqıqıy sorawlar hám hújjet xulasaları ushın",
+      "gemini-2_5-pro": "Google'diń eń kúshli modeli — pútın hújjetler boyınsha terеń hуqıqıy talqın",
+      "gemini-2_0-flash": "Real waqıtlı hуqıqıy sorawlar ushın ultra tez kóp modallı juwaplar",
+      "mistral-large": "Orıs hám Ózbek tillerın jaqsı qollap-quwatlaw menen joqarı dárejeli hуqıqıy talqın",
+      "llama-3_3-70b": "Ashıq nizam modeli — Groq arqalı eń tez xulosalar"
+    },
+    "uploadDoc": "Hújjet júklaw",
+    "copyResponse": "Nusxa alıw",
+    "regenerate": "Qayta jaratıw",
+    "features": {
+      "multilingual": "EN, RU, UZ tillerinde juwap beredi",
+      "legislation": "Ózbekstan hуqıq bazası",
+      "models": "5 AI modeli",
+      "streaming": "Real waqıtlı uzatıw"
+    },
+    "format": {
+      "label": "Format",
+      "auto": "Standart",
+      "opinion": "Huquqıy juwmaq",
+      "summary": "Qısqasha",
+      "assessment": "Qaup bahalaw",
+      "opinionDesc": "Faktlar → Nızam → Talqın → Juwmaq",
+      "summaryDesc": "Hukukshılar ushın emes 3–5 band",
+      "assessmentDesc": "Qaup darejesı + usınıslar"
+    }
+  },
+  "entityComparison": {
+    "badge": "Salıstırıw qurali",
+    "title": "Qaysi biznes qurılımı siz ushın tuwrı?",
+    "subtitle": "Ózbekstandaǵı sheteldik investorlar ushın qoljetimli ár bir yuridik shaxs turin salıstırıń",
+    "feature": "Параметр",
+    "ctaText": "Qaysi qurılım investiciyanız ushın mас ekenligin bilmeysizbе? Korporativ advokatlarımız maslahat beredi.",
+    "ctaButton": "Shaxsıy maslahat alıw",
+    "rowLabels": {
+      "minCapital": {
+        "label": "Minimal kapital",
+        "info": "Kárxana qurılǵandaǵı ustav kapitalı"
+      },
+      "foreignOwnership": {
+        "label": "100% sheteldik iyelik"
+      },
+      "legalPersonality": {
+        "label": "Bólektegi юridik shaxs"
+      },
+      "liability": {
+        "label": "Sheklengen juwapkershilik",
+        "info": "Tásiyssshiler / aksionerler kárxana qarzlarınan qorǵalǵan"
+      },
+      "canTrade": {
+        "label": "Dáramat ala aladı"
+      },
+      "formationTime": {
+        "label": "Dizimge alıw múddeti"
+      },
+      "taxRate": {
+        "label": "Korporativ daromat salıǵı"
+      },
+      "canHireForeign": {
+        "label": "Sheteldik xızmetsherler jallaw"
+      },
+      "bankAccount": {
+        "label": "UZS bank shóti"
+      },
+      "fezEligible": {
+        "label": "EIZ / IT Park hуqıqı"
+      },
+      "registrationBody": {
+        "label": "Dizimge alıw organı"
+      },
+      "complexity": {
+        "label": "Dúziw qıyınshılıǵı"
+      }
+    },
+    "entities": {
+      "llc": {
+        "name": "MShJ (Sheklaulı Juwapkershilikli Jámiyet)",
+        "local": "МЧЖ",
+        "short": "MShJ"
+      },
+      "jsc": {
+        "name": "AJ (Aksionerlik Jámiyet)",
+        "local": "АЖ",
+        "short": "AJ"
+      },
+      "branch": {
+        "name": "Filial",
+        "local": "Филиал",
+        "short": "Filial"
+      },
+      "rep": {
+        "name": "Wákilxana",
+        "local": "Представительство",
+        "short": "Wákil."
+      }
+    },
+    "partialLabel": "Bólek",
+    "cellStrings": {
+      "minCapital": {
+        "llc": "Joq (2019 jıl islahatı)",
+        "jsc": "400× ESE (~$8K)",
+        "branch": "Joq",
+        "rep": "Joq"
+      },
+      "formationTime": {
+        "llc": "3–7 kún",
+        "jsc": "2–4 háfte",
+        "branch": "4–8 háfte",
+        "rep": "4–8 háfte"
+      },
+      "taxRate": {
+        "llc": "15% (standart)",
+        "jsc": "15% (standart)",
+        "branch": "15%",
+        "rep": "Salıqsız"
+      },
+      "registrationBody": {
+        "llc": "Ádillik ministrligi",
+        "jsc": "Ádillik ministrligi",
+        "branch": "Ádillik + Sırtqı islеr ministrligi",
+        "rep": "Ádillik + Sırtqı islеr ministrligi"
+      },
+      "complexity": {
+        "llc": "Tómen",
+        "jsc": "Orta",
+        "branch": "Orta-joqarı",
+        "rep": "Orta-joqarı"
+      }
+    }
+  },
+  "news": {
+    "title": "Hуqıqıy Jańalıqlar",
+    "subtitle": "Ózbekstanniń rawajlanıp atırǵan hуqıqıy hám biznes muhitınan xabardár bolıń",
+    "search": "Jańalıqlardı izlew...",
+    "filterAll": "Barlıq máwzular",
+    "filterBusiness": "Biznes",
+    "filterLegal": "Hуqıqıy jańalanıwlar",
+    "filterEconomy": "Iqtisadiyat",
+    "filterPolitics": "Siyasat hám tártipke salıw",
+    "filterTechnology": "Texnologiya",
+    "filterInvestment": "Investiciyalar",
+    "noResults": "Jańalıqlar tabılmadı. Basqa izlew yamasa filtrdı sınap kóriń.",
+    "readFull": "Tolıq oqıw",
+    "source": "Qаynаq",
+    "publishedAt": "Járiyalanǵan",
+    "loading": "Aqırǵı jańalıqlar júklenmekte...",
+    "errorLoad": "Jańalıqlardı júklew qátesi. Qayta urınıp kóriń.",
+    "langFilter": "Til",
+    "langAll": "Barlıq tiller",
+    "langEn": "Ingilizsha",
+    "langRu": "Russha",
+    "sortBy": "Saralaw",
+    "sortNewest": "Aldı jańıları",
+    "sortRelevant": "Eń dolzarblıları"
+  },
+  "faq": {
+    "title": "Kóp Soraladigan Sorawlar",
+    "subtitle": "Ózbekstanda biznes júrgiziwge baylanıslı eń kóp beriletuǵın huqıqıy sorawlarga anıq hám yetkilı jawaplar",
+    "searchPlaceholder": "Sorawlardı izdew...",
+    "noResults": "Sorawıńızga sáykes sorawlar tabılmadı. Basqa kalit sóz menen izdep kóriń yáki kategoriya tańlań.",
+    "cta": "Sorawlarıńız qaldımı?",
+    "ctaSubtitle": "Advokatlarımız anıq huqıqıy maslахat beriwge tayyar.",
+    "bookConsultation": "Konsultatsiyaga jazılıw",
+    "categories": {
+      "all": "Barsha sorawlar",
+      "corporate": "Korporativ huqıq",
+      "investment": "Investitsiyalar",
+      "labor": "Mehnat huqıqı",
+      "taxation": "Salıqlar",
+      "arbitration": "Arbitraj",
+      "contract": "Shártnama huqıqı",
+      "compliance": "Komplaens",
+      "realestate": "Kóshpes múlk"
+    },
+    "items": [
+      {
+        "category": "corporate",
+        "question": "Shett el yuridik shaxs sıpatında Ózbekstanda kompaniya qanday dizimnen ótedi?",
+        "answer": "Shett el shaxslar Ózbekstanda bırneshe huqıqıy formada dizimnen óte aladı: MShJ (Juwapkershiligi Sheklengen Jamaat), AJ (Aksiyadarlar Jamiyeti) yáki filial/wákilxana. Jarayán: ustav hújjetleri, shett el yuridik shaxs tasdıqlawhı hújjetleri, bank kóshirmelerinin tapsırıw hám Birlesken mámleket reestri arqalı mámleket bájin tólaw. Dizimnen ótiw ádette 3–7 jumıs kúnin aladı. Filial hám wákilxana ashıw SIM yáki Ádilet ministrlıginde qosımsha akkreditatsiya talap etedi."
+      },
+      {
+        "category": "corporate",
+        "question": "Ózbekstanda MShJ úshin minimal ustav kapital mıqdarı qansha?",
+        "answer": "2019-jılgı reformalardan beri Ózbekstanda MShJ úshin minimal ustav kapital talabı bekár etilgen. Biraq ustav kapital dizimnen ótken kúnnen baslap bir jıl ishinde tolıq kirgizilwi shert. Ashıq aksiyadarlar jamiyatleri (AJ) úshin minimal mıqdar 400 ta tiykarı esap-kitap mıqdarın (TEM) quraydı."
+      },
+      {
+        "category": "corporate",
+        "question": "Ózbekstanda M&A bitimleri úshin qanday talaplar bar?",
+        "answer": "Ózbekstandagı biriktiw hám jalıp etıw bitimleri bırneshe tártibge salıwshı basqıshtan ótiwdi talap etedi: (1) nızamlı shegden astı, Monopoliyaga qarsı komitetden ruxsat alıw; (2) banklar, sıyáqlandırıw, telekommunikatsiya úshin tarmaqlıq ruxsatnamalar; (3) privatizatsiya bilan baylawlı bitumlarda Mámleket aktivlerin basqarıw agentligin xabardár etıw; (4) strategiyalıq tarmaqlardagı bitumlarda shett el investitsiyaların kórip shıgıw."
+      },
+      {
+        "category": "corporate",
+        "question": "Wákilxananı tolıq MShJga qanday aylantırıw múmkin?",
+        "answer": "Wákilxananı operatsiyalıq MShJga aylantırıw kóp basqısh jarayáni: (1) Ádilet ministrlıgına hújjet tapsırıw hám salıq esabınan oshırıw arqalı wákilxananı rasmi tárıqta jabıw; (2) MShJ haqqındagı Nızam (562-II) tiykarında jańa MShJ dizimnen ótkeriw; (3) wákilxanadan MShJga aktivler hám shártnamalarını ótkerıw; (4) barsha litsenziyalar hám ruxsatnamalardı MShJ atına qayta rásmiylestiriw; (5) korporativ bank shótların ashıw hám salıq organında qayta dizimnen ótiw. Jámi jarayáni 4–8 hápte aladı."
+      },
+      {
+        "category": "investment",
+        "question": "Ózbekstandagı shett el investorlar úshin tiykarı talaplar qanday?",
+        "answer": "Shett el investorlar Shett el investitsiyalar haqqındagı Nızamga (1998, 2019 hám keyingi pármánlar menen ózgertilgen) riaya etiwi shert. Tiykarı talaplar: investitsiya qurálın Ádilet ministrlıgında dizimnen ótkeriw; tártibge salınatuǵın pááliyyet túrleri úshin tarmaqlıq litsenziyalar alıw (bank, sıyáqlandırıw, farmatsevtika, telekommunikatsiya); Oraylıq bank tárеpinen basqarılatın valyuta nızamına riaya etıw. Eki tárepleme investitsiya shartnomları (BIT) dúzilgen mámlekatlarden kelgen investorlar qosımsha kepilliklерge iye."
+      },
+      {
+        "category": "investment",
+        "question": "Ózbekstannıń Erkin ekonomikalıq zonalarında qanday investitsiya imtiyazları bar?",
+        "answer": "Ózbekstannıń Erkin ekonomikalıq zonalarında (EEZ) muhim imtiyazlar paketi usinıladı: 3–10 jıl dawamında 0% korporativ daramat salıg'ı (investitsiya kólemine qaray), 0% múlk salıg'ı, 0% jer salıg'ı, 0% suw paydalanıw salıg'ı, uskunalar hám xám ashı importına imtiyazlı bojxana tarifleri, jańılashtırılgan ákimshilik tártipler. Tiykarı EEZlar: Náwáy, Ánjıren, Jızaq, Úrgiyt, Nókis."
+      },
+      {
+        "category": "investment",
+        "question": "Ózbekstanda eki tárepleme investitsiya shártnomalar (BIT) barma?",
+        "answer": "Awa. Ózbekstan 50 den artıq mámlekатlar menen, sonıń ishinde Germaniya, Frantsiya, Ullı Britaniya, Janúbıy Koreya, Xıtay, Yaponiya, BAA, Túrkiya hám kópsheligi MDH agzaları menen BIT imzalagen hám ratifikatsiya etgen. Shártnomalar investorlarga quyıdagı kepilliklerdi beredi: milliy rejim, eń qolay mámleket maqamı, nızamsız musádera etiwden qorgaw, daramat hám kapitalıń erkin ótkeriliw huqıqı hám xalıqaralıq arbitrajda nizalarín sheshiw múmkinshiligi."
+      },
+      {
+        "category": "investment",
+        "question": "Ózbekstanda shett el investitsiya úshin eń jaxshı tarmaqlаr qaysilar?",
+        "answer": "Ózbekstan hukimeti maksimal investor qollap-quwatlawın támiyinleytuǵın bir qatar basım tarmaqlardı belgilegen: energetika hám qaytalanatuǵın elektr energiyası (kún, jel, gidroelektrostantsiyalar); informatsiya texnologiyaları hám sanallı xizmetler (IT-park rezidenti imtiyazları); óndirıs hám lokalizatsiya bágdárlamaları; agro-azıq-awqat islеw hám eksportqa baglanatuǵın awıl xojalıg'ı; turizm infratuzilması; farmatsevtika hám medikalıq qurılmalar."
+      },
+      {
+        "category": "labor",
+        "question": "Mehnat kodeksiniń mehnat shártnomaları boyınsha tiykarı qágiydaları qanday?",
+        "answer": "Ózbekstan Mehnat kodeksine kóre (2022–2024-jıl táhrirleri), barsha mehnat shártnamaları jazba formada dúzilishi hám quyıdagılardı óz ishige alıwı shert: táreplerniń tolıq málimeti, lávazım atı, jumıs orını, ish haqqı shártleri, jumıs tartibi, ájtimaiy kepillikler hám shártnoma múddeti. Múddetti mehnat shártnamaları (5 jılga shekem) hújjetli tiykarlawdı talap etedi. Sınaqtan ótiw múddeti 3 aydan aspawı kerek. Xızmetskerlerge keminde 24 jumıs kúnlik jıllıq tolıq haqlanatuǵın dem alıs kepillenedi."
+      },
+      {
+        "category": "labor",
+        "question": "Shett el puqaralar Ózbekstanda jumıs ruxsatnamasın qanday aladı?",
+        "answer": "Shett el puqaralar Mehnat ministrlıgındagı Sırtqı mehnat migratsiyası agentligi tárеpinen beriletuǵın jumıs ruxsatnamasına (tásdiqlangan taklit) múhtaj. Áriza xızmetker atınan jumıs beriwshi tárеpinen tapsiríladı. Talap etiletuǵın hújjetler: imzalangan mehnat shártnomasi, jumıs berishining mámleket diziminen ótkenligi guáhnaması, xızmetkerdiń pasportı (notarialıq tásdiqlangan awdaması menen), diplomlar yáki profессional kwalifikatsiyalar (apostil etilgen), méditsinalıq anıqlama. Standart kórıp shıgıw múddeti 10–15 jumıs kúni."
+      },
+      {
+        "category": "labor",
+        "question": "Ózbekstanda xızmetskerlerdi jumısnan bosatıw qágiydaları qanday?",
+        "answer": "Xızmetskerlerdi jumısnan bosatıw Ózbekstanda Mehnat kodeksiniń 100-maddesi menen qátiy tártibge salınadı. Nızamlı tiykarlar quyıdagılardı ózine aladı: shtat qısqartırıw, xızmetskerdiń waziypalardı sistemali túrde orınlamawı, yaganalıq áwmetli huqıqbuzarlıq, kárxananı jabıw, múddetti shártnomannıń ayaqlasuı. Shtat qısqartırıwı sabablı jumısnan bosatılganda jumıs beriwshi keminde 2 ay aldın jazba eskertpе beriwi shert. Nápaqá puli mınjburiy tárizde tólenedi."
+      },
+      {
+        "category": "labor",
+        "question": "Ózbekstanda jumıs berishiniń ájimaiy tólew boyınsha mınjburyatları qanday?",
+        "answer": "Ózbekstandagı jumıs beriwshiler xızmetkerdiń jalpi ish haqınan birlesken ájtimaiy salıq 25% tólewi shert. Mınjburiy pensiya tólewleri hám 2021-jıldan kúshke kirgen mınjburiy médıtsinalıq sıyáqlandırıw tólewleri de qollanıladı. IT-park rezident kompaniyaları úshin pasaytırılgan stavkalar qollanıladı — xızmetskerlerdiń jeke daramat salıg'ı standart 12% orınına 1% ni quraydı."
+      },
+      {
+        "category": "taxation",
+        "question": "Ózbekstanda biznes úshin tiykarı salıq stavkaları qanday?",
+        "answer": "2024–2025-jıllar jaǵdayına qaray Ózbekstandagı tiykarı salıq stavkaları: Korporativ daramat salıg'ı (KDS) — 15% (standart stavka); QQS — 12%; Ájtimaiy salıq (jumıs beriwshi úlesi) — jalpi ish haqı fondınan 25%; Jeke daramat salıg'ı (JDS) — 12% (tekis stavka); Múlk salıg'ı — kadastr qıymatınıń 2%; Jer salıg'ı — aymaق hám maqsetine qaray ózgesheled; Dividendlarga ushlab qalıw salıg'ı — 5%. EEZ rezidentleri, IT-park kompaniyaları hám basım tarmaqlardagı kárxanalar tolıq yáki bólimli salıqtan azat etiledi."
+      },
+      {
+        "category": "taxation",
+        "question": "Ózbekstannıń eki tárepleme salıq shártnomaları qanday?",
+        "answer": "Ózbekstan 60 den artıq mámlekätler, sonıń ishinde Rossiya, Germaniya, Xıtay, Ullı Britaniya, Janúbıy Koreya, BAA, Frantsiya, Yaponiya hám barsha MDH agza mámlekatleri menen Eki tárepleme salıqtan qashıw haqqındagı shártnomalar (DTT) dúzgen. Bul shártnomalar ádette dividendlar, payızlar hám royaltilarga ushlab qalıw salıqların azaytıradı (kóbinese 5–10% ke deyin)."
+      },
+      {
+        "category": "taxation",
+        "question": "Ózbekstandagı IT-park salıq imtiyazları qanday?",
+        "answer": "Ózbekstan texnologiya parkınıń (IT-park) rezidentleri áwmet jozıbalı salıq paketten paydalаnadı: IT-pááliyetten 0% korporativ daramat salıg'ı, dasturlıq támiyináttı islep shıgıw hám IT-xizmetlerden 0% QQS, akkreditatsiyalanganIT-xızmetskerлeri úshin 1% pasaytırılgan jeke daramat salıg'ı, import etilgen IT-uskunalarına 0% bojxana bájleri, 0% ájtimaiy salıq. Imtiyazlar 2028-jılga shekem uzaytırılgan."
+      },
+      {
+        "category": "taxation",
+        "question": "Ózbekstanda transfer bаhalástırıw qanday isleydi?",
+        "answer": "Rasmiy transfer bahalastırıw qágiydaları Ózbekstanda 2022-jılda engiziligen. Óz-ara baylanıslı shaxslar arasındagı bitimler (25% yáki onnan kóp úles yáki haqıyqıy nаzоrат) tamoyilına boyınsınadı. Salıq kodeksi 20% awıtqıw qágiydásın belgileydi: nazоrat etilatıgın bitim bahası nárх baza bahadan 20% den kóbre óshgip ketse, salıq organı salıq bazasın tuzatıwga haqlı."
+      },
+      {
+        "category": "arbitration",
+        "question": "Ózbekstanda tijariy arbitraj qanday isleydi?",
+        "answer": "Ózbekstan xalıqaralıq tijariy arbitraj boyınsha UNCITRAL Namunaviy Nızamına tayángan zamanagóy arbitraj sistemasına iye. Tiykarı arbitraj institutları: Ózbekstan sawda-sanaat palatasınıń qasındagı Xalıqaralıq tijariy arbitraj sudi (XTAS) hám Tashkent xalıqaralıq arbitraj oraylıgı (TXAO). Ózbekstan 1996-jıldan beri shett el arbitraj sheshimlerin tanıw hám ijra etiw haqqındagı Nyu-York konventsiyasına agza bolıp, shett el sheshimler Ózbekstan sudlarında ijra etiledi."
+      },
+      {
+        "category": "arbitration",
+        "question": "Ózbekstanda shett el sud sheshimin ijra ettirew múmkinbi?",
+        "answer": "Shett el sud sheshimlerін Ózbekstanda ijra ettirew Ózbekstan menen sheshim shiqqan mámleket arasında huqıqıy járdem haqqında eki tárepleme shártnomannıń bar bolıwın talap etedi. Bundаy shártnomalar Rossiya, Xıtay hám bir qansha MDH mámlekatleri menen dúzilgen, biraq kópsheligi Batıs mámlekatleri menen joq. Shártnoma bolmasa, shett el sud sheshimleri ádette tıklaydı-tıklamay ijra etilmeydi. Shett el arbitraj sheshimleri bolsa Nyu-York konventsiyası tiykarında ijra etiledi — sonlıqtan shártnamalarda xalıqaralıq arbitraj klawzasın kirgiziw qátiy usınıladı."
+      },
+      {
+        "category": "arbitration",
+        "question": "Ózbekstanda tijariy dáwalar boyınsha dáwá múddeti qansha?",
+        "answer": "Ózbekstan Puqaralıq kodeksine kóre puqaralıq hám tijariy dáwalar boyınsha ulıwma dáwá múddeti 3 jılnı quraydı. Múddet dáwáger óz huqıqınıń buzılganlıgın hám tiyisli jawapkerni bilgen yáki bilıwi kerek bolgan kúnnen baslap ótedi. Ayrım arnawlı dáwalar basqa múddetlerge iye: transport zıyanına baylanıslı dáwalar (1 jıl), sıyáqlándırıw shártnomalarınan kelip shiqqan dáwalar (2 jıl)."
+      },
+      {
+        "category": "contract",
+        "question": "Ózbekstan nızamshılıgında shártnamadı haqıyqıy etewshi nárse neme?",
+        "answer": "Ózbekstan Puqaralıq kodeksine kóre shártnama quyıdagılar bar bolganında haqıyqıy esaplanadı: oferta (tiykarı shártler menen anıq usınıs), aksept (sózsiz kelisim) hám nızamlı mınjburiyát tiykarı. Tárepler ámel etиw láyaqatına iye bolıwı shert. Ayrım shártnama toparları úshin qosımsha rasmiy talaplar qollanıladı: 100 TEM den asıq mıqdardag'ı shártnomalar jazba formada dúzilıwi; kóshpes múlk bilan baylanıslı bitimler notarialıq tástıyıqtan ótıwi hám mámleket diziminen ótıwi kerek."
+      },
+      {
+        "category": "contract",
+        "question": "Ózbekstan shártnama huqıqı hám CISG/UNIDROIT Tamoyillari arasındagı tiykarı parqlar nede?",
+        "answer": "Ózbekstannıń shártnama huqıqı Puqaralıq kodeksiniń 26–28-bólimleri menen kodifikatsiya etilgen. CISG Ózbekstan hám basqa agza mámlekätler arasındagı xalıqaralıq tovar sawda shártnomalarına avtomat túrde qollanıladı, eger ol anıq istisno qilinmagan bolsa. UNIDROIT tamoyilleri tárepler kelisimi menen yumsaq huqıq tiykarında qosılıwı múmkin. Tiykarı parqlar: Ózbekstan PKde fors-major taárifi CISGga salıstırgananda kenrek; Ózbekstan huqıqı joqarı qıymetli shártnomalar úshin jazba formadı talap etse, CISG bunday talap qoymаydı."
+      },
+      {
+        "category": "contract",
+        "question": "Ózbekstanda ádalatsız shártnama shártleri qanday tártibge salınadı?",
+        "answer": "Ózbekstan huqıqı iste'molshı hám tijariy (B2B) shártnomalar araında parq qiladı. Iste'molshı shártnomalarında iste'molshıga zıyan keltiriwshi shártler iste'molshılardı qorǵaw nızamshılıgına qarama-qarshı sıpatında haqıyqıy emes dep tanıladı. Tijariy shártnamalarda ulıwma tamoyil caveat emptor bolıp — professionállar shártnomaların óz básimleri menen muzakere etedi. Biraq PK táreplerge jaxshi niyetlіlik mınjburıyatın júkleydi (8-modda), imperativ qágiydalarına qarama-qarshı shártler haqıyqıy emes."
+      },
+      {
+        "category": "compliance",
+        "question": "Ózbekstanda shett el biznesge qanday korruptsiyaga qarsı nızamlar qollanıladı?",
+        "answer": "Ózbekstanda pááliyyet júrgiziwshi shett el biznes Korruptsiyaga qarsı gúres haqqındagı Nızam (2017) doirasına kiredi, ol mámleket hákim shaxslarına para usınıs etiwdi, beriwdi yáki alıwdı tıyım saladı hám kompaniyalardı ishki korruptsiyaga qarsı náзárat sistemasın kirgiziwge mánjbur etedi. Jınoyi jol menen alıngan dárametlerdi legalizatsiya etiw menen gúres haqqındagı 560-Nızam KYC tártipler hám gúmanlanarlı operatsiyalar haqqında xabar beriw mınjburıyatların belgileydi."
+      },
+      {
+        "category": "compliance",
+        "question": "Ózbekstanda shett el biznes úshin valyuta násereti talapları qanday?",
+        "answer": "Oraylıq bank tárеpinen Valyutanı tártibge sáliw haqqındagı Nızam tiykarında ámelge asırılatuǵın Ózbekstan valyuta názereti rejimi shett el valyutadagı barsha operatsiyalardıń ıqıyatlı banklar arqalı ótkerilıwın talap etedi. Shett el investorlar tiyisli salıqlardı tólegennен keyin paydа, dividendlar hám jabıw dárametlerin erkin konvertatsiya etiletuǵın valyutada repatriatsiya etiwi múmkin. 2017-jılgı liberalizatsiya reformalarınan keyin Ózbekstan valyuta rejimin sezilerli dárejede jańılaştırdı."
+      },
+      {
+        "category": "realestate",
+        "question": "Shett el puqaralar Ózbekstanda kóshpes múlk iyelew múmkinbi?",
+        "answer": "Shett el jeke shaxslar hám shett el yuridik shaxslar Ózbekstanda jer iyelik huqıqına iye emes — jer mámleket múlki bolıp, tek paydalanıw huqıqı tiykarında beriledi. Biraq shett el puqaralar binalar, inshaatlar hám basqa kóshpes múlkke (jerden tısqarı) nızamlı túrde iyelik ete aladı. Uzaq múddetti jer paydalanıw huqıqları (ijaresi) 49 jılga shekem bergilenedi hám Mámleket kadastrina dizimnen ótkeziledi. Erkin ekonomikalıq zonalarda EEZ rezidentleri úshin jerdi bólistiriwdiń arnaywı shártleri ámel etedi. Shett el tárepler qatnasıwındagı kóshpes múlk bitimleri notarialıq tástıyıq hám mámleket diziminen ótiwdi talap etedi."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Mıjozlarımızdıń pikiri",
+    "subtitle": "Oraylıq Aziyada xalıqaralıq investorlar hám jetekshi kárxanalar iseniмi",
+    "items": [
+      {
+        "name": "Klaus Bauer",
+        "role": "Bas direktor, Bauer Industrietechnik GmbH",
+        "country": "Germaniya",
+        "text": "R-Legal bizdi Ózbekstanda qosma kárxana dizimge alıwda ájayıp professionallıq penen jolladı."
+      },
+      {
+        "name": "Yoon Ji-young",
+        "role": "Hуqıqıy bólim basshısı, KoreaTech Investments",
+        "country": "Janubiy Koreya",
+        "text": "AI quralları hám kóp tilli komandası TTI qurılıwın máseleriz hám tejemkor etdi."
+      },
+      {
+        "name": "Ahmed Al-Rashid",
+        "role": "Basqarıwshı direktor, Gulf Capital Partners",
+        "country": "BAE",
+        "text": "Shartnama dawlasıwı úlken jobанı qáwip astına aldıǵında, R-Legal arbitraj komandası onı rekord waqıtta sheshti."
+      },
+      {
+        "name": "Maria Sokolova",
+        "role": "Moliya direktori, RosExport Trading",
+        "country": "Rossiya",
+        "text": "Olardiń miynet hуqıqı amaliyatı bizge 2024 jılǵı Miynet kodeksi ózgerislere asań iykemlesiwge járdem berdi."
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Hуqıqıy bilimdi pochta qutıńızǵa",
+    "subtitle": "Ózbekstanda hуqıqıy ózgerisler hám investiciya imkániyatları boyınsha aylıq jańalanıwlar alıń.",
+    "placeholder": "Email mánzilingiz",
+    "button": "Jаzılıw",
+    "success": "Jazıldıńız! Birinshi xabar tez аrada juberiledi.",
+    "disclaimer": "Spam joq. Qálegen waqıt abuneliktен bas tartıw múmkin."
+  },
+  "resources": {
+    "title": "Huqıqıy Resurslар",
+    "subtitle": "Ózbekstanda pááliyyet júrgiziwshi investorlar hám biznes úshin rasmiy nızamshılıq, yetkilı qolbánler hám taхlıliy qurállar",
+    "filterAll": "Barsha resurslар",
+    "filterGuides": "Qolbánler",
+    "filterTemplates": "Shablonlar",
+    "filterLegislation": "Nızamshılıq",
+    "filterReports": "Esabatlar",
+    "filterTools": "Qurállar",
+    "download": "Deregin kórıw",
+    "downloadFree": "Erkin kirıw",
+    "readOnline": "Onlayn oqıw",
+    "pages": "bet",
+    "updated": "Jańalanǵan",
+    "visitSource": "Rasmiy derekke ótiw",
+    "cta": "Individual huqıqıy qolban kerekpe?",
+    "ctaSubtitle": "Advokatlarımız sızdiń anıq jaǵdayıńız úshin arnawlı huqıqıy memorandumlar tayarlaydı.",
+    "requestResearch": "Arnawlı izertlew soraw ediw",
+    "items": [
+      {
+        "category": "legislation",
+        "title": "Uzbekistan Civil Code",
+        "description": "Ózbekstan Puqaralıq kodeksiniń tolıq mátini (inglizsha/russha/ózbeksha). Shártnomalar, múlk, mınjburıyatlar, korporativ tashkilatlar tártibge salınadı.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/111181"
+      },
+      {
+        "category": "legislation",
+        "title": "Uzbekistan Tax Code 2024",
+        "description": "2024-jıl ózgerisler menen rasmiy Salıq kodeksi — KDS, QQS, ájtimaiy salıq, aktsizler, EEZ qágiydaları hám imtiyazlar.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/4674902"
+      },
+      {
+        "category": "legislation",
+        "title": "Labor Code of Uzbekistan",
+        "description": "2024-jıl ózgerisler menen tolıq Mehnat kodeksi — mehnat shártnomalar, jumısnan bosatıw tiykarları, dem alıs huqıqları, jumıs ruxsatnomaları.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/3271086"
+      },
+      {
+        "category": "legislation",
+        "title": "Law on Foreign Investments",
+        "description": "Ózbekstanda shett el investor huqıqları, kepillikleri hám sheklemelerін tártibge salıwshı tiykarı TTI nızamshılıgı.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/144688"
+      },
+      {
+        "category": "legislation",
+        "title": "Law on LLCs (Mas'uliyati Cheklangan Jamiyat)",
+        "description": "Juwapkershiligi sheklengen jamiyatlardı tártibge salıwshı nızamshılıq — dúziw, ustav, basqarıw, jabıw tártipler.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/163015"
+      },
+      {
+        "category": "guides",
+        "title": "FDI Registration Guide — invest.gov.uz",
+        "description": "Milliy investitsiya portalınan Ózbekstanda tıklaydı-tıklamay shett el investitsiyalardı dizimnen ótkerıw boyınsha rasmiy basqıshma-basqısh qollanba.",
+        "pages": 0,
+        "free": true,
+        "url": "https://invest.gov.uz/en/investing-in-uzbekistan/business-registration/"
+      },
+      {
+        "category": "guides",
+        "title": "Free Economic Zones Investor Handbook",
+        "description": "Salıq imtiyazları, zona jaylasıwı, áriza tapsırıw tártipler hám tarmaqqа xas múmkinshilikler menen EEZ rasmiy portali.",
+        "pages": 0,
+        "free": true,
+        "url": "https://fez.uz"
+      },
+      {
+        "category": "guides",
+        "title": "Business Registration Portal (myjuridical.uz)",
+        "description": "Ózbekstanda kompaniyanı elektron dizimnen ótkerıw, hújjet tapsırıw hám litsenziya arizaları úshin mámleket portali.",
+        "pages": 0,
+        "free": true,
+        "url": "https://myjuridical.uz"
+      },
+      {
+        "category": "guides",
+        "title": "Work Permit & Visa Guide (mehnat.uz)",
+        "description": "Sırtqı mehnat migratsiyası agentliginiń rasmiy portali — jumıs ruxsatnomasi arizaları, kvotalar hám jumıs beriwshiler úshin tártipler.",
+        "pages": 0,
+        "free": true,
+        "url": "https://mehnat.uz"
+      },
+      {
+        "category": "guides",
+        "title": "Customs Procedures Guide",
+        "description": "Ózbekstan Mámleket bojxana komiteti — import/eksport tártipler, tarif jadvalleri hám bojxana qıymatı qágiydaları.",
+        "pages": 0,
+        "free": true,
+        "url": "https://customs.uz/en"
+      },
+      {
+        "category": "reports",
+        "title": "Doing Business in Uzbekistan — World Bank Profile",
+        "description": "Dúnya bankınıń Ózbekstan tártibge salıwshı muхit málimleri — biznes baslaw, múlkti dizimnen ótkerıw, shártnomalar ijra ettirew.",
+        "pages": 0,
+        "free": true,
+        "url": "https://data.worldbank.org/country/uzbekistan"
+      },
+      {
+        "category": "reports",
+        "title": "OECD Uzbekistan Economic Survey",
+        "description": "OECDniń Ózbekstan ekonomikalıq hám tártibge salıwshı muхitın bahalawı — investitsiya iqlimi, basqarıw hám reformalar.",
+        "pages": 0,
+        "free": true,
+        "url": "https://www.oecd.org/countries/uzbekistan/"
+      },
+      {
+        "category": "reports",
+        "title": "EBRD Uzbekistan Country Profile",
+        "description": "Yevropa tiklanıw hám rawajlanıw bankınıń Ózbekstan huqıqıy hám biznes muхitın bahalawı.",
+        "pages": 0,
+        "free": true,
+        "url": "https://www.ebrd.com/uzbekistan.html"
+      },
+      {
+        "category": "tools",
+        "title": "Tax Calculator — soliq.uz",
+        "description": "Salıq mіnjburіyatі kalkulyatorları, elektron есaberlew, salıq stavkaları hám esaberlew múddetleri menen rasmiy Salıq komiteti portali.",
+        "pages": 0,
+        "free": true,
+        "url": "https://soliq.uz"
+      },
+      {
+        "category": "tools",
+        "title": "Uzbekistan Legal Database (lex.uz)",
+        "description": "Ózbekstan nızamshılıgınıń tolıq rasmiy málimátler basasi — nızamlar, pármánlar hám normativ hújjetler UZ/RU/EN tillerinde izlenetuǵın.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz"
+      },
+      {
+        "category": "tools",
+        "title": "Investment Portal — invest.gov.uz",
+        "description": "Milliy investitsiyalardı jalıp etiw agentligi portali — tarmaqlıq málimátler, imtiyaz xaritaları hám investorlar qollap-quwatlawı xizmatleri.",
+        "pages": 0,
+        "free": true,
+        "url": "https://invest.gov.uz"
+      },
+      {
+        "category": "legislation",
+        "title": "UNCITRAL Arbitration Rules",
+        "description": "Xalıqaralıq tijariy arbitrajda qollanılatuǵın UNCITRAL Namunaviy Nızam hám Arbitraj Reglamenti — Ózbekstanda da qollanıladı.",
+        "pages": 0,
+        "free": true,
+        "url": "https://uncitral.un.org/en/texts/arbitration/modellaw/commercial_arbitration"
+      },
+      {
+        "category": "reports",
+        "title": "Bilateral Investment Treaties — UNCTAD Database",
+        "description": "UNCTADniń barsha Ózbekstan BITleri boyınsha keń qamrawlı málimátler basası — tolıq shártnoma mátinleri hám investitsiya nizaları tarixi.",
+        "pages": 0,
+        "free": true,
+        "url": "https://investmentpolicy.unctad.org/international-investment-agreements/countries/222/uzbekistan"
+      }
+    ]
+  },
+  "settings": {
+    "title": "Sazlamalar",
+    "subtitle": "R-Legal Practice platformasında tájiriybengizdi sazlań",
+    "language": "Interfeys tili",
+    "languageDesc": "Platformaniń afzal telin tańlań",
+    "theme": "Kórinish mawzuı",
+    "themeLight": "Jaritı",
+    "themeDark": "Qaranǵı",
+    "themeSystem": "Sistema standarti",
+    "notifications": "Email bildirisiwnomalar",
+    "notificationsDesc": "Jańa hуqıqıy ózgerisler haqqında xabarlar alıń",
+    "newsletter": "Jańalıqlar xabarnomasi",
+    "newsletterDesc": "Aylıq hуqıqıy aql dayjesti",
+    "save": "Saqlaw",
+    "saved": "Sazlamalar muwaffaqiyatlı saqlandi",
+    "privacy": "Mахfiylik",
+    "privacyDesc": "Málimátler hám cookie parametrların basqarıw",
+    "manageCookies": "Cookie basqarıw"
+  },
+  "cookie": {
+    "message": "Tájiriybengizdi jaqsılaw ushın cookie fayllardan paydalamız.",
+    "accept": "Hámmesini qabıl etiw",
+    "decline": "Rad etiw",
+    "learnMore": "Mахfiylik siyasatı",
+    "customize": "Sazlaw"
+  },
+  "breadcrumb": {
+    "home": "Bas bet"
+  },
+  "contact": {
+    "title": "Sóylesiw baslaw",
+    "subtitle": "Hуqıqıy máselenizdi aytıp beriń. Komandamız 24 saat ishinde juwap beredi.",
+    "form": {
+      "name": "Tolıq isim",
+      "namePlaceholder": "Tolıq ismingiz",
+      "company": "Kárxana / Shákilshálik",
+      "companyPlaceholder": "Kárxana atıńız",
+      "email": "Email mánzil",
+      "emailPlaceholder": "your@company.com",
+      "phone": "Telefon nomer",
+      "phonePlaceholder": "+998 XX XXX XX XX",
+      "service": "Xızmet jónelisi",
+      "servicePlaceholder": "Amaliyot tarawın tańlań",
+      "message": "Máselenizdi tásvirleń",
+      "messagePlaceholder": "Hуqıqıy zerurlıklarıńızdı, múddetler hám tiyisli kontekstti tásvirleń...",
+      "submit": "Jiberiw",
+      "submitting": "Jiberilmekte...",
+      "success": "Xabar jiberildi. 24 saat ishinde siz menen baylanısamız.",
+      "error": "Qáte júz berdi. Qayta urınıp kóriń yamasa bizge tuwrıdan-tuwrı jazıń."
+    },
+    "info": {
+      "phone": "+998 90 825 08 78",
+      "email": "rlegalpractice@gmail.com",
+      "address": "Tashkent, Ózbekstan Respublikası",
+      "hours": "Du–Ju: 9:00–18:00 (UTC+5)",
+      "emergency": "Shoshılınsh máseleler ushın tuwrıdan-tuwrı qoń iraw eteń"
+    }
+  },
+  "footer": {
+    "tagline": "Globallıq maqsetler ushın anıq hуqıq. 2010 jıldan beri Ózbekstan hám xalıqaralıq mıjozlarǵa xızmet etip kelemiz.",
+    "services": "Xızmetler",
+    "company": "Kárxana",
+    "legal": "Hуqıqıy",
+    "privacy": "Mахfiylik siyasatı",
+    "terms": "Paydalanıw sharları",
+    "disclaimer": "Hуqıqıy izoh",
+    "rights": "Barlıq huqıqlar qorǵalǵan.",
+    "builtBy": "Oxforder LLC tárepinen islep shıqılǵan"
+  },
+  "meta": {
+    "homeTitle": "R-Legal Practice | Ózbekstandaǵı jetekshi hуqıq firmasi",
+    "homeDesc": "Ózbekstandaǵı xalıqaralıq investorlar, korporaciyalar hám tadbirkorlar ushın joqarı dárejeli hуqıqıy keńes.",
+    "servicesTitle": "Hуqıqıy xızmetler | R-Legal Practice",
+    "aiAdvisorTitle": "AI Kenesgoy | R-Legal Practice",
+    "contactTitle": "Baylanıs | R-Legal Practice",
+    "newsTitle": "Hуqıqıy Jańalıqlar | R-Legal Practice",
+    "faqTitle": "Kóp Soraladigan Sorawlar | R-Legal Practice",
+    "resourcesTitle": "Hуqıqıy Resurslár | R-Legal Practice",
+    "settingsTitle": "Sazlamalar | R-Legal Practice",
+    "caseLawTitle": "Sud Ámeliyatı | R-Legal Practice"
+  },
+  "caseLaw": {
+    "label": "Izertlew Quralı",
+    "title": "AQSh Sud Ámeliyatın Izlew",
+    "subtitle": "Xalıqaralıq arbitraj, investitsiya shártnamasi nizaları, shet el qararların orınlaw hám shegara-arası sawda dáwalarına tiyisli AQSh federal hám shtat sud qararların izleń.",
+    "disclaimer": "Bul qural CourtListener (Free Law Project) arqalı AQSh sud qararların izleydi. Nátiyijeler tek izertlew maqsetinde bolıp, hуqıqıy kenes bolıp esaplanbaydı.",
+    "searchPlaceholder": "Islerdi izlew (mısalı, \"Ózbekstan BIT arbitraj\", \"FCPA\", \"shet el qarar\")...",
+    "filters": "Filtrlár",
+    "courtFilter": "Sud",
+    "sortBy": "Saralaw",
+    "search": "Izlew",
+    "suggestedSearches": "Usınılǵan izlewler",
+    "resultsCount": "\"{query}\" boyınsha {count} nátiyije",
+    "noResults": "Isler tabılmadı. Basqa soraw menen urınıp kóriń.",
+    "page": "Bet",
+    "poweredBy": "Tarepinen qollap-quwatlanadı",
+    "info1Title": "Xalıqaralıq Arbitraj Pretsedentleri",
+    "info1Desc": "Investitsiya shártnama arbitrajı, ICC/LCIA/UNCITRAL qararların orınlaw boyınsha AQSh sud qararları.",
+    "info2Title": "Shegara-arası Orınlaw",
+    "info2Desc": "Shet el sud qararların mánisi, Nyu-York konventsiyası hám Orta Aziya menen baylanıslı sawda nizaları boyınsha isler.",
+    "info3Title": "FCPA hám Sanktsiyalar",
+    "info3Desc": "FCPA orınlaw hám MDB regionındaǵı koruptsiyaǵa qarsı isler boyınsha pretsedentler."
+  },
+  "privacyPage": {
+    "lastUpdated": "Soнǵı jańartılǵan: 2026-jıl aprel",
+    "sections": [
+      {
+        "title": "1. Jıynalatuǵın maǵlıwmatlar",
+        "body": "Siz sayt formaları arqalı murajaat etkenińizde bergen maǵlıwmatlarıńızdı jıynaymız: at, elektron pochta, telefon, kompaniya atı hám huqıqıy másele tarifi."
+      },
+      {
+        "title": "2. Maǵlıwmatlardan paydalanıw",
+        "body": "Huqıqıy sorawlarǵa jawap beriw, xabar jiberiw, xızmetlerdi jetilistiriw hám nızamlıq mıjbıriyatlardı orınlaw maqsetlerinde paydalanıladı."
+      },
+      {
+        "title": "3. Qayta islewdiń huqıqıy tiykarları",
+        "body": "Maǵlıwmatlar shartnama, nızamlıq mápler, razılıq hám huqıqıy mıjbıriyatlar tiykarında qayta islenedi."
+      },
+      {
+        "title": "4. Cookie-fayllar",
+        "body": "Saytımız tajrıybanı jaqsılaw hám trafikti talqılaw ushın cookie-fayllardan paydalanıladı. Brawzer arqalı basqarıw múmkin."
+      },
+      {
+        "title": "5. Maǵlıwmatlardı bóliw",
+        "body": "Shaxsıy maǵlıwmatlarıńızdı úshinshi taraplaǵa satpayımız. Nızam talabı yamasa razılıǵıńız menen beriliwi múmkin."
+      },
+      {
+        "title": "6. Maǵlıwmatlardı saqlaw",
+        "body": "Soraw maǵlıwmatları — 5 jıl, analitik maǵlıwmatlar — 24 ay saqlanadı."
+      },
+      {
+        "title": "7. Sıziń huqıqlarıńız",
+        "body": "Maǵlıwmatlarsatqa alıw, tuzatiw, óshiriw hám kóshiriw huqıqıńız bar. Murajaat: rlegalpractice@gmail.com."
+      },
+      {
+        "title": "8. Qáwipsizlik",
+        "body": "Shaxsıy maǵlıwmatlarıńızdı qorǵaw ushın zamanagóy qáwipsizlik rendelerinen paydalanılamız."
+      },
+      {
+        "title": "9. Xalıqaralıq jiberiw",
+        "body": "Maǵlıwmatlarıńız basqa mamleketlerde qayta isleniwi múmkin. Kerekli qorǵaw rendelerinen qamtamasız etip beremiz."
+      },
+      {
+        "title": "10. Baylanıs",
+        "body": "R-Legal Practice, Tashkent, Ózbekstan Respublikası. Email: rlegalpractice@gmail.com. Tel.: +998 90 825 08 78."
+      }
+    ]
+  },
+  "servicesPage": {
+    "whatWeCover": "Biz qamrab alatuǵın salalar",
+    "keyAreas": "Tiykarǵı baǵdarlar",
+    "whyRlegal": "Nege R-Legal",
+    "getExpertAdvice": "Expert kenesin alıń",
+    "scheduleConsult": "Mutaxassislerimiz penen jeke konsultatsiya belgilań.",
+    "otherPracticeAreas": "Basqa baǵdarlar",
+    "whyPoints": [
+      "Ózbekstan nızamshılıǵı hám jergilikli ámeliyatın terań biliw",
+      "EN, RU, UZ hám Qaraqalpaq tillerinde sóylewshi kóp tildi jamaa",
+      "50+ jurisdiksiyadaǵı xalıqaralıq investorlarǵa keńes beriw tajrıybası",
+      "Mámleketlik organlar menen tuwrıdan-tuwrı baylanıslar",
+      "Tezrek isliw ushın AI-quwatlı izertlew hám hújjetlerdi kózip shıǵıw"
+    ]
+  },
+  "tools": {
+    "badge": "Hуqıqıy Qurallar",
+    "title": "Hуqıqıy Múddetler Kalkulyatorı",
+    "subtitle": "Ózbekstan nızamshılıǵı boyınsha tiykarǵı hуqıqıy múddetlerdi esaplań. Waqıyanıń kúnin kirgiziń hám turın tańlań — biz barlıq tiyisli múddetlerdi hуqıqıy siltewler menen kórsetemiz.",
+    "eventType": "Waqıya turı",
+    "eventDate": "Waqıya kúni",
+    "selectPlaceholder": "Waqıya turın tańlań...",
+    "calculate": "Múddetlerdi esaplaw",
+    "disclaimer": "Kalkulyator tek málimаt maqsatında bolжamalı múddetlerdi usınadı. Hуqıqıy múddetler shártnama shártleri hám nızamǵa qarap ózgesheled. Qarar qılısdan aldın advokat menen maslahatlasıń.",
+    "quickRef": "Qısqa málimátnama",
+    "copyAll": "Barlıǵın kóshiriw",
+    "copied": "Kóshirildi!",
+    "pastLabel": "Ótkен",
+    "todayLabel": "Búgin!",
+    "ctaTitle": "Múddetler boyınsha hуqıqıy maslaxat kerekpe?",
+    "ctaSubtitle": "Bular bolжamalı kúnler. Advokatlarımız anıq múddetler hám hуqıqıy strategiya boyınsha maslahat beredi.",
+    "ctaBtn": "Konsultaciyaǵa jazılıw",
+    "eventTypes": {
+      "contractSigned": "Shártnama imzolandi",
+      "disputeArose": "Tijariy dawа júzege keldi",
+      "employeeTerminated": "Xızmetker ishten shıǵarıldı",
+      "companyRegistered": "Kárxana dizimge alındı",
+      "propertyTransaction": "Kózgeymes múlk bitimi kelisildi",
+      "taxPeriodEnd": "Salıq dáwiri ayaqladı (kvartal)",
+      "arbitrationAward": "Arbitraj qararı shıǵarıldı"
+    },
+    "quickRefItems": [
+      {
+        "period": "3 jıl",
+        "label": "Ulıwma puqaralıq/tijariy dáwágerlik múddeti",
+        "citation": "PK 150-maddа"
+      },
+      {
+        "period": "1 jıl",
+        "label": "Transport zıyanına dáwágerlikler",
+        "citation": "PK 735-maddа"
+      },
+      {
+        "period": "2 jıl",
+        "label": "Sıyqorta shartnomasi nizolárı",
+        "citation": "PK 930-maddа"
+      },
+      {
+        "period": "30 kún",
+        "label": "Nızamsız ishten shıǵarıw dáwágerligı",
+        "citation": "MK 264-maddа"
+      },
+      {
+        "period": "3 kún",
+        "label": "Ishten shıǵarılǵannan soń aqırǵı hisap-kitap",
+        "citation": "MK 163-maddа"
+      },
+      {
+        "period": "20 kún",
+        "label": "Kvartal ayaqlanǵannan soń QQS deklaraciyası",
+        "citation": "SK 273-maddа"
+      }
+    ]
+  }
+}

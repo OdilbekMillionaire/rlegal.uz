@@ -1,0 +1,1090 @@
+{
+  "nav": {
+    "services": "Services",
+    "caseStudies": "Case Studies",
+    "team": "Our Team",
+    "insights": "Insights",
+    "news": "Legal News",
+    "faq": "FAQ",
+    "resources": "Resources",
+    "aiAdvisor": "AI Legal Advisor",
+    "caseLaw": "Case Law",
+    "tools": "Legal Tools",
+    "settings": "Settings",
+    "contact": "Contact",
+    "consultation": "Book Consultation",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "hero": {
+    "badge": "Trusted Legal Partner in Uzbekistan",
+    "headline1": "Precision Law for",
+    "headline2": "Global Ambitions",
+    "subheadline": "R-Legal Practice advises international investors, multinational corporations, and Uzbek enterprises navigating complex cross-border transactions, regulatory frameworks, and commercial disputes.",
+    "cta1": "Book a Consultation",
+    "cta2": "Explore Our Work",
+    "stat1Value": "200+",
+    "stat1Label": "International Clients",
+    "stat2Value": "$2B+",
+    "stat2Label": "Transactions Advised",
+    "stat3Value": "15+",
+    "stat3Label": "Years Combined Experience",
+    "stat4Value": "5",
+    "stat4Label": "Practice Languages"
+  },
+  "trust": {
+    "title": "Trusted by Leading Organizations",
+    "items": [
+      "Legal 500 Recognized",
+      "IBA Member Firm",
+      "Uzbek Bar Association",
+      "UNCITRAL Arbitration",
+      "WTO Framework Advisory",
+      "Foreign Investors' Council"
+    ]
+  },
+  "services": {
+    "title": "Practice Areas",
+    "subtitle": "Specialized expertise across every dimension of Uzbekistan's legal landscape",
+    "corporate": {
+      "title": "Corporate & M&A",
+      "description": "Company formation, shareholder agreements, mergers, acquisitions, due diligence, and corporate restructuring for domestic and foreign entities.",
+      "tags": [
+        "Joint Ventures",
+        "Due Diligence",
+        "Shareholder Agreements",
+        "Corporate Restructuring"
+      ]
+    },
+    "international": {
+      "title": "International Trade & Investment",
+      "description": "Foreign direct investment structuring, free economic zone navigation, bilateral investment treaty protection, and cross-border transaction counsel.",
+      "tags": [
+        "FDI Advisory",
+        "BIT Protection",
+        "Free Economic Zones",
+        "Market Entry"
+      ]
+    },
+    "contract": {
+      "title": "Contract Law",
+      "description": "Drafting, reviewing, and negotiating complex commercial agreements under Uzbek law, international standards, and hybrid frameworks.",
+      "tags": [
+        "Commercial Agreements",
+        "Supply Contracts",
+        "Distribution Agreements",
+        "SLAs"
+      ]
+    },
+    "labor": {
+      "title": "Labor & Employment",
+      "description": "Employment contracts, workforce restructuring, HR compliance, expatriate work permits, and labor dispute resolution.",
+      "tags": [
+        "Work Permits",
+        "HR Compliance",
+        "Employment Disputes",
+        "Expat Advisory"
+      ]
+    },
+    "litigation": {
+      "title": "Litigation & Arbitration",
+      "description": "Commercial dispute representation before Uzbek courts, international arbitration (ICC, LCIA, UNCITRAL), and enforcement of foreign judgments.",
+      "tags": [
+        "Commercial Courts",
+        "ICC Arbitration",
+        "LCIA",
+        "Enforcement"
+      ]
+    },
+    "learnMore": "Learn More",
+    "viewAll": "View All Services"
+  },
+  "achievements": {
+    "title": "Recent Achievements",
+    "subtitle": "Delivering results that matter",
+    "viewCase": "View Case Study"
+  },
+  "caseStudies": {
+    "title": "Case Studies",
+    "subtitle": "Real challenges. Strategic solutions. Measurable outcomes.",
+    "challenge": "Challenge",
+    "solution": "Solution",
+    "result": "Result",
+    "viewAll": "View All Cases",
+    "filterAll": "All",
+    "filterCorporate": "Corporate",
+    "filterFDI": "FDI",
+    "filterLabor": "Labor",
+    "filterLitigation": "Litigation"
+  },
+  "calculator": {
+    "title": "Legal Value Calculator",
+    "subtitle": "Get an instant complexity assessment for your legal matter",
+    "step1": "Investment Type",
+    "step2": "Sector",
+    "step3": "Origin Country",
+    "step4": "Timeline",
+    "investmentType": {
+      "fdi": "Foreign Direct Investment",
+      "jv": "Joint Venture",
+      "ma": "M&A / Acquisition",
+      "contract": "Commercial Contract",
+      "dispute": "Dispute / Litigation"
+    },
+    "sector": {
+      "tech": "Technology",
+      "energy": "Energy & Resources",
+      "real-estate": "Real Estate",
+      "finance": "Financial Services",
+      "manufacturing": "Manufacturing",
+      "retail": "Retail & Consumer"
+    },
+    "timeline": {
+      "urgent": "Urgent (< 1 month)",
+      "standard": "Standard (1–3 months)",
+      "planned": "Planned (3–6 months)",
+      "strategic": "Strategic (6+ months)"
+    },
+    "calculate": "Calculate Complexity",
+    "result": {
+      "low": "Low Complexity",
+      "medium": "Medium Complexity",
+      "high": "High Complexity",
+      "critical": "Critical Complexity"
+    },
+    "cta": "Book a Consultation",
+    "disclaimer": "This assessment is indicative only. Contact us for a precise legal scope review.",
+    "features": {
+      "instant": "Instant complexity score in 3 steps",
+      "personalised": "Personalised service recommendations",
+      "timeline": "Estimated timeline for your legal matter",
+      "privacy": "No personal data collected"
+    }
+  },
+  "pulse": {
+    "title": "Regulatory Pulse",
+    "subtitle": "Legal changes decoded for business impact",
+    "readMore": "Full Analysis",
+    "impact": "Business Impact",
+    "action": "Recommended Action",
+    "viewAll": "View All Updates",
+    "backToInsights": "Back to Insights",
+    "ctaTitle": "Need Legal Advice on This Topic?",
+    "ctaSubtitle": "Our attorneys can provide a binding legal opinion tailored to your specific situation.",
+    "ctaBtn": "Book a Consultation"
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Senior attorneys combining international education with deep local expertise",
+    "yearsExp": "Years Experience",
+    "admittedIn": "Admitted in",
+    "languages": "Languages",
+    "viewProfile": "View Profile",
+    "viewAll": "Meet the Full Team"
+  },
+  "aiAdvisor": {
+    "title": "AI Legal Advisor",
+    "subtitle": "Instant legal insights powered by AI, trained on Uzbekistan legislation",
+    "badge": "Beta — Not a substitute for professional legal counsel",
+    "placeholder": "Ask about Uzbek corporate law, FDI regulations, labor code, contract requirements...",
+    "send": "Send",
+    "newChat": "New Chat",
+    "recent": "Recent",
+    "legalTemplates": "Legal Templates",
+    "documentDrafts": "Draft Documents",
+    "legalAdvisor": "Legal Advisor",
+    "bookConsultation": "Book Consultation",
+    "modelSelector": "Select AI Model",
+    "thinking": "Analyzing Uzbek legislation...",
+    "disclaimer": "Responses are for informational purposes only and do not constitute legal advice. For binding legal opinions, please consult our attorneys.",
+    "suggestedFollowups": "Suggested follow-ups:",
+    "copy": "Copy",
+    "copied": "Copied",
+    "retry": "Retry",
+    "tryAgain": "Try again",
+    "listening": "Listening… speak now",
+    "stopListening": "Stop",
+    "dropFile": "Drop your file here",
+    "dropFileHint": "TXT, PDF, DOCX supported",
+    "inputHint": "Enter to send · Shift+Enter for new line · Drag & drop files supported",
+    "clearChat": "Clear chat",
+    "exportChat": "Download conversation",
+    "downloadTxt": "Download .txt",
+    "savedMessages": "Saved Responses",
+    "noSaved": "No saved responses yet",
+    "saveMsg": "Save response",
+    "unsaveMsg": "Unsave",
+    "addContext": "Add your business context",
+    "contextPlaceholder": "E.g.: We are a German manufacturing company exploring entry into Uzbekistan's FEZ zones...",
+    "contextHint": "Context helps the AI tailor its answers to your specific situation",
+    "wordCount": "words",
+    "searchChats": "Search conversations...",
+    "jumpToBottom": "Jump to latest",
+    "tone": {
+      "label": "Response Style",
+      "formal": "Formal",
+      "concise": "Concise",
+      "detailed": "Detailed"
+    },
+    "toneHint": {
+      "formal": "Professional legal writing",
+      "concise": "Short, direct answers",
+      "detailed": "In-depth analysis"
+    },
+    "contextActive": "Context active",
+    "tokenEstimate": "Context",
+    "quickPrompts": {
+      "fdi": "What are the requirements for foreign direct investment in Uzbekistan?",
+      "company": "How do I register a company in Uzbekistan as a foreigner?",
+      "labor": "What are the key provisions of Uzbekistan's Labor Code?",
+      "dispute": "How does commercial arbitration work in Uzbekistan?",
+      "tax": "What tax incentives exist for investors in Uzbekistan's free zones?"
+    },
+    "modes": {
+      "fast": {
+        "label": "Fast",
+        "desc": "Quick answers"
+      },
+      "balanced": {
+        "label": "Balanced",
+        "desc": "Best for most"
+      },
+      "deep": {
+        "label": "Deep Think",
+        "desc": "Complex analysis"
+      }
+    },
+    "thinkingMessages": [
+      "Analyzing Uzbekistan legislation...",
+      "Reviewing relevant legal articles...",
+      "Checking 2026 amendments...",
+      "Cross-referencing international standards...",
+      "Consulting Civil & Tax Code provisions...",
+      "Preparing your legal insight..."
+    ],
+    "followUpBank": [
+      "What are the penalties for non-compliance?",
+      "What documents are required?",
+      "How long does this process typically take?",
+      "What changed in the 2026 amendments?",
+      "Can you give a practical step-by-step guide?",
+      "What are the risks I should know about?",
+      "How does this compare to international practice?",
+      "What should be my first action?",
+      "Are there any exceptions or special cases?",
+      "Can you simplify this in plain language?"
+    ],
+    "templates": [
+      {
+        "icon": "🔍",
+        "label": "NDA Analysis",
+        "prompt": "Analyze the key clauses of a non-disclosure agreement (NDA) under Uzbekistan law. What must a foreign company watch for, what provisions are enforceable, and what should be negotiated?"
+      },
+      {
+        "icon": "🏢",
+        "label": "Company Registration",
+        "prompt": "Walk me through the complete step-by-step process for registering an LLC (Mas'uliyati Cheklangan Jamiyat) in Uzbekistan as a foreign investor in 2025. Include required documents, fees, timelines, and common pitfalls."
+      },
+      {
+        "icon": "🌍",
+        "label": "FDI Structuring",
+        "prompt": "How should a foreign investor structure their investment in Uzbekistan to maximize legal protection and tax efficiency? Compare LLC, joint venture, branch office, and representative office options."
+      },
+      {
+        "icon": "👷",
+        "label": "Work Permits & Visas",
+        "prompt": "Explain the complete process for obtaining work permits and residency for foreign employees in Uzbekistan. Include document requirements, quotas, processing times, and employer obligations under 2025 rules."
+      },
+      {
+        "icon": "⚖️",
+        "label": "Dispute Resolution",
+        "prompt": "What are the best dispute resolution options for international commercial disputes involving Uzbekistan? Compare domestic courts, ICTS arbitration, ICC, LCIA, and UNCITRAL in terms of enforceability and cost."
+      },
+      {
+        "icon": "💰",
+        "label": "Tax Optimization",
+        "prompt": "Explain the full tax landscape for foreign companies in Uzbekistan. Cover corporate income tax, VAT, dividend withholding, transfer pricing, IT Park and FEZ benefits, and applicable double tax treaties."
+      },
+      {
+        "icon": "🤝",
+        "label": "BIT Treaty Protection",
+        "prompt": "Which Bilateral Investment Treaties (BITs) protect my investment in Uzbekistan? What investor-state dispute settlement (ISDS) rights do they grant? List the most investor-friendly BITs Uzbekistan has signed."
+      },
+      {
+        "icon": "📊",
+        "label": "Due Diligence Checklist",
+        "prompt": "What due diligence should a foreign investor conduct before acquiring a company or entering a joint venture in Uzbekistan? Provide a comprehensive legal checklist covering corporate, tax, regulatory, and employment risks."
+      },
+      {
+        "icon": "🏗️",
+        "label": "Real Estate & Property",
+        "prompt": "What are the legal restrictions and procedures for foreigners acquiring real estate or land-use rights in Uzbekistan? Explain leasehold vs freehold, investment property rules, free economic zone land, and key risks."
+      },
+      {
+        "icon": "🔒",
+        "label": "Compliance & Regulatory",
+        "prompt": "What are the key compliance obligations for foreign companies in Uzbekistan? Cover anti-corruption, AML/KYC, currency control, data protection, customs regulations, and mandatory reporting requirements."
+      }
+    ],
+    "drafts": [
+      {
+        "icon": "📄",
+        "label": "Employment Contract",
+        "prompt": "Draft a comprehensive employment contract for a senior manager at a foreign-owned LLC in Uzbekistan, fully compliant with Uzbekistan's Labor Code. Include: probationary period, remuneration (in UZS and USD), working hours, annual leave (21 days), termination conditions (Article 100 grounds), confidentiality, and non-compete clause. Output as a ready-to-sign professional legal document with all standard sections."
+      },
+      {
+        "icon": "🤝",
+        "label": "NDA Agreement",
+        "prompt": "Draft a bilateral Non-Disclosure Agreement (NDA) for two companies conducting pre-investment due diligence in Uzbekistan. Include: definitions of Confidential Information, scope of disclosure obligations, permitted use, exclusions (public domain, prior knowledge), term of 3 years, return/destruction of information on termination, governing law (Republic of Uzbekistan), dispute resolution (Tashkent Economic Court), and signature blocks. Professional ready-to-use format."
+      },
+      {
+        "icon": "🏢",
+        "label": "LLC Charter (Ustav)",
+        "prompt": "Draft the complete Articles of Association (Ustav) for a limited liability company (Mas'uliyati Cheklangan Jamiyat) in Uzbekistan with one foreign founder. Include: full company name (Uzbek/Russian), registered address, scope of activities (OKVED codes), authorized capital amount, founder rights and obligations, General Meeting procedure, Director powers, profit distribution rules, and liquidation provisions. Compliant with Uzbekistan Law on LLCs No. 562-II."
+      },
+      {
+        "icon": "📋",
+        "label": "Professional Services Agreement",
+        "prompt": "Draft a professional services agreement between a foreign company (Client) and an Uzbek consulting firm (Service Provider). Include: detailed scope of services, deliverables and acceptance criteria, payment terms (USD, bank transfer within 10 days), invoicing, IP ownership (work-for-hire), liability cap (fees paid), confidentiality, termination (30-day notice), force majeure, governing law (Uzbekistan, ICC arbitration Tashkent seat), and standard boilerplate. Ready-to-sign format."
+      },
+      {
+        "icon": "🌍",
+        "label": "Joint Venture Agreement",
+        "prompt": "Draft a Joint Venture Agreement between a foreign investor (50%) and an Uzbek company (50%) to establish a new LLC in Uzbekistan. Include: purpose and scope, equity contributions, Board of Directors composition (2+2 with independent chair), reserved matters requiring unanimous vote, profit distribution, non-compete and non-solicitation, put/call exit mechanism, tag-along/drag-along rights, deadlock resolution procedure, governing law (Uzbekistan, UNCITRAL arbitration). Comprehensive professional format."
+      },
+      {
+        "icon": "🏗️",
+        "label": "Commercial Lease Agreement",
+        "prompt": "Draft a commercial lease agreement for office/industrial premises in Uzbekistan between a local property owner (Lessor) and a foreign company (Lessee). Include: property description, lease term (5 years with renewal option), monthly rent in USD (with 5% annual escalation), security deposit (3 months), permitted use, fit-out rights and restoration, subletting restrictions, maintenance obligations, insurance, early termination (6-month penalty), and governing law. Professional format."
+      }
+    ],
+    "models": {
+      "claude-sonnet-4-6": "Nuanced legal reasoning with exceptional citation accuracy",
+      "gpt-4o": "Comprehensive legal analysis with strong multilingual capabilities",
+      "gpt-4o-mini": "Fast responses for quick legal queries and document summaries",
+      "gemini-2_5-pro": "Google's most capable model — deep legal reasoning over entire documents",
+      "gemini-2_0-flash": "Ultra-fast multimodal responses for real-time legal queries",
+      "mistral-large": "Top-tier legal reasoning with excellent Russian & Uzbek language support",
+      "llama-3_3-70b": "Open-source powerhouse — blazing fast inference via Groq"
+    },
+    "uploadDoc": "Upload Document",
+    "copyResponse": "Copy",
+    "regenerate": "Regenerate",
+    "features": {
+      "multilingual": "Responds in EN, RU, UZ",
+      "legislation": "Uzbekistan Law Database",
+      "models": "5 AI Models",
+      "streaming": "Real-time Streaming"
+    },
+    "format": {
+      "label": "Format",
+      "auto": "Default",
+      "opinion": "Legal Opinion",
+      "summary": "Exec Summary",
+      "assessment": "Risk Assessment",
+      "opinionDesc": "Facts → Law → Analysis → Conclusion",
+      "summaryDesc": "3–5 bullet points for non-lawyers",
+      "assessmentDesc": "Risk level + mitigations"
+    }
+  },
+  "entityComparison": {
+    "badge": "Decision Tool",
+    "title": "Which Business Structure is Right for You?",
+    "subtitle": "Compare the key parameters of each entity type available to foreign investors in Uzbekistan",
+    "feature": "Parameter",
+    "ctaText": "Not sure which structure fits your investment? Our corporate attorneys will advise you.",
+    "ctaButton": "Get Personalized Advice",
+    "rowLabels": {
+      "minCapital": {
+        "label": "Minimum Capital",
+        "info": "Required share capital at formation"
+      },
+      "foreignOwnership": {
+        "label": "100% Foreign Ownership"
+      },
+      "legalPersonality": {
+        "label": "Separate Legal Entity"
+      },
+      "liability": {
+        "label": "Limited Liability",
+        "info": "Founders / shareholders protected from entity debts"
+      },
+      "canTrade": {
+        "label": "Can Generate Revenue"
+      },
+      "formationTime": {
+        "label": "Formation Timeline"
+      },
+      "taxRate": {
+        "label": "Corporate Income Tax"
+      },
+      "canHireForeign": {
+        "label": "Hire Foreign Employees"
+      },
+      "bankAccount": {
+        "label": "UZS Bank Account"
+      },
+      "fezEligible": {
+        "label": "FEZ / IT Park Eligible"
+      },
+      "registrationBody": {
+        "label": "Registration Authority"
+      },
+      "complexity": {
+        "label": "Setup Complexity"
+      }
+    },
+    "entities": {
+      "llc": {
+        "name": "LLC (Limited Liability Company)",
+        "local": "Mas'uliyati Cheklangan Jamiyat",
+        "short": "LLC"
+      },
+      "jsc": {
+        "name": "JSC (Joint Stock Company)",
+        "local": "Aksiyadorlik Jamiyati",
+        "short": "JSC"
+      },
+      "branch": {
+        "name": "Branch Office",
+        "local": "Filial",
+        "short": "Branch"
+      },
+      "rep": {
+        "name": "Representative Office",
+        "local": "Vakilxona",
+        "short": "Rep."
+      }
+    },
+    "partialLabel": "Partial",
+    "cellStrings": {
+      "minCapital": {
+        "llc": "None (2019 reform)",
+        "jsc": "400× BCA (~$8K)",
+        "branch": "None",
+        "rep": "None"
+      },
+      "formationTime": {
+        "llc": "3–7 days",
+        "jsc": "2–4 weeks",
+        "branch": "4–8 weeks",
+        "rep": "4–8 weeks"
+      },
+      "taxRate": {
+        "llc": "15% (standard)",
+        "jsc": "15% (standard)",
+        "branch": "15%",
+        "rep": "Non-taxable"
+      },
+      "registrationBody": {
+        "llc": "Ministry of Justice",
+        "jsc": "Ministry of Justice",
+        "branch": "Min. of Justice + MFA",
+        "rep": "Min. of Justice + MFA"
+      },
+      "complexity": {
+        "llc": "Low",
+        "jsc": "Medium",
+        "branch": "Medium–High",
+        "rep": "Medium–High"
+      }
+    }
+  },
+  "news": {
+    "title": "Legal News",
+    "subtitle": "Stay current with Uzbekistan's evolving legal and business landscape",
+    "search": "Search news...",
+    "filterAll": "All Topics",
+    "filterBusiness": "Business",
+    "filterLegal": "Legal Updates",
+    "filterEconomy": "Economy",
+    "filterPolitics": "Policy & Regulation",
+    "filterTechnology": "Technology",
+    "filterInvestment": "Investment",
+    "noResults": "No news articles found. Try a different search or filter.",
+    "readFull": "Read Full Article",
+    "source": "Source",
+    "publishedAt": "Published",
+    "loading": "Loading latest news...",
+    "errorLoad": "Failed to load news. Please try again.",
+    "langFilter": "Language",
+    "langAll": "All Languages",
+    "langEn": "English",
+    "langRu": "Russian",
+    "sortBy": "Sort by",
+    "sortNewest": "Newest first",
+    "sortRelevant": "Most relevant"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Clear, authoritative answers to the most common legal questions about doing business in Uzbekistan",
+    "searchPlaceholder": "Search questions...",
+    "noResults": "No questions found matching your search. Try a different keyword or browse by category.",
+    "cta": "Still have questions?",
+    "ctaSubtitle": "Our attorneys are ready to provide precise legal guidance.",
+    "bookConsultation": "Book a Consultation",
+    "categories": {
+      "all": "All Questions",
+      "corporate": "Corporate Law",
+      "investment": "Investment",
+      "labor": "Labor Law",
+      "taxation": "Taxation",
+      "arbitration": "Arbitration",
+      "contract": "Contract Law",
+      "compliance": "Compliance",
+      "realestate": "Real Estate"
+    },
+    "items": [
+      {
+        "category": "corporate",
+        "question": "How do I register a company in Uzbekistan as a foreign entity?",
+        "answer": "Foreign entities can register in Uzbekistan through several legal forms: LLC (Mas'uliyati Cheklangan Jamiyat), JSC (Aksiyadorlik Jamiyati), or a branch/representative office. The process involves submitting articles of association, proof of foreign entity status, bank statements, and paying state duties. Registration typically takes 3–7 business days through the Unified State Register. A branch or representative office requires additional accreditation from the Ministry of Foreign Affairs or Ministry of Justice. We strongly recommend legal assistance to ensure full compliance with all requirements."
+      },
+      {
+        "category": "corporate",
+        "question": "What is the minimum share capital requirement for an LLC in Uzbekistan?",
+        "answer": "As of the 2019 reforms, there is no minimum share capital requirement for LLCs in Uzbekistan. However, the charter capital must be fully contributed within one year of registration. For joint stock companies (JSC), the minimum is 400 times the base settlement amount (BCA) for open JSCs. The charter capital is a key governance parameter — it determines voting rights and profit distribution among participants — so it should be set appropriately for your business scope."
+      },
+      {
+        "category": "corporate",
+        "question": "What are the M&A requirements in Uzbekistan?",
+        "answer": "M&A transactions in Uzbekistan require several regulatory steps: (1) antitrust clearance from the Anti-Monopoly Committee for transactions above statutory thresholds; (2) sector-specific approvals for regulated industries including banking, insurance, and telecommunications; (3) notification to the State Assets Management Agency (SAM) for any privatization-adjacent deals; and (4) potential Foreign Investment Review for transactions in strategic sectors. Comprehensive due diligence covering legal, financial, tax, and environmental aspects is strongly recommended before signing any binding documents."
+      },
+      {
+        "category": "corporate",
+        "question": "How do I convert a representative office to a full LLC in Uzbekistan?",
+        "answer": "Converting a representative office to a fully operational LLC is a multi-step process: (1) formally liquidate the representative office by filing with the Ministry of Justice and completing tax deregistration; (2) register a new LLC under the Law on LLCs (No. 562-II), submitting charter, founder documents, and paying state duty; (3) transfer assets and contracts from the former representative office to the new LLC; (4) re-register all licenses, permits, and regulatory approvals in the LLC's name; (5) open corporate bank accounts and re-register with the tax authority. The entire process typically takes 4–8 weeks. Legal support is essential to avoid gaps in operational continuity."
+      },
+      {
+        "category": "investment",
+        "question": "What are the main requirements for foreign investors in Uzbekistan?",
+        "answer": "Foreign investors in Uzbekistan must comply with the Law on Foreign Investments (1998, as amended through 2019 and subsequent decrees). Key requirements include: registration of the investment vehicle with the Ministry of Justice; obtaining sector-specific licenses for regulated activities (banking, insurance, pharmaceuticals, telecoms); compliance with currency regulations administered by the Central Bank; and adherence to local content requirements in certain extractive and infrastructure sectors. Investors from countries with Bilateral Investment Treaties (BITs) enjoy additional substantive protections including fair and equitable treatment, most-favored-nation status, and access to international arbitration."
+      },
+      {
+        "category": "investment",
+        "question": "What investment incentives exist in Uzbekistan's Free Economic Zones?",
+        "answer": "Uzbekistan's Free Economic Zones (FEZs) offer substantial incentive packages: 0% corporate income tax for 3 to 10 years (depending on investment volume), 0% property tax, 0% land tax, 0% water use tax, preferential import customs duties on equipment and raw materials, and simplified administrative procedures. Key FEZs include Navoi (logistics and manufacturing), Angren (light industry), Jizzakh (automotive and electronics), Urgut (textile and agro-processing), and Nukus (Karakalpakstan industrial cluster). The duration and scope of incentives depend on the FEZ, the investment amount committed, and the target sector."
+      },
+      {
+        "category": "investment",
+        "question": "Does Uzbekistan have Bilateral Investment Treaties (BITs)?",
+        "answer": "Yes. Uzbekistan has signed and ratified BITs with over 50 countries, including Germany, France, the United Kingdom, South Korea, China, Japan, the UAE, Turkey, and most CIS member states. These treaties provide investors with substantive protections: national treatment, most-favored-nation treatment, protection against unlawful expropriation without prompt and adequate compensation, free transfer of returns and capital, and access to investor-state dispute settlement (ISDS) through international arbitration (ICSID, UNCITRAL, or treaty-specific tribunals). The scope of protections varies by treaty — legal review of the applicable BIT before structuring your investment is advisable."
+      },
+      {
+        "category": "investment",
+        "question": "What are the best sectors for foreign investment in Uzbekistan?",
+        "answer": "Uzbekistan's government has designated several priority sectors offering maximum investor support: energy and renewable power (solar, wind, hydroelectric under PPP frameworks); information technology and digital services (IT Park resident benefits apply); manufacturing and localization programs; agri-food processing and export-oriented agriculture; tourism infrastructure; and pharmaceuticals and medical devices. These sectors benefit from state co-investment programs, preferential land allocation, streamlined licensing, and often FEZ-equivalent tax incentives outside of formal zones. The Ministry of Investment and Foreign Trade (MIFT) maintains an active investor support desk."
+      },
+      {
+        "category": "labor",
+        "question": "What are the key provisions of the Labor Code regarding employment contracts?",
+        "answer": "Under Uzbekistan's Labor Code (as amended 2022–2024), all employment contracts must be executed in writing and must include: full identification of both parties, job title and description, place of work, remuneration terms, work schedule, social guarantees, and the contract term. Fixed-term contracts (up to 5 years) require documented justification; otherwise contracts are presumed indefinite. Probationary periods may not exceed 3 months (1 month for blue-collar workers). Employees are entitled to a minimum of 24 working days of annual paid leave. Remote work arrangements have specific provisions following 2023 amendments."
+      },
+      {
+        "category": "labor",
+        "question": "How do foreign nationals obtain work permits in Uzbekistan?",
+        "answer": "Foreign nationals require a work permit (confirmed invitation) issued by the Agency for External Labor Migration under the Ministry of Employment. The employer files the application on behalf of the prospective employee. Required documents include: signed employment contract or draft offer, employer's state registration certificate, employee's passport (notarized translation), diplomas or professional qualifications (apostilled), and a medical health certificate. Standard processing takes 10–15 working days. Annual national quotas apply for certain nationalities and professions. IT Park residents and FEZ companies benefit from simplified and expedited procedures."
+      },
+      {
+        "category": "labor",
+        "question": "What are the rules for terminating employees in Uzbekistan?",
+        "answer": "Employee termination in Uzbekistan is strictly regulated under Article 100 of the Labor Code. Lawful grounds include: workforce reduction (redundancy), employee's systematic failure to perform duties, single gross misconduct, liquidation of the enterprise, and expiry of a fixed-term contract. The employer must provide a minimum of 2 months' written notice for redundancy terminations. Severance pay is mandatory and calculated based on average monthly salary and length of service. Certain categories of employees — pregnant women, employees on parental leave, and trade union representatives — enjoy enhanced dismissal protection. Procedural violations can render a termination unlawful even if the substantive ground exists."
+      },
+      {
+        "category": "labor",
+        "question": "What are employer social contribution obligations in Uzbekistan?",
+        "answer": "Employers in Uzbekistan are required to pay a unified social tax of 25% of the employee's gross salary (for most categories of employers). In addition, mandatory pension contributions apply for both employer and employee. Mandatory health insurance contributions came into force in 2021. For IT Park resident companies, reduced rates apply — employees' personal income tax is capped at 1% instead of the standard 12%. Payroll obligations must be fulfilled monthly, with contributions remitted to the tax authority's designated accounts. Non-compliance attracts significant administrative penalties."
+      },
+      {
+        "category": "taxation",
+        "question": "What are the main tax rates for businesses in Uzbekistan?",
+        "answer": "As of 2024–2025, the principal tax rates in Uzbekistan are: Corporate Income Tax (CIT) — 15% standard rate; Value Added Tax (VAT) — 12%; Social Tax (employer contribution) — 25% of gross payroll; Personal Income Tax — 12% flat rate; Property Tax — 2% of cadastral value; Land Tax — varies by region, type of land, and purpose; Dividend withholding tax — 5% (reduced rates available under DTTs). Small businesses and micro-enterprises may opt for a simplified tax regime. FEZ residents, IT Park companies, and enterprises in designated priority sectors benefit from full or partial exemptions."
+      },
+      {
+        "category": "taxation",
+        "question": "What double taxation treaties does Uzbekistan have?",
+        "answer": "Uzbekistan has concluded Double Taxation Treaties (DTTs) with over 60 countries, including Russia, Germany, China, the United Kingdom, South Korea, the UAE, France, Japan, India, and all CIS member states. These treaties typically reduce or eliminate withholding taxes on dividends (often to 5–10%), interest (often to 5–10%), and royalties (often to 5–10%), and provide relief from double taxation through either exemption or credit methods. The specific rates and provisions vary by treaty. Proper treaty shopping analysis and substance requirements must be addressed to ensure treaty benefits are available."
+      },
+      {
+        "category": "taxation",
+        "question": "What are the IT Park tax benefits in Uzbekistan?",
+        "answer": "Uzbekistan Technology Park (IT Park) residents enjoy a uniquely attractive tax package: 0% Corporate Income Tax (CIT) on qualifying IT activities, 0% VAT on software development and IT services exported or provided domestically, a reduced Personal Income Tax rate of 1% for accredited IT employees (versus the standard 12%), 0% customs duties on imported IT equipment, and 0% social tax obligations. These benefits are available to IT companies that obtain IT Park resident status, which requires accreditation, a minimum headcount of qualified IT specialists, and generation of qualifying IT revenues. The benefits are currently extended through 2028."
+      },
+      {
+        "category": "taxation",
+        "question": "How does transfer pricing work in Uzbekistan?",
+        "answer": "Uzbekistan introduced formal transfer pricing rules in 2022. Transactions between related parties (defined by ownership thresholds of 25% or more, or effective management control) are subject to the arm's length principle. The Tax Code establishes a 20% deviation rule: if the price of a controlled transaction deviates by more than 20% from market price, the tax authority may adjust taxable income accordingly. Taxpayers engaging in significant related-party transactions must maintain contemporaneous transfer pricing documentation. Advance pricing agreements (APAs) are available in principle. The rules are modelled on OECD guidelines but enforcement is still developing — careful documentation remains the primary risk mitigation tool."
+      },
+      {
+        "category": "arbitration",
+        "question": "How does commercial arbitration work in Uzbekistan?",
+        "answer": "Uzbekistan has a modern arbitration framework based on the UNCITRAL Model Law on International Commercial Arbitration. The principal domestic arbitration institutions are: the International Commercial Arbitration Court (ICAC) at the Uzbek Chamber of Commerce and Industry, and the Tashkent International Arbitration Centre (TIAC). Uzbekistan acceded to the New York Convention on Recognition and Enforcement of Foreign Arbitral Awards in 1996, making foreign arbitral awards enforceable in Uzbekistan courts. Parties may also designate ICC, LCIA, SIAC, or VIAC as arbitral institutions, or opt for ad hoc UNCITRAL arbitration. Arbitration clauses in commercial contracts are judicially respected."
+      },
+      {
+        "category": "arbitration",
+        "question": "Can I enforce a foreign court judgment in Uzbekistan?",
+        "answer": "Enforcement of foreign court judgments (as distinct from arbitral awards) in Uzbekistan requires the existence of a bilateral treaty on legal assistance between Uzbekistan and the country of the rendering court. Uzbekistan has such treaties with Russia, China, and several CIS states, but not with most Western countries. In the absence of a treaty, foreign court judgments are generally not directly enforceable and the claimant would need to re-litigate on the merits in Uzbek courts. By contrast, foreign arbitral awards are enforceable under the New York Convention without a bilateral treaty, which is why international arbitration clauses are strongly recommended in cross-border contracts."
+      },
+      {
+        "category": "arbitration",
+        "question": "What is the statute of limitations for commercial claims in Uzbekistan?",
+        "answer": "The general statute of limitations for civil and commercial claims in Uzbekistan is 3 years, as established by the Civil Code of the Republic of Uzbekistan. The limitation period begins running from the date on which the claimant knew, or ought reasonably to have known, of the violation of their right and of the identity of the appropriate respondent. Certain specialized claims carry different limitation periods: for example, transport damage claims (1 year), claims under insurance contracts (2 years), and disputes arising from export contracts may be governed by the CISG or other international instruments with their own prescription rules. Parties may not contractually shorten the statutory limitation period, but may agree to extend it."
+      },
+      {
+        "category": "contract",
+        "question": "What makes a contract valid under Uzbekistan law?",
+        "answer": "Under the Civil Code of Uzbekistan, a contract is valid when it contains: an offer (clear proposal with essential terms), acceptance (unconditional agreement), and lawful consideration (cause of obligation). The parties must have legal capacity. For certain categories of contracts, additional formal requirements apply: contracts with a value exceeding 100 times the base calculation amount (BCA) must be in written form; real estate transactions, mortgage agreements, and marriage contracts require notarization and, in the case of real property, state registration. Digital (electronic) contracts are recognized under Uzbekistan's Law on Electronic Commerce provided the parties consent to electronic form."
+      },
+      {
+        "category": "contract",
+        "question": "What are the key differences between Uzbekistan contract law and CISG/UNIDROIT Principles?",
+        "answer": "Uzbekistan's contract law is codified in Chapters 26–28 of the Civil Code and is influenced by the Soviet legal tradition and continental European civil law. The UN Convention on Contracts for the International Sale of Goods (CISG) automatically applies to international sale of goods contracts between Uzbekistan and other CISG member states, unless expressly excluded. The UNIDROIT Principles of International Commercial Contracts may be incorporated by party agreement as a soft law framework. Key practical differences: Uzbek Civil Code's force majeure definition is broader and less predictably applied than CISG Article 79; Uzbek law requires written form for higher-value contracts while CISG does not; and the Civil Code allows for judicial price adjustment in cases of changed circumstances (rebus sic stantibus), which has no direct CISG equivalent."
+      },
+      {
+        "category": "contract",
+        "question": "How are unfair contract terms treated in Uzbekistan?",
+        "answer": "Uzbekistan law distinguishes between consumer contracts and commercial (B2B) contracts. In consumer contracts, terms that create a significant imbalance in the parties' rights and obligations to the detriment of the consumer are void as contrary to consumer protection legislation. In commercial contracts between businesses, the caveat emptor principle generally applies — sophisticated parties are expected to negotiate their contracts, and courts are reluctant to rewrite commercial terms. However, the Civil Code imposes an overarching duty of good faith on contracting parties (Article 8), and terms that are contrary to mandatory law, public order, or morality are void regardless of the parties' agreement. Penalty clauses may be judicially reduced if found to be manifestly disproportionate."
+      },
+      {
+        "category": "compliance",
+        "question": "What anti-corruption laws apply to foreign businesses in Uzbekistan?",
+        "answer": "Foreign businesses operating in Uzbekistan are subject to the Law on Anti-Corruption (2017), which prohibits offering, giving, or receiving bribes to or from public officials, and mandates that companies establish internal anti-corruption controls. The permissible gift threshold for dealing with public officials is strictly limited. In addition, Uzbekistan's AML/CFT framework — governed by Law No. 560 on Countering Legalization of Proceeds from Crime — imposes Know Your Customer (KYC) and suspicious transaction reporting obligations. Foreign companies with US nexus remain subject to the FCPA; those with UK nexus to the UK Bribery Act. R-Legal recommends a dedicated compliance program including due diligence on counterparties, agents, and distributors before commencing operations."
+      },
+      {
+        "category": "compliance",
+        "question": "What are currency control requirements for foreign businesses in Uzbekistan?",
+        "answer": "Uzbekistan's currency control regime, administered by the Central Bank under the Law on Currency Regulation, requires that all foreign currency transactions be conducted through licensed authorized banks. Foreign investors may repatriate profits, dividends, and the proceeds of liquidation in freely convertible currency after payment of applicable taxes. Currency accounts for foreign legal entities may be maintained in both UZS (Uzbek Som) and USD/EUR. Certain transactions — particularly large capital account operations — require prior authorization or notification. Repatriation of export earnings is subject to mandatory conversion requirements. Since 2017 liberalization reforms, Uzbekistan significantly simplified the currency regime, but compliance documentation for cross-border payments remains obligatory."
+      },
+      {
+        "category": "realestate",
+        "question": "Can foreigners own real estate in Uzbekistan?",
+        "answer": "Foreign nationals and foreign legal entities are prohibited from owning land in Uzbekistan — land is state-owned and may only be allocated on a use-right basis. However, foreigners can legally own buildings, structures, and other immovable property (excluding the land underneath). Long-term land use rights (leasehold) are available for terms of up to 49 years and are registrable in the State Cadastre. In Free Economic Zones, special land allocation terms apply to FEZ residents for the duration of their FEZ status. Foreign companies operating through an Uzbek LLC may hold land use rights through that local entity. Real estate transactions involving foreign parties require notarization and state registration to be legally effective."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Trusted by international investors and leading enterprises across Central Asia",
+    "items": [
+      {
+        "name": "Klaus Bauer",
+        "role": "CEO, Bauer Industrietechnik GmbH",
+        "country": "Germany",
+        "text": "R-Legal guided us through a complex joint venture registration in Uzbekistan with exceptional professionalism. Their deep knowledge of local regulations and international standards gave us full confidence throughout the process."
+      },
+      {
+        "name": "Yoon Ji-young",
+        "role": "Head of Legal, KoreaTech Investments",
+        "country": "South Korea",
+        "text": "We've worked with several law firms in the region, but R-Legal stands apart. Their AI-powered research tools and multilingual team made our FDI structuring seamless and cost-effective."
+      },
+      {
+        "name": "Ahmed Al-Rashid",
+        "role": "Managing Director, Gulf Capital Partners",
+        "country": "UAE",
+        "text": "When a contractual dispute threatened a major project, R-Legal's litigation team resolved it through skilled arbitration in record time. I cannot recommend them highly enough."
+      },
+      {
+        "name": "Maria Sokolova",
+        "role": "CFO, RosExport Trading",
+        "country": "Russia",
+        "text": "Their labor law practice helped us navigate Uzbekistan's 2024 Labor Code amendments smoothly. All our work permits, employment contracts and HR compliance were handled expertly."
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Legal Intelligence, Delivered",
+    "subtitle": "Subscribe to receive monthly updates on Uzbekistan legal changes, investment opportunities, and regulatory alerts.",
+    "placeholder": "Your email address",
+    "button": "Subscribe",
+    "success": "Subscribed! You'll receive your first digest shortly.",
+    "disclaimer": "No spam. Unsubscribe anytime. We respect your privacy."
+  },
+  "resources": {
+    "title": "Legal Resources",
+    "subtitle": "Official legislation, authoritative guides, and analytical tools for investors and businesses operating in Uzbekistan",
+    "filterAll": "All Resources",
+    "filterGuides": "Guides",
+    "filterTemplates": "Templates",
+    "filterLegislation": "Legislation",
+    "filterReports": "Reports",
+    "filterTools": "Tools",
+    "download": "View Source",
+    "downloadFree": "Free Access",
+    "readOnline": "Read Online",
+    "pages": "pages",
+    "updated": "Updated",
+    "visitSource": "Visit Official Source",
+    "cta": "Need a Custom Legal Guide?",
+    "ctaSubtitle": "Our attorneys prepare bespoke legal memoranda for your specific situation.",
+    "requestResearch": "Request Custom Research",
+    "items": [
+      {
+        "category": "legislation",
+        "title": "Uzbekistan Civil Code",
+        "description": "Full text of the Civil Code of Uzbekistan (English/Russian/Uzbek). Governs contracts, property, obligations, corporate entities.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/111181"
+      },
+      {
+        "category": "legislation",
+        "title": "Uzbekistan Tax Code 2024",
+        "description": "Official Tax Code with 2024 amendments — CIT, VAT, social tax, excise duties, FEZ provisions and exemptions.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/4674902"
+      },
+      {
+        "category": "legislation",
+        "title": "Labor Code of Uzbekistan",
+        "description": "Full Labor Code with 2024 amendments — employment contracts, termination grounds, leave entitlements, work permits.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/3271086"
+      },
+      {
+        "category": "legislation",
+        "title": "Law on Foreign Investments",
+        "description": "Core FDI legislation governing foreign investor rights, guarantees, and restrictions in Uzbekistan.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/144688"
+      },
+      {
+        "category": "legislation",
+        "title": "Law on LLCs (Mas'uliyati Cheklangan Jamiyat)",
+        "description": "Governing legislation for limited liability companies — formation, charter, management, liquidation procedures.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz/docs/163015"
+      },
+      {
+        "category": "guides",
+        "title": "FDI Registration Guide — invest.gov.uz",
+        "description": "Official step-by-step guide to registering foreign direct investment in Uzbekistan, from the national investment portal.",
+        "pages": 0,
+        "free": true,
+        "url": "https://invest.gov.uz/en/investing-in-uzbekistan/business-registration/"
+      },
+      {
+        "category": "guides",
+        "title": "Free Economic Zones Investor Handbook",
+        "description": "Official FEZ portal with tax incentives, zone locations, application procedures and sector-specific opportunities.",
+        "pages": 0,
+        "free": true,
+        "url": "https://fez.uz"
+      },
+      {
+        "category": "guides",
+        "title": "Business Registration Portal (myjuridical.uz)",
+        "description": "State portal for electronic company registration, document submission and license applications in Uzbekistan.",
+        "pages": 0,
+        "free": true,
+        "url": "https://myjuridical.uz"
+      },
+      {
+        "category": "guides",
+        "title": "Work Permit & Visa Guide (mehnat.uz)",
+        "description": "Official portal of the Agency for External Labor Migration — work permit applications, quotas, and procedures for employers.",
+        "pages": 0,
+        "free": true,
+        "url": "https://mehnat.uz"
+      },
+      {
+        "category": "guides",
+        "title": "Customs Procedures Guide",
+        "description": "State Customs Committee of Uzbekistan — import/export procedures, tariff schedules, and customs valuation rules.",
+        "pages": 0,
+        "free": true,
+        "url": "https://customs.uz/en"
+      },
+      {
+        "category": "reports",
+        "title": "Doing Business in Uzbekistan — World Bank Profile",
+        "description": "World Bank's regulatory environment data for Uzbekistan — starting business, registering property, enforcing contracts.",
+        "pages": 0,
+        "free": true,
+        "url": "https://data.worldbank.org/country/uzbekistan"
+      },
+      {
+        "category": "reports",
+        "title": "OECD Uzbekistan Economic Survey",
+        "description": "OECD's economic and regulatory assessment of Uzbekistan covering investment climate, governance, and reforms.",
+        "pages": 0,
+        "free": true,
+        "url": "https://www.oecd.org/countries/uzbekistan/"
+      },
+      {
+        "category": "reports",
+        "title": "EBRD Uzbekistan Country Profile",
+        "description": "European Bank for Reconstruction and Development legal and business environment assessment for Uzbekistan.",
+        "pages": 0,
+        "free": true,
+        "url": "https://www.ebrd.com/uzbekistan.html"
+      },
+      {
+        "category": "tools",
+        "title": "Tax Calculator — soliq.uz",
+        "description": "Official Tax Committee portal with tax liability calculators, e-filing, tax rates and reporting deadlines.",
+        "pages": 0,
+        "free": true,
+        "url": "https://soliq.uz"
+      },
+      {
+        "category": "tools",
+        "title": "Uzbekistan Legal Database (lex.uz)",
+        "description": "Comprehensive official database of all Uzbekistan legislation, decrees, and regulations — searchable in UZ/RU/EN.",
+        "pages": 0,
+        "free": true,
+        "url": "https://lex.uz"
+      },
+      {
+        "category": "tools",
+        "title": "Investment Portal — invest.gov.uz",
+        "description": "National Investment Promotion Agency portal with sector data, incentive maps, and investor support services.",
+        "pages": 0,
+        "free": true,
+        "url": "https://invest.gov.uz"
+      },
+      {
+        "category": "legislation",
+        "title": "UNCITRAL Arbitration Rules",
+        "description": "UNCITRAL Model Law and Arbitration Rules used in international commercial arbitration — applicable in Uzbekistan.",
+        "pages": 0,
+        "free": true,
+        "url": "https://uncitral.un.org/en/texts/arbitration/modellaw/commercial_arbitration"
+      },
+      {
+        "category": "reports",
+        "title": "Bilateral Investment Treaties — UNCTAD Database",
+        "description": "UNCTAD's comprehensive database of all Uzbekistan BITs with full treaty texts and ISDS case history.",
+        "pages": 0,
+        "free": true,
+        "url": "https://investmentpolicy.unctad.org/international-investment-agreements/countries/222/uzbekistan"
+      }
+    ]
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Customize your experience on R-Legal Practice",
+    "language": "Interface Language",
+    "languageDesc": "Choose your preferred language for the platform",
+    "theme": "Display Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System Default",
+    "notifications": "Email Notifications",
+    "notificationsDesc": "Receive alerts for new legal updates and regulatory changes",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Monthly legal intelligence digest",
+    "save": "Save Settings",
+    "saved": "Settings saved successfully",
+    "privacy": "Privacy",
+    "privacyDesc": "Manage your data and cookie preferences",
+    "manageCookies": "Manage Cookies"
+  },
+  "cookie": {
+    "message": "We use cookies to enhance your experience and analyze site traffic. By continuing, you consent to our use of cookies.",
+    "accept": "Accept All",
+    "decline": "Decline",
+    "learnMore": "Privacy Policy",
+    "customize": "Customize"
+  },
+  "breadcrumb": {
+    "home": "Home"
+  },
+  "contact": {
+    "title": "Begin the Conversation",
+    "subtitle": "Tell us about your legal matter. Our team responds within 24 hours.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "company": "Company / Organization",
+      "companyPlaceholder": "Your company name",
+      "email": "Email Address",
+      "emailPlaceholder": "your@company.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+998 XX XXX XX XX",
+      "service": "Service Area",
+      "servicePlaceholder": "Select a practice area",
+      "message": "Describe Your Matter",
+      "messagePlaceholder": "Please describe your legal needs, timeline, and any relevant context...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Message sent. We will contact you within 24 hours.",
+      "error": "Something went wrong. Please try again or email us directly."
+    },
+    "info": {
+      "phone": "+998 90 825 08 78",
+      "email": "rlegalpractice@gmail.com",
+      "address": "Tashkent, Republic of Uzbekistan",
+      "hours": "Mon–Fri: 9:00–18:00 (UTC+5)",
+      "emergency": "For urgent matters, call directly"
+    }
+  },
+  "footer": {
+    "tagline": "Precision law for global ambitions. Serving Uzbekistan and international clients since 2010.",
+    "services": "Services",
+    "company": "Company",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "disclaimer": "Legal Disclaimer",
+    "rights": "All rights reserved.",
+    "builtBy": "Built with precision by Oxforder LLC"
+  },
+  "meta": {
+    "homeTitle": "R-Legal Practice | Premier Law Firm in Uzbekistan",
+    "homeDesc": "Top-tier legal counsel for international investors, corporations, and entrepreneurs in Uzbekistan. Corporate law, FDI, litigation, and more.",
+    "servicesTitle": "Legal Services | R-Legal Practice",
+    "aiAdvisorTitle": "AI Legal Advisor | R-Legal Practice",
+    "contactTitle": "Contact Us | R-Legal Practice",
+    "newsTitle": "Legal News | R-Legal Practice",
+    "faqTitle": "FAQ | R-Legal Practice",
+    "resourcesTitle": "Legal Resources | R-Legal Practice",
+    "settingsTitle": "Settings | R-Legal Practice",
+    "caseLawTitle": "Case Law Research | R-Legal Practice"
+  },
+  "caseLaw": {
+    "label": "Research Tool",
+    "title": "US Case Law Research",
+    "subtitle": "Search US federal and state court opinions relevant to international arbitration, investment treaty disputes, foreign judgment enforcement, and cross-border commercial litigation.",
+    "disclaimer": "This tool searches US court opinions via CourtListener (Free Law Project). Results are for research purposes only and do not constitute legal advice. For Uzbekistan-specific legal guidance, consult our attorneys.",
+    "searchPlaceholder": "Search cases (e.g. \"Uzbekistan BIT arbitration\", \"FCPA enforcement\", \"foreign judgment\")...",
+    "filters": "Filters",
+    "courtFilter": "Court",
+    "sortBy": "Sort By",
+    "search": "Search",
+    "suggestedSearches": "Suggested Searches",
+    "resultsCount": "{count} results for \"{query}\"",
+    "noResults": "No cases found. Try a different query or broaden your search.",
+    "page": "Page",
+    "poweredBy": "Powered by",
+    "info1Title": "International Arbitration Precedents",
+    "info1Desc": "Research US court decisions on investment treaty arbitration, enforcement of ICC/LCIA/UNCITRAL awards, and sovereign immunity doctrines.",
+    "info2Title": "Cross-Border Enforcement",
+    "info2Desc": "Find cases on enforcement of foreign judgments, New York Convention applications, and commercial disputes with Central Asian nexus.",
+    "info3Title": "FCPA & Sanctions Research",
+    "info3Desc": "Access precedents on FCPA enforcement, OFAC sanctions compliance, and anti-corruption cases involving Uzbekistan and the broader CIS region."
+  },
+  "privacyPage": {
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "title": "1. Information We Collect",
+        "body": "We collect information you provide when contacting us through our website forms, including your name, email address, phone number, company name, and the nature of your legal inquiry. We also automatically collect certain technical data such as your IP address, browser type, and pages visited when you use our website."
+      },
+      {
+        "title": "2. How We Use Your Information",
+        "body": "We use your personal information to: respond to your legal inquiries and consultation requests; send you legal intelligence updates and newsletters (if you have subscribed); improve our website and services; comply with our legal and regulatory obligations; and protect the rights and property of R-Legal Practice and its clients."
+      },
+      {
+        "title": "3. Legal Basis for Processing (GDPR)",
+        "body": "For users in the European Economic Area, we process personal data under the following legal bases: performance of a contract (responding to your inquiry); legitimate interests (improving our services, preventing fraud); your consent (marketing communications, cookies); and legal obligations (record-keeping, compliance)."
+      },
+      {
+        "title": "4. Cookies",
+        "body": "Our website uses cookies to enhance your browsing experience and analyze site traffic. We use strictly necessary cookies (required for site functionality), performance cookies (analytics), and preference cookies (remembering your language settings). You can manage cookie preferences through our cookie banner or your browser settings."
+      },
+      {
+        "title": "5. Data Sharing",
+        "body": "We do not sell, rent, or trade your personal information to third parties. We may share your data with trusted service providers who assist us in operating our website, with your consent, or where required by law. All third-party providers are contractually bound to handle your data securely."
+      },
+      {
+        "title": "6. Data Retention",
+        "body": "We retain personal data for as long as necessary to fulfill the purposes for which it was collected. Inquiry data is retained for 5 years. Analytics data is retained for 24 months. You may request deletion of your data at any time."
+      },
+      {
+        "title": "7. Your Rights",
+        "body": "Under applicable data protection laws, you have the right to: access your personal data; correct inaccurate data; request deletion; object to processing; request restriction; data portability; and withdraw consent. Contact us at rlegalpractice@gmail.com."
+      },
+      {
+        "title": "8. Security",
+        "body": "We implement industry-standard security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. These include encryption, access controls, and regular security assessments."
+      },
+      {
+        "title": "9. International Transfers",
+        "body": "Your data may be transferred to and processed in countries outside your jurisdiction. When we transfer data internationally, we ensure appropriate safeguards are in place, including standard contractual clauses approved by relevant data protection authorities."
+      },
+      {
+        "title": "10. Contact Us",
+        "body": "If you have questions about this Privacy Policy or our data practices, please contact us at: R-Legal Practice, Tashkent, Republic of Uzbekistan. Email: rlegalpractice@gmail.com. Phone: +998 90 825 08 78."
+      }
+    ]
+  },
+  "servicesPage": {
+    "whatWeCover": "What We Cover",
+    "keyAreas": "Key Areas",
+    "whyRlegal": "Why R-Legal",
+    "getExpertAdvice": "Get Expert Advice",
+    "scheduleConsult": "Schedule a confidential consultation with our specialists.",
+    "otherPracticeAreas": "Other Practice Areas",
+    "whyPoints": [
+      "Deep knowledge of Uzbekistan's regulatory landscape and local practice",
+      "Multilingual team fluent in EN, RU, UZ, and Karakalpak",
+      "Track record advising international investors across 50+ jurisdictions",
+      "Direct relationships with key government agencies and regulators",
+      "AI-powered research and document review for faster turnaround"
+    ]
+  },
+  "tools": {
+    "badge": "Legal Tools",
+    "title": "Legal Deadline Calculator",
+    "subtitle": "Calculate key legal deadlines under Uzbekistan law. Enter your event date and select the event type — we'll generate all applicable deadlines with legal references.",
+    "eventType": "Event Type",
+    "eventDate": "Event Date",
+    "selectPlaceholder": "Select event type...",
+    "calculate": "Calculate Deadlines",
+    "disclaimer": "This calculator provides indicative deadlines for informational purposes only. Legal deadlines vary by contract terms, applicable law, and specific facts. Always consult an attorney before relying on these dates.",
+    "quickRef": "Quick Reference",
+    "copyAll": "Copy All Results",
+    "copied": "Copied!",
+    "pastLabel": "Past",
+    "todayLabel": "Today!",
+    "ctaTitle": "Need Legal Advice on These Deadlines?",
+    "ctaSubtitle": "These are indicative dates only. Our attorneys can advise on exact deadlines and legal strategy for your specific situation.",
+    "ctaBtn": "Book a Consultation",
+    "eventTypes": {
+      "contractSigned": "Contract Signed",
+      "disputeArose": "Commercial Dispute Arose",
+      "employeeTerminated": "Employee Terminated",
+      "companyRegistered": "Company Registered",
+      "propertyTransaction": "Property Transaction Agreed",
+      "taxPeriodEnd": "Tax Period End (Quarter)",
+      "arbitrationAward": "Arbitration Award Issued"
+    },
+    "quickRefItems": [
+      {
+        "period": "3 years",
+        "label": "General civil/commercial limitation period",
+        "citation": "CC Art. 150"
+      },
+      {
+        "period": "1 year",
+        "label": "Transport damage claims",
+        "citation": "CC Art. 735"
+      },
+      {
+        "period": "2 years",
+        "label": "Insurance contract disputes",
+        "citation": "CC Art. 930"
+      },
+      {
+        "period": "30 days",
+        "label": "Employee wrongful dismissal claim",
+        "citation": "LC Art. 264"
+      },
+      {
+        "period": "3 days",
+        "label": "Final wage payment after termination",
+        "citation": "LC Art. 163"
+      },
+      {
+        "period": "20 days",
+        "label": "VAT return filing after quarter end",
+        "citation": "TC Art. 273"
+      }
+    ]
+  }
+}
