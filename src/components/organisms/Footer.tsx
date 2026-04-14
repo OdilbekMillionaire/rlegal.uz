@@ -85,9 +85,6 @@ export function Footer() {
             <div className="w-5 h-px bg-gold mb-5" />
             <ul className="space-y-3">
               {[
-                { label: t("nav.team"), href: "/team" as const },
-                { label: t("nav.caseStudies"), href: "/case-studies" as const },
-                { label: t("nav.insights"), href: "/insights" as const },
                 { label: t("nav.faq"), href: "/faq" as const },
                 { label: t("nav.resources"), href: "/resources" as const },
                 { label: t("nav.contact"), href: "/contact" as const },

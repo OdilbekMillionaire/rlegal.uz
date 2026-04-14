@@ -12,10 +12,6 @@ import { Link, usePathname } from "@/i18n/navigation";
 
 const NAV_LINKS = [
   { key: "services", href: "/services" as const },
-  { key: "caseStudies", href: "/case-studies" as const },
-  { key: "team", href: "/team" as const },
-  { key: "insights", href: "/insights" as const },
-  { key: "news", href: "/news" as const },
   { key: "aiAdvisor", href: "/ai-advisor" as const },
   { key: "contact", href: "/contact" as const },
 ] as const;
